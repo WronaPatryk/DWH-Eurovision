@@ -10,7 +10,7 @@ id;country;continent_part;continents;continent
 9;Bosnia and Herzegovina;Southern Europe;Europe;Europe
 10;Bulgaria;Southeast Europe;Europe;Europe
 11;Croatia;Southeast Europe;Europe;Europe
-12;Cyprus;Eastern Europe;Europe & Asia;Europe
+12;Cyprus;Western Asia;Europe & Asia;Europe
 13;Czech Republic;Central Europe;Europe;Europe
 14;Denmark;Northern Europe;Europe;Europe
 15;Estonia;Northern Europe;Europe;Europe
@@ -24,8 +24,8 @@ id;country;continent_part;continents;continent
 23;Ireland;Northwestern Europe;Europe;Europe
 24;Israel;Western Asia;Europe & Asia;Asia
 25;Italy;Southern Europe;Europe;Europe
-26;Latvia;Northern Europe;Europe;Europe
-27;Lithuania;Northern Europe;Europe;Europe
+26;Latvia;Eastern Europe;Europe;Europe
+27;Lithuania;Eastern Europe;Europe;Europe
 28;Luxembourg;Western Europe;Europe;Europe
 29;Malta;Southern Europe;Europe;Europe
 30;Moldova;Eastern Europe;Europe;Europe
@@ -48,6 +48,6 @@ id;country;continent_part;continents;continent
 47;Sweden;Northern Europe;Europe;Europe
 48;Switzerland;Western Europe;Europe;Europe
 49;Turkey;Western Asia;Europe & Asia;Asia
-50;Europe;Eastern Europe;Europe;Europe
+50;Ukraine;Eastern Europe;Europe;Europe
 51;United Kingdom;Northwestern Europe;Europe;Europe
 52;Yugoslavia;Southeast Europe;Europe;Europe

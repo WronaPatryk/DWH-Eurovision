@@ -1,4 +1,4 @@
-Year,Country id,Country,Artist,Song,Overall place,Which semifinal,Final running order,Semifinal running order,Final place,Final points,Semifinal place,Semifinal points,Final televoting points,Final jury points,Semifinal televoting points,Semifinal jury points,Lyrics
+Year,Country id,Country,Artist,Song,Overall place,Which semifinal,Final running order,Semifinal running order,Final place,Final points,Semifinal place,Semifinal points,Final televoting points,Final jury points,Semifinal televoting points,Semifinal jury points,Lyrics length
 1975,nl,Netherlands,Teach-In,Ding-A-Dong,1.0,,1.0,,1.0,152.0,,,,,,,1691
 1975,gb,United Kingdom,The Shadows,Let Me Be The One,2.0,,9.0,,2.0,138.0,,,,,,,1363
 1975,it,Italy,Wess & Dori Ghezzi,Era,3.0,,19.0,,3.0,115.0,,,,,,,1070
@@ -1273,44 +1273,3 @@ Year,Country id,Country,Artist,Song,Overall place,Which semifinal,Final running 
 2019,Finland,Finland,Darude feat. Sebastian Rejman,Look Away,39.0,1.0,,3.0,,,17.0,23.0,,,14.0,9.0,1206
 2019,Austria,Austria,Pænda,Limits,40.0,2.0,,9.0,,,17.0,21.0,,,0.0,21.0,1157
 2019,Ireland,Ireland,Sarah McTernan,22,41.0,2.0,,2.0,,,18.0,16.0,,,3.0,13.0,1502
-2020,fr,France,Tom Leeb,The Best in Me,,,,,,,,,,,,,1197
-2020,de,Germany,Ben Dolic,Violent Thing,,,,,,,,,,,,,2137
-2020,it,Italy,Diodato,Fai rumore,,,,,,,,,,,,,1208
-2020,nl,Netherlands,Jeangu Macrooy,Grow,,,23.0,,,,,,,,,,1172
-2020,es,Spain,Blas Cantó,Universo,,,,,,,,,,,,,1289
-2020,gb,United Kingdom,James Newman,My Last Breath,,,,,,,,,,,,,1070
-2020,Australia,Australia,Montaigne,Don't Break Me,,1.0,,,,,,,,,,,1525
-2020,Belarus,Belarus,VAL,Da vidna,,1.0,,,,,,,,,,,1068
-2020,Ireland,Ireland,Lesley Roy,Story Of My Life,,1.0,,,,,,,,,,,1759
-2020,Lithuania,Lithuania,The Roop,On Fire,,1.0,,,,,,,,,,,864
-2020,North Macedonia,Macedonia,Vasil,You,,1.0,,,,,,,,,,,1180
-2020,Russia,Russia,Little Big,Uno,,1.0,,,,,,,,,,,1893
-2020,Slovenia,Slovenia,Ana Soklič,Voda,,1.0,,,,,,,,,,,703
-2020,Sweden,Sweden,The Mamas,Move,,1.0,,,,,,,,,,,1779
-2020,Azerbaijan,Azerbaijan,Samira Efendi,Cleopatra,,1.0,,,,,,,,,,,1973
-2020,Belgium,Belgium,Hooverphonic,Release Me,,1.0,,,,,,,,,,,1313
-2020,Croatia,Croatia,Damir Kedžo,Divlji vjetre,,1.0,,,,,,,,,,,956
-2020,Cyprus,Cyprus,Sandro Nicolas,Running,,1.0,,,,,,,,,,,966
-2020,Israel,Israel,Eden Alene,Feker Libi,,1.0,,,,,,,,,,,2150
-2020,Malta,Malta,Destiny,All Of My Love,,1.0,,,,,,,,,,,1969
-2020,Norway,Norway,Ulrikke Brandstorp,Attention,,1.0,,,,,,,,,,,1016
-2020,Romania,Romania,Roxen,Alcohol You,,1.0,,,,,,,,,,,1232
-2020,Ukraine,Ukraine,Go_A,Solovey,,1.0,,,,,,,,,,,1078
-2020,at,Austria,Vincent Bueno,Alive,,2.0,,,,,,,,,,,1473
-2020,cz,Czech Republic,Benny Cristo,Kemama,,2.0,,,,,,,,,,,1955
-2020,ee,Estonia,Uku Suviste,What Love Is,,2.0,,,,,,,,,,,1193
-2020,gr,Greece,Stefania,Superg!rl​,,2.0,,,,,,,,,,,1702
-2020,is,Iceland,Daði & Gagnamagnið,Think About Things,,2.0,,,,,,,,,,,1248
-2020,md,Moldova,Natalia Gordienko,Prison,,2.0,,,,,,,,,,,1002
-2020,pl,Poland,Alicja Szemplińska,Empires,,2.0,,,,,,,,,,,868
-2020,sm,San Marino,Senhit,Freaky!,,2.0,,,,,,,,,,,2087
-2020,rs,Serbia,Hurricane,Hasta la vista,,2.0,,,,,,,,,,,1829
-2020,al,Albania,Arilena Ara,Fall From The Sky,,2.0,,,,,,,,,,,1192
-2020,am,Armenia,Athena Manoukian,Chains On You,,2.0,,,,,,,,,,,2245
-2020,bg,Bulgaria,Victoria,Tears Getting Sober,,2.0,,,,,,,,,,,884
-2020,dk,Denmark,Ben & Tan,Yes,,2.0,,,,,,,,,,,1695
-2020,fi,Finland,Aksel Kankaanranta,Looking Back,,2.0,,,,,,,,,,,1430
-2020,ge,Georgia,Tornike Kipiani,Take Me As I Am,,2.0,,,,,,,,,,,877
-2020,lv,Latvia,Samanta Tīna,Still Breathing,,2.0,,,,,,,,,,,1648
-2020,pt,Portugal,Elisa,Medo de sentir,,2.0,,,,,,,,,,,1102
-2020,ch,Switzerland,Gjon's Tears,Répondez-moi,,2.0,,,,,,,,,,,960

@@ -18,8 +18,22 @@ for(i in 1:nrow(df)){
   df$birthday[i] <- aux[3]
   
 }
-df$birthday <- as.numeric(df$birthday)
-df$birthmonth <- as.numeric(df$birthmonth)
+df$birthday <- as.integer(df$birthday)
+df$birthmonth <- as.integer(df$birthmonth)
+df$birthyear <- as.integer(df$birthyear)
 
-write.csv2(df, "jury.csv", row.names = F)
+
+male_count <- df %>% filter(gender == "male") %>% group_by(year, country_of_jury) %>% summarise(male_count = n())
+df <- df %>% mutate(age = year - birthyear)
+mean_age <- df %>% group_by(year, country_of_jury) %>% summarise(mean_age = mean(age))
+
+res <- male_count
+res$mean_age <- mean_age$mean_age
+
+write.csv2(res, "jury.csv", row.names = F)
+
+
+
+
+
 

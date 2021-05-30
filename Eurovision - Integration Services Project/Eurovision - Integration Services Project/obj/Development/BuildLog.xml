@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>Eurovision - Integration Services Project</Name>
-    <LastWriteTime>2021-05-16T11:15:28.8855711Z</LastWriteTime>
+    <LastWriteTime>2021-05-30T17:38:05.9753609Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -13,7 +13,7 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>WebScraping.dtsx</Name>
-      <LastWriteTime>2021-05-16T11:15:28.6342534Z</LastWriteTime>
+      <LastWriteTime>2021-05-30T17:38:04.6064695Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

@@ -7,106 +7,23 @@
   DTS:CreatorName="LAPTOP-J0PLFV1F\Patryk"
   DTS:DTSID="{C5182D19-1E21-4F36-8EBC-DF77A986DDF1}"
   DTS:ExecutableType="Microsoft.Package"
-  DTS:LastModifiedProductVersion="15.0.2000.157"
+  DTS:LastModifiedProductVersion="15.0.2000.152"
   DTS:LocaleID="1045"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionBuild="30"
-  DTS:VersionGUID="{E99A5432-574D-4287-B5D5-F3AD86828EE4}">
+  DTS:VersionBuild="35"
+  DTS:VersionGUID="{2076D445-A6E2-4F20-BB21-38D449EB8E30}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
     <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[Flat File Connection Manager]"
-      DTS:CreationName="FLATFILE"
-      DTS:Description="Jury File Connection Manager"
-      DTS:DTSID="{4CACBE51-27E9-4B43-93CD-6E6FB55CAC9D}"
-      DTS:ObjectName="Flat File Connection Manager">
+      DTS:refId="Package.ConnectionManagers[localhost.Eurovision_dwh]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{23308E75-E8E4-44F1-85A3-B00F24ED5E4D}"
+      DTS:ObjectName="localhost.Eurovision_dwh">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:Format="Delimited"
-          DTS:LocaleID="1045"
-          DTS:HeaderRowDelimiter="_x000D__x000A_"
-          DTS:ColumnNamesInFirstDataRow="True"
-          DTS:RowDelimiter=""
-          DTS:TextQualifier="_x003C_none_x003E_"
-          DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\koste\Studia\08\BD2\DWH-Eurovision\web_scraping\Jakub\jury.csv">
-          <DTS:FlatFileColumns>
-            <DTS:FlatFileColumn
-              DTS:ColumnType="Delimited"
-              DTS:ColumnDelimiter="_x003B_"
-              DTS:MaximumWidth="50"
-              DTS:DataType="129"
-              DTS:TextQualified="True"
-              DTS:ObjectName="&quot;year&quot;"
-              DTS:DTSID="{6DA388A3-C5CD-4EDE-B7D2-7D4EF0E552F4}"
-              DTS:CreationName="" />
-            <DTS:FlatFileColumn
-              DTS:ColumnType="Delimited"
-              DTS:ColumnDelimiter="_x003B_"
-              DTS:MaximumWidth="50"
-              DTS:DataType="129"
-              DTS:TextQualified="True"
-              DTS:ObjectName="&quot;country_of_jury&quot;"
-              DTS:DTSID="{BDF386E1-0DC2-471A-8EC6-7D6838753825}"
-              DTS:CreationName="" />
-            <DTS:FlatFileColumn
-              DTS:ColumnType="Delimited"
-              DTS:ColumnDelimiter="_x003B_"
-              DTS:MaximumWidth="50"
-              DTS:DataType="129"
-              DTS:TextQualified="True"
-              DTS:ObjectName="&quot;member_id&quot;"
-              DTS:DTSID="{703DD20B-3D2E-4A77-A500-2D1A0BDFAD6E}"
-              DTS:CreationName="" />
-            <DTS:FlatFileColumn
-              DTS:ColumnType="Delimited"
-              DTS:ColumnDelimiter="_x003B_"
-              DTS:MaximumWidth="50"
-              DTS:DataType="129"
-              DTS:TextQualified="True"
-              DTS:ObjectName="&quot;gender&quot;"
-              DTS:DTSID="{E46E4187-3D43-400D-A222-D1999464DD83}"
-              DTS:CreationName="" />
-            <DTS:FlatFileColumn
-              DTS:ColumnType="Delimited"
-              DTS:ColumnDelimiter="_x003B_"
-              DTS:MaximumWidth="50"
-              DTS:DataType="129"
-              DTS:TextQualified="True"
-              DTS:ObjectName="&quot;birthdate&quot;"
-              DTS:DTSID="{A31C2A03-1CDD-44F4-B8FC-741CDA1AACA5}"
-              DTS:CreationName="" />
-            <DTS:FlatFileColumn
-              DTS:ColumnType="Delimited"
-              DTS:ColumnDelimiter="_x003B_"
-              DTS:MaximumWidth="50"
-              DTS:DataType="129"
-              DTS:TextQualified="True"
-              DTS:ObjectName="&quot;birthyear&quot;"
-              DTS:DTSID="{65A7661F-B344-44B1-8125-131FB0EF3C5B}"
-              DTS:CreationName="" />
-            <DTS:FlatFileColumn
-              DTS:ColumnType="Delimited"
-              DTS:ColumnDelimiter="_x003B_"
-              DTS:MaximumWidth="50"
-              DTS:DataType="129"
-              DTS:TextQualified="True"
-              DTS:ObjectName="&quot;birthmonth&quot;"
-              DTS:DTSID="{BB91AAC9-7454-411E-84EB-C3BFC060ED69}"
-              DTS:CreationName="" />
-            <DTS:FlatFileColumn
-              DTS:ColumnType="Delimited"
-              DTS:ColumnDelimiter="_x000D__x000A_"
-              DTS:MaximumWidth="50"
-              DTS:DataType="129"
-              DTS:TextQualified="True"
-              DTS:ObjectName="&quot;birthday&quot;"
-              DTS:DTSID="{C39452CC-B7F9-47F5-8861-C0E2D210E59C}"
-              DTS:CreationName="" />
-          </DTS:FlatFileColumns>
-        </DTS:ConnectionManager>
+          DTS:ConnectionString="Data Source=localhost;Initial Catalog=Eurovision_dwh;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -123,7 +40,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\koste\Studia\08\BD2\DWH-Eurovision\web_scraping\Patryk\jury.csv">
+          DTS:ConnectionString="C:\Users\Patryk\Desktop\dwh_project\DWH-Eurovision\web_scraping\Patryk\jury.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -132,7 +49,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="&quot;year&quot;"
-              DTS:DTSID="{53E8946C-D12B-46A7-8637-BE991F9EA17F}"
+              DTS:DTSID="{F4468CEB-F9BD-483F-A7BE-7E341E709212}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -141,7 +58,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="&quot;country_of_jury&quot;"
-              DTS:DTSID="{67386405-9FB3-406E-A4D4-A0D06A6F512E}"
+              DTS:DTSID="{43B05159-B382-4AB2-8A7A-D0BBD14AF0C3}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -150,7 +67,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="&quot;whichContest&quot;"
-              DTS:DTSID="{10714708-4A8B-4B19-B617-CE6C45FB3222}"
+              DTS:DTSID="{53CB9DBE-341B-489D-B103-21DF42CE19A6}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -159,7 +76,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="&quot;male_count&quot;"
-              DTS:DTSID="{A5D1E7D9-179D-4295-A378-96B67F38AF0E}"
+              DTS:DTSID="{EC3EFF56-5C47-44A7-8EB2-0BBDCF57307B}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -168,7 +85,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="&quot;mean_age&quot;"
-              DTS:DTSID="{ED4B3496-6CEA-4B36-86AA-8D94B1291DF0}"
+              DTS:DTSID="{5309A00A-C9F2-4016-82DC-B8348F6A2D23}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -319,6 +236,28 @@
                   name="Data Conversion Input">
                   <inputColumns>
                     <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[&quot;male count&quot;]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="&quot;male count&quot;"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;male count&quot;]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[&quot;mean age&quot;]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="&quot;mean age&quot;"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;mean age&quot;]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[&quot;year&quot;]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="&quot;year&quot;"
+                      cachedSortKeyPosition="1"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;year&quot;]" />
+                    <inputColumn
                       refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[&quot;country of jury&quot;]"
                       cachedCodepage="1250"
                       cachedDataType="str"
@@ -327,47 +266,13 @@
                       cachedSortKeyPosition="2"
                       lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;country of jury&quot;]" />
                     <inputColumn
-                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[&quot;member_id&quot;]"
+                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[&quot;which contest&quot;]"
                       cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
-                      cachedName="&quot;member_id&quot;"
-                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;member_id&quot;]" />
-                    <inputColumn
-                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[&quot;gender&quot;]"
-                      cachedCodepage="1250"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="&quot;gender&quot;"
-                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;gender&quot;]" />
-                    <inputColumn
-                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[&quot;birthdate&quot;]"
-                      cachedCodepage="1250"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="&quot;birthdate&quot;"
-                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;birthdate&quot;]" />
-                    <inputColumn
-                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[&quot;birthyear&quot;]"
-                      cachedCodepage="1250"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="&quot;birthyear&quot;"
-                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;birthyear&quot;]" />
-                    <inputColumn
-                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[&quot;birthmonth&quot;]"
-                      cachedCodepage="1250"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="&quot;birthmonth&quot;"
-                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;birthmonth&quot;]" />
-                    <inputColumn
-                      refId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input].Columns[&quot;birthday&quot;]"
-                      cachedCodepage="1250"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="&quot;birthday&quot;"
-                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;birthday&quot;]" />
+                      cachedName="&quot;which contest&quot;"
+                      cachedSortKeyPosition="3"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;which contest&quot;]" />
                   </inputColumns>
                   <externalMetadataColumns />
                 </input>
@@ -380,13 +285,76 @@
                   synchronousInputId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input]">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;country_of_jury&quot;]"
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;male count&quot;]"
+                      dataType="numeric"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;male count&quot;]"
+                      name="&quot;male count&quot;"
+                      precision="11"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\Sort.Outputs[Sort Output].Columns["male count"]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;mean age&quot;]"
+                      dataType="numeric"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;mean age&quot;]"
+                      name="&quot;mean age&quot;"
+                      precision="18"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\Sort.Outputs[Sort Output].Columns["mean age"]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;year&quot;]"
+                      dataType="numeric"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;year&quot;]"
+                      name="&quot;year&quot;"
+                      precision="18"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\Sort.Outputs[Sort Output].Columns["year"]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of &quot;country of jury&quot;]"
                       dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      length="250"
-                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;country_of_jury&quot;]"
-                      name="&quot;country_of_jury&quot;"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of &quot;country of jury&quot;]"
+                      name="Copy of &quot;country of jury&quot;"
                       truncationRowDisposition="FailComponent">
                       <properties>
                         <property
@@ -401,125 +369,20 @@
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;member_id&quot;]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      length="250"
-                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;member_id&quot;]"
-                      name="&quot;member_id&quot;"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the input column used as the source of data for the conversion."
-                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\Sort.Outputs[Sort Output].Columns["member_id"]}</property>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                          name="FastParse">false</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;gender&quot;]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      length="250"
-                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;gender&quot;]"
-                      name="&quot;gender&quot;"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the input column used as the source of data for the conversion."
-                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\Sort.Outputs[Sort Output].Columns["gender"]}</property>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                          name="FastParse">false</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;birthdate&quot;]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      length="250"
-                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;birthdate&quot;]"
-                      name="&quot;birthdate&quot;"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the input column used as the source of data for the conversion."
-                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\Sort.Outputs[Sort Output].Columns["birthdate"]}</property>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                          name="FastParse">false</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;birthyear&quot;]"
+                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of &quot;which contest&quot;]"
                       dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       length="50"
-                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;birthyear&quot;]"
-                      name="&quot;birthyear&quot;"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of &quot;which contest&quot;]"
+                      name="Copy of &quot;which contest&quot;"
                       truncationRowDisposition="FailComponent">
                       <properties>
                         <property
                           containsID="true"
                           dataType="System.Int32"
                           description="Specifies the input column used as the source of data for the conversion."
-                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\Sort.Outputs[Sort Output].Columns["birthyear"]}</property>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                          name="FastParse">false</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;birthmonth&quot;]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      length="250"
-                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;birthmonth&quot;]"
-                      name="&quot;birthmonth&quot;"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the input column used as the source of data for the conversion."
-                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\Sort.Outputs[Sort Output].Columns["birthmonth"]}</property>
-                        <property
-                          dataType="System.Boolean"
-                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                          name="FastParse">false</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;birthday&quot;]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      length="250"
-                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;birthday&quot;]"
-                      name="&quot;birthday&quot;"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the input column used as the source of data for the conversion."
-                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\Sort.Outputs[Sort Output].Columns["birthday"]}</property>
+                          name="SourceInputColumnLineageID">#{Package\Data Flow Task\Sort.Outputs[Sort Output].Columns["which contest"]}</property>
                         <property
                           dataType="System.Boolean"
                           description="Indicates whether the column uses the faster, locale-neutral parsing routines."
@@ -900,8 +763,8 @@
               <connections>
                 <connection
                   refId="Package\Data Flow Task\OLE DB Destination.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[TARGET.Eurovision_dwh]"
-                  connectionManagerRefId="Package.ConnectionManagers[TARGET.Eurovision_dwh]"
+                  connectionManagerID="Package.ConnectionManagers[localhost.Eurovision_dwh]"
+                  connectionManagerRefId="Package.ConnectionManagers[localhost.Eurovision_dwh]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -912,45 +775,79 @@
                   errorRowDisposition="FailComponent"
                   hasSideEffects="true"
                   name="OLE DB Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[female count]"
+                      cachedDataType="numeric"
+                      cachedName="female count"
+                      cachedPrecision="11"
+                      externalMetadataColumnId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[female count]"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[female count]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[&quot;male count&quot;]"
+                      cachedDataType="numeric"
+                      cachedName="&quot;male count&quot;"
+                      cachedPrecision="11"
+                      externalMetadataColumnId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[male count]"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;male count&quot;]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[&quot;year&quot;]"
+                      cachedDataType="numeric"
+                      cachedName="&quot;year&quot;"
+                      cachedPrecision="18"
+                      externalMetadataColumnId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[year]"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;year&quot;]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[&quot;mean age&quot;]"
+                      cachedDataType="numeric"
+                      cachedName="&quot;mean age&quot;"
+                      cachedPrecision="18"
+                      externalMetadataColumnId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[mean age]"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[&quot;mean age&quot;]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Copy of &quot;country of jury&quot;]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Copy of &quot;country of jury&quot;"
+                      externalMetadataColumnId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[country of jury]"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of &quot;country of jury&quot;]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Copy of &quot;which contest&quot;]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="Copy of &quot;which contest&quot;"
+                      externalMetadataColumnId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[which contest]"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of &quot;which contest&quot;]" />
+                  </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Year]"
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[year]"
                       dataType="i4"
-                      name="Year" />
+                      name="year" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Country of jury]"
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[country of jury]"
                       dataType="wstr"
                       length="32"
-                      name="Country of jury" />
+                      name="country of jury" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Member ID]"
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[which contest]"
                       dataType="wstr"
                       length="32"
-                      name="Member ID" />
+                      name="which contest" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Gender]"
-                      dataType="wstr"
-                      length="32"
-                      name="Gender" />
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[mean age]"
+                      dataType="numeric"
+                      name="mean age"
+                      precision="32" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Birthdate]"
-                      dataType="wstr"
-                      length="32"
-                      name="Birthdate" />
-                    <externalMetadataColumn
-                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Birthyear]"
-                      dataType="wstr"
-                      length="32"
-                      name="Birthyear" />
-                    <externalMetadataColumn
-                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Birthmonth]"
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[female count]"
                       dataType="i4"
-                      name="Birthmonth" />
+                      name="female count" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Birthday]"
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[male count]"
                       dataType="i4"
-                      name="Birthday" />
+                      name="male count" />
                   </externalMetadataColumns>
                 </input>
               </inputs>
@@ -1039,114 +936,6 @@
                       </properties>
                     </inputColumn>
                     <inputColumn
-                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[&quot;member_id&quot;]"
-                      cachedCodepage="1250"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="&quot;member_id&quot;"
-                      lineageId="Package\Data Flow Task\180:invalid">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">0</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[&quot;gender&quot;]"
-                      cachedCodepage="1250"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="&quot;gender&quot;"
-                      lineageId="Package\Data Flow Task\181:invalid">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">0</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[&quot;birthdate&quot;]"
-                      cachedCodepage="1250"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="&quot;birthdate&quot;"
-                      lineageId="Package\Data Flow Task\182:invalid">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">0</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[&quot;birthyear&quot;]"
-                      cachedCodepage="1250"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="&quot;birthyear&quot;"
-                      lineageId="Package\Data Flow Task\183:invalid">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">0</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[&quot;birthmonth&quot;]"
-                      cachedCodepage="1250"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="&quot;birthmonth&quot;"
-                      lineageId="Package\Data Flow Task\184:invalid">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">0</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[&quot;birthday&quot;]"
-                      cachedCodepage="1250"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="&quot;birthday&quot;"
-                      lineageId="Package\Data Flow Task\185:invalid">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the comparison options for character data."
-                          name="NewComparisonFlags">0</property>
-                        <property
-                          dataType="System.Int32"
-                          description="Specifies the sort order of the column."
-                          name="NewSortKeyPosition">0</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
                       refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[&quot;which contest&quot;]"
                       cachedCodepage="1250"
                       cachedDataType="str"
@@ -1162,6 +951,59 @@
                           dataType="System.Int32"
                           description="Specifies the sort order of the column."
                           name="NewSortKeyPosition">3</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[&quot;mean age&quot;]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="&quot;mean age&quot;"
+                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[&quot;mean age&quot;]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[female count]"
+                      cachedDataType="numeric"
+                      cachedName="female count"
+                      cachedPrecision="11"
+                      lineageId="Package\Data Flow Task\Derived Column.Outputs[Derived Column Output].Columns[female count]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[&quot;male count&quot;]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="&quot;male count&quot;"
+                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[&quot;male count&quot;]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
                       </properties>
                     </inputColumn>
                   </inputColumns>
@@ -1207,96 +1049,6 @@
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;member_id&quot;]"
-                      codePage="1250"
-                      dataType="str"
-                      length="50"
-                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;member_id&quot;]"
-                      name="&quot;member_id&quot;">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Data Flow Task\180:invalid}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;gender&quot;]"
-                      codePage="1250"
-                      dataType="str"
-                      length="50"
-                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;gender&quot;]"
-                      name="&quot;gender&quot;">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Data Flow Task\181:invalid}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;birthdate&quot;]"
-                      codePage="1250"
-                      dataType="str"
-                      length="50"
-                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;birthdate&quot;]"
-                      name="&quot;birthdate&quot;">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Data Flow Task\182:invalid}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;birthyear&quot;]"
-                      codePage="1250"
-                      dataType="str"
-                      length="50"
-                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;birthyear&quot;]"
-                      name="&quot;birthyear&quot;">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Data Flow Task\183:invalid}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;birthmonth&quot;]"
-                      codePage="1250"
-                      dataType="str"
-                      length="50"
-                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;birthmonth&quot;]"
-                      name="&quot;birthmonth&quot;">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Data Flow Task\184:invalid}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;birthday&quot;]"
-                      codePage="1250"
-                      dataType="str"
-                      length="50"
-                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;birthday&quot;]"
-                      name="&quot;birthday&quot;">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Specifies the lineage identifier of the input column that is associated with this output column."
-                          name="SortColumnId">#{Package\Data Flow Task\185:invalid}</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
                       refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;which contest&quot;]"
                       codePage="1250"
                       dataType="str"
@@ -1310,6 +1062,50 @@
                           dataType="System.Int32"
                           description="Specifies the lineage identifier of the input column that is associated with this output column."
                           name="SortColumnId">#{Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns["which contest"]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;mean age&quot;]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;mean age&quot;]"
+                      name="&quot;mean age&quot;">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns["mean age"]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[female count]"
+                      dataType="numeric"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[female count]"
+                      name="female count"
+                      precision="11">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\Derived Column.Outputs[Derived Column Output].Columns[female count]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;male count&quot;]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[&quot;male count&quot;]"
+                      name="&quot;male count&quot;">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns["male count"]}</property>
                       </properties>
                     </outputColumn>
                   </outputColumns>
@@ -1361,7 +1157,7 @@
       <DTS:Variables />
       <DTS:ObjectData>
         <ExecuteProcessData
-          Executable="C:\Users\koste\Studia\08\BD2\DWH-Eurovision\web_scraping\Jakub\runScript.bat"
+          Executable="C:\Users\Patryk\Desktop\dwh_project\DWH-Eurovision\web_scraping\Patryk\runScript.bat"
           SuccessValue="1" />
       </DTS:ObjectData>
     </DTS:Executable>
@@ -1443,25 +1239,53 @@
           Id="Package\Data Flow Task\Derived Column"
           TopLeft="126.249998118728,105.766665109197" />
         <NodeLayout
-          Size="172,42.6666666666667"
-          Id="Package\Data Flow Task\OLE DB Destination"
-          TopLeft="260.624996116385,279.499995002151" />
-        <NodeLayout
           Size="143.333333333334,48.6666666666667"
           Id="Package\Data Flow Task\Sort"
           TopLeft="110.624998351559,181.816663749318" />
         <NodeLayout
           Size="152,42.6666666666667"
           Id="Package\Data Flow Task\Flat File Source"
-          TopLeft="115.624998277053,10.1666663179795" />
+          TopLeft="148.749997783452,8.44999984890221" />
+        <NodeLayout
+          Size="172,42.6666666666667"
+          Id="Package\Data Flow Task\OLE DB Destination"
+          TopLeft="260.624996116385,279.499995002151" />
         <NodeLayout
           Size="156,42.6666666666667"
           Id="Package\Data Flow Task\Conditional Split"
-          TopLeft="377.499994374812,39.4999996513128" />
+          TopLeft="386.249994244427,38.3499993142486" />
         <NodeLayout
           Size="157.333333333334,42.6666666666667"
           Id="Package\Data Flow Task\Data Conversion"
           TopLeft="328.749995101244,216.783330625196" />
+        <EdgeLayout
+          Id="Package\Data Flow Task.Paths[Data Conversion Output]"
+          TopLeft="328.749995101244,243.894441736307">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="17.8750010151412,35.6055532658437"
+              Start="0,0"
+              End="17.8750010151412,28.1055532658437">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="13.8750010151412,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="13.8750010151412,0"
+                    Point2="17.8750010151412,0"
+                    Point3="17.8750010151412,4" />
+                  <mssgle:LineSegment
+                    End="17.8750010151412,28.1055532658437" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[Sort Output]"
           TopLeft="253.958331684892,206.149997082651">
@@ -1498,30 +1322,30 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[Flat File Source Output]"
-          TopLeft="267.624998277053,31.4999996513128">
+          TopLeft="300.749997783452,29.7833331822355">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="109.874996097759,29.3333333333333"
+              EndConnector="85.4999964609743,29.8999994653463"
               Start="0,0"
-              End="102.374996097759,29.3333333333333">
+              End="77.9999964609743,29.8999994653463">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="50.9374980488793,0" />
+                    End="38.7499982304872,0" />
                   <mssgle:CubicBezierSegment
-                    Point1="50.9374980488793,0"
-                    Point2="54.9374980488793,0"
-                    Point3="54.9374980488793,4" />
+                    Point1="38.7499982304872,0"
+                    Point2="42.7499982304872,0"
+                    Point3="42.7499982304872,4" />
                   <mssgle:LineSegment
-                    End="54.9374980488793,25.3333333333333" />
+                    End="42.7499982304872,25.8999994653463" />
                   <mssgle:CubicBezierSegment
-                    Point1="54.9374980488793,25.3333333333333"
-                    Point2="54.9374980488793,29.3333333333333"
-                    Point3="58.9374980488793,29.3333333333333" />
+                    Point1="42.7499982304872,25.8999994653463"
+                    Point2="42.7499982304872,29.8999994653463"
+                    Point3="46.7499982304872,29.8999994653463" />
                   <mssgle:LineSegment
-                    End="102.374996097759,29.3333333333333" />
+                    End="77.9999964609743,29.8999994653463" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -1561,73 +1385,43 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-18.645833216918,21.691665986727,16,16"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[DataValid]"
-          TopLeft="455.499994374812,82.1666663179795">
+          TopLeft="464.249994244427,81.0166659809153">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-251.91666292275,23.5999987912177"
+              EndConnector="-260.666662792366,24.7499991282817"
               Start="0,0"
-              End="-251.91666292275,16.0999987912177">
+              End="-260.666662792366,17.2499991282817">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,7.79999939560884" />
+                    End="0,8.37499956414087" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,7.79999939560884"
-                    Point2="0,11.7999993956088"
-                    Point3="-4,11.7999993956088" />
+                    Point1="0,8.37499956414087"
+                    Point2="0,12.3749995641409"
+                    Point3="-4,12.3749995641409" />
                   <mssgle:LineSegment
-                    End="-247.91666292275,11.7999993956088" />
+                    End="-256.666662792366,12.3749995641409" />
                   <mssgle:CubicBezierSegment
-                    Point1="-247.91666292275,11.7999993956088"
-                    Point2="-251.91666292275,11.7999993956088"
-                    Point3="-251.91666292275,15.7999993956088" />
+                    Point1="-256.666662792366,12.3749995641409"
+                    Point2="-260.666662792366,12.3749995641409"
+                    Point3="-260.666662792366,16.3749995641409" />
                   <mssgle:LineSegment
-                    End="-251.91666292275,16.0999987912177" />
+                    End="-260.666662792366,17.2499991282817" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-147.231319742625,16.7999993956088,42.5459765625,9.7490234375"
+              BoundingBox="-151.606319677433,17.3749995641409,42.5459765625,9.7490234375"
               RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Data Conversion Output]"
-          TopLeft="328.749995101244,243.894441736307">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="17.8750010151412,35.6055532658437"
-              Start="0,0"
-              End="17.8750010151412,28.1055532658437">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="13.8750010151412,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="13.8750010151412,0"
-                    Point2="17.8750010151412,0"
-                    Point3="17.8750010151412,4" />
-                  <mssgle:LineSegment
-                    End="17.8750010151412,28.1055532658437" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>

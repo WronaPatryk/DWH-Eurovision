@@ -3,6 +3,7 @@
 
 library(dplyr)
 
+
 df <- read.csv("https://query.data.world/s/mokmfaxjasujynpim4kx3nv2jy7azo", header=TRUE, stringsAsFactors=FALSE, sep = ";")
 
 # year, Country_of_jury, member_id, gender, a data_of_birth rozbijac na rok, miesiac, dzien i tworzyc kolumne (wiek) ?
@@ -46,8 +47,7 @@ df$birthyear <- as.integer(df$birthyear)
 sex_count <- df %>%
   filter(gender == "male") %>%
   group_by(year, country_of_jury, whichContest) %>%
-  summarise(male_count = n()) %>%
-  mutate(female_count = 5 - male_count)
+  summarise(male_count = n())
 df <- df %>% mutate(age = year - birthyear)
 mean_age <- df %>%
   group_by(year, country_of_jury, whichContest) %>%

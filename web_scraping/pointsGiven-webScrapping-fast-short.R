@@ -189,7 +189,8 @@ colnames(df) <- c("Voting", "Voted", "Year", "Jury.or.televoting", "Points.given
                   "All.points.from.voting.when.voted.in.final", "All.points.to.voted.when.voting.takes.part",
                   "Mean.countries.taking.part")
 
-write.csv2(df, "../data/new/points_given_without_contests_together_small.csv", row.names = F)
+dfTmp <- cbind(ID = 1:nrow(df), df)
+write.csv2(dfTmp, "../data/new/points_given_without_contests_together_small.csv", row.names = F)
 
 ### 10. New measure - contests together
 df2 <- df
@@ -217,4 +218,5 @@ for (from in all_countries){
 }
 # sample_n(df2, 100) # uncomment for testing [long time]
 
+df2 <- cbind(ID = 1:nrow(df2), df2)
 write.csv2(df2, "../data/new/points_given_small.csv", row.names = F)

@@ -3,8 +3,8 @@
   DTS:refId="Package"
   DTS:CreationDate="5/16/2021 12:00:44 AM"
   DTS:CreationName="Microsoft.Package"
-  DTS:CreatorComputerName="LAPTOP-J0PLFV1F"
-  DTS:CreatorName="LAPTOP-J0PLFV1F\Patryk"
+  DTS:CreatorComputerName="LAPTOP-ON54PJAK"
+  DTS:CreatorName="LAPTOP-ON54PJAK\koste"
   DTS:DTSID="{C5182D19-1E21-4F36-8EBC-DF77A986DDF1}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="15.0.2000.152"
@@ -31,7 +31,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\koste\Studia\08\BD2\DWH-Eurovision\web_scraping\Jakub\jury.csv">
+          DTS:ConnectionString="C:\Users\koste\Studia\08\BD2\DWH-Eurovision\data\new\jury.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -1375,7 +1375,7 @@
       <DTS:Variables />
       <DTS:ObjectData>
         <ExecuteProcessData
-          Executable="C:\Users\koste\Studia\08\BD2\DWH-Eurovision\web_scraping\Jakub\runScript.bat"
+          Executable="C:\Users\koste\Studia\08\BD2\DWH-Eurovision\web_scraping\runScript.bat"
           SuccessValue="1" />
       </DTS:ObjectData>
     </DTS:Executable>

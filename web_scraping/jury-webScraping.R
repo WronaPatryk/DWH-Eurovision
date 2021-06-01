@@ -76,6 +76,6 @@ res <- res %>%
 ### change column names
 colnames(res) <- c("Year", "Country.of.jury", "Male.count", "Mean.age.category")
 
-write.csv2(res, "../../data/new/jury.csv", row.names = F)
+write.csv2(res, "../data/new/jury.csv", row.names = F)
 
 

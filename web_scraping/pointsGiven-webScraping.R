@@ -34,7 +34,7 @@ for(to in all_countries){
     if(df[i,]$From.country == to)
       if(!grepl(df[i,]$Year, years_when_country_in_esc[to], fixed = TRUE))
         years_when_country_in_esc[to] <- paste0(years_when_country_in_esc[to], df[i,]$Year, ',')
-      years_when_country_in_esc[to] <- substr(years_when_country_in_esc[to],1,nchar(years_when_country_in_esc[to])-1)
+  years_when_country_in_esc[to] <- substr(years_when_country_in_esc[to],1,nchar(years_when_country_in_esc[to])-1)
 }
 
 ## 5. Take only finals
@@ -92,13 +92,13 @@ for(to in all_countries){
     if(df[i,]$To.country == to)
       if(!grepl(df[i,]$Year, years_when_country_in_finals[to], fixed = TRUE))
         years_when_country_in_finals[to] <- paste0(years_when_country_in_finals[to], df[i,]$Year, ',')
-      years_when_country_in_finals[to] <- substr(years_when_country_in_finals[to],1,nchar(years_when_country_in_finals[to])-1)
+  years_when_country_in_finals[to] <- substr(years_when_country_in_finals[to],1,nchar(years_when_country_in_finals[to])-1)
 }
 
 interval4 <- Sys.time()
 
 df$All.points.from.voting.when.voted.in.final <- 0
-counter <- 0 # uncomment for testing [long time]
+#counter <- 0 # uncomment for testing [long time]
 for (from in all_countries){
   for (to in all_countries){
     if(from == to)
@@ -109,16 +109,16 @@ for (from in all_countries){
       if(from == df[i,]$From.country)
         if(grepl(df[i,]$Year, years_when_country_in_finals[to], fixed = TRUE))
           all_points_from_voting_when_voted_in_final <- all_points_from_voting_when_voted_in_final + df[i,]$Points
-    
+         
     for(i in 1:nrow(df))
       if(from == df[i,]$From.country)
         if(to == df[i,]$To.country)
           df$All.points.from.voting.when.voted.in.final[i] <- all_points_from_voting_when_voted_in_final
-    if(counter == 21) # uncomment for testing [long time]
-      break # uncomment for testing [long time]
+    #if(counter == 21) # uncomment for testing [long time]
+    #  break # uncomment for testing [long time]
   }
-  if(counter == 21) # uncomment for testing [long time]
-    break # uncomment for testing [long time]
+  #if(counter == 21) # uncomment for testing [long time]
+  #  break # uncomment for testing [long time]
 }
 
 interval5 <- Sys.time()
@@ -126,12 +126,12 @@ interval5 <- Sys.time()
 ### c) & d)
 df$All.points.to.voted.when.voting.takes.part <- 0
 df$Mean.countries.taking.part <- 0
-counter <- 0 # uncomment for testing [long time]
+#counter <- 0 # uncomment for testing [long time]
 for (from in all_countries){
   for (to in all_countries){
     if(from == to)
       next
-    counter <- counter + 1 # uncomment for testing [long time]
+    # counter <- counter + 1 # uncomment for testing [long time]
     all_points_to_voted_when_voting_takes_part <- 0
     mean_countries_taking_part <- 0
     for(i in 1:nrow(df))
@@ -163,11 +163,11 @@ for (from in all_countries){
           df$All.points.to.voted.when.voting.takes.part[i] <- all_points_to_voted_when_voting_takes_part
           df$Mean.countries.taking.part[i] <- mean_countries_taking_part
         }
-    if(counter == 21) # uncomment for testing [long time]
-      break # uncomment for testing [long time]
+    #if(counter == 21) # uncomment for testing [long time]
+    #  break # uncomment for testing [long time]
   }
-  if(counter == 21) # uncomment for testing [long time]
-    break # uncomment for testing [long time]
+  #if(counter == 21) # uncomment for testing [long time]
+  #  break # uncomment for testing [long time]
 }
 
 stop_time <- Sys.time()
@@ -184,18 +184,17 @@ print(interval4 - interval3)
 print(interval5 - interval4)
 print(stop_time - interval5)
 
-write.csv2(df, "../../data/new/points_given_without_contests_together_small.csv", row.names = F)
+write.csv2(df, "../data/new/points_given_without_contests_together.csv", row.names = F)
 
 ### 10. New measure - contests together
 df2 <- df
+# counter <- 0 # uncomment for testing [long time]
 df2$Contests.when.voted.in.finals.and.voting.takes.part <- 0
-counter <- 0
 for (from in all_countries){
   for (to in all_countries){
     if(from == to)
       next
-    counter <- counter + 1
-    
+    # counter <- counter + 1 # uncomment for testing [long time]
     years_when_country_in_esc_splitted <- strsplit(years_when_country_in_esc[[from]], ',')
     years_when_country_in_finals_splitted <- strsplit(years_when_country_in_finals[[to]], ',')
     how_many_contests_together <- length(intersect(years_when_country_in_esc_splitted[[1]], years_when_country_in_finals_splitted[[1]]))
@@ -204,12 +203,11 @@ for (from in all_countries){
       if(from == df2[i,]$From.country)
         if(to == df2[i,]$To.country)
           df2$Contests.when.voted.in.finals.and.voting.takes.part[i] <- how_many_contests_together
-    if(counter == 21) # uncomment for testing [long time]
-      break # uncomment for testing [long time]
+    #if(counter == 21) # uncomment for testing [long time]
+    #  break # uncomment for testing [long time]
   }
-  if(counter == 21) # uncomment for testing [long time]
-    break # uncomment for testing [long time]
+  #if(counter == 21) # uncomment for testing [long time]
+  #  break # uncomment for testing [long time]
 }
 # sample_n(df2, 100) # uncomment for testing [long time]
-
-write.csv2(df2, "../../data/new/points_given_small.csv", row.names = F)
+write.csv2(df2, "../data/new/points_given.csv", row.names = F)

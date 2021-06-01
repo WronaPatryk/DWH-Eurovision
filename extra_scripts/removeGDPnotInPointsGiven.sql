@@ -3,7 +3,7 @@ SELECT DISTINCT [Year], [Country]
 FROM GDP
 EXCEPT
 SELECT DISTINCT [Year], [Voted]
-FROM PointsGiven
+FROM [Points Given]
 
 SELECT COUNT(*) FROM GDP -- should be leess
 
@@ -14,7 +14,7 @@ SELECT DISTINCT [Year], [Country]
 FROM gdp
 EXCEPT
 SELECT DISTINCT [Year], [Voted]
-FROM PointsGiven
+FROM [Points Given]
 
 DELETE FROM GDP
 WHERE EXISTS
@@ -25,11 +25,9 @@ WHERE GDP.[Year] = Tm.[Year] AND GDP.[Country] = Tm.[Country])
 SELECT COUNT(*) FROM GDP
 --Well done
 
---Check which are in PointsGiven, but aren't in GDP - should be 2021
+--Check which are in PointsGiven, but aren't in GDP - should be nothing
 SELECT DISTINCT [Year], [Voted]
-FROM PointsGiven
+FROM [Points Given]
 EXCEPT
 SELECT DISTINCT [Year], [Country]
 FROM GDP
-
---Remove them? Todo

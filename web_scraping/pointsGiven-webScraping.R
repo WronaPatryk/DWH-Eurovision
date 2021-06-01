@@ -184,6 +184,11 @@ print(interval4 - interval3)
 print(interval5 - interval4)
 print(stop_time - interval5)
 
+colnames(df) <- c("Voting", "Voted", "Year", "Jury.or.televoting", "Points.given", "Jury.points.this.year",
+                  "Tele.points.this.year", "All.points.this.year", "All.points.from.voting.to.voted",
+                  "All.points.from.voting.when.voted.in.final", "All.points.to.voted.when.voting.takes.part",
+                  "Mean.countries.taking.part")
+
 write.csv2(df, "../data/new/points_given_without_contests_together.csv", row.names = F)
 
 ### 10. New measure - contests together

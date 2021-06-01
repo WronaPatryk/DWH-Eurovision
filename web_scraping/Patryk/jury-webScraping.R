@@ -55,12 +55,27 @@ mean_age <- df %>%
 
 res <- sex_count
 res$mean_age <- mean_age$mean_age
-res[res$year == 2017,]
 
-write.csv2(res, "jury.csv", row.names = F)
+### take only finals
+res <- res[res$whichContest == 'f',]
+res <- res %>%
+  select(-whichContest)
 
+### mean_age to categories
+res$mean_age <- cut(res$mean_age,c(18, 35, 38, 43, 50, 72))
+res <- res %>%
+  mutate(mean_age_category = case_when(
+    mean_age == "(18,35]" ~ "Very young",
+    mean_age == "(35,38]" ~ "Young",
+    mean_age == "(38,43]" ~ "Middle",
+    mean_age == "(43,50]" ~ "Old",
+    mean_age == "(50,72]" ~ "Very old",
+  )) %>%
+  select(-mean_age)
 
+### change column names
+colnames(res) <- c("Year", "Country.of.jury", "Male.count", "Mean.age.category")
 
-
+write.csv2(res, "../../data/new/jury.csv", row.names = F)
 
 

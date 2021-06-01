@@ -184,7 +184,7 @@ print(interval4 - interval3)
 print(interval5 - interval4)
 print(stop_time - interval5)
 
-write.csv2(df, "points_given_without_contests_together_small.csv", row.names = F)
+write.csv2(df, "../../data/new/points_given_without_contests_together_small.csv", row.names = F)
 
 ### 10. New measure - contests together
 df2 <- df
@@ -212,4 +212,4 @@ for (from in all_countries){
 }
 # sample_n(df2, 100) # uncomment for testing [long time]
 
-write.csv2(df2, "points_given_small.csv", row.names = F)
+write.csv2(df2, "../../data/new/points_given_small.csv", row.names = F)

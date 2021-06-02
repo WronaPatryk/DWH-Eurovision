@@ -1,128 +1,1315 @@
-"Year";"Country.of.jury";"Male.count";"Mean.age.category"
-2016;"Albania";3;"Very old"
-2016;"Armenia";4;"Middle"
-2016;"Australia";3;"Old"
-2016;"Austria";4;"Middle"
-2016;"Azerbaijan";2;"Old"
-2016;"Belarus";3;"Middle"
-2016;"Belgium";2;"Middle"
-2016;"Bosnia and Herzegovina";4;"Middle"
-2016;"Bulgaria";3;"Old"
-2016;"Croatia";2;"Young"
-2016;"Cyprus";2;"Middle"
-2016;"Czech-republic";3;"Very old"
-2016;"Denmark";3;"Old"
-2016;"Estonia";2;"Old"
-2016;"Finland";3;"Young"
-2016;"France";3;"Old"
-2016;"Georgia";3;"Young"
-2016;"Germany";2;"Middle"
-2016;"Greece";3;"Old"
-2016;"Hungary";4;"Old"
-2016;"Iceland";2;"Old"
-2016;"Ireland";2;"Young"
-2016;"Israel";3;"Old"
-2016;"Italy";2;"Old"
-2016;"Latvia";3;"Young"
-2016;"Lithuania";3;"Middle"
-2016;"Macedonia";3;"Old"
-2016;"Malta";3;"Very young"
-2016;"Moldova";3;"Young"
-2016;"Montenegro";3;"Middle"
-2016;"Norway";3;"Middle"
-2016;"Poland";4;"Middle"
-2016;"Russia";3;"Old"
-2016;"San Marino";3;"Young"
-2016;"Serbia";3;"Old"
-2016;"Slovenia";2;"Young"
-2016;"Spain";3;"Very young"
-2016;"Sweden";3;"Very young"
-2016;"Switzerland";3;"Very young"
-2016;"The-netherlands";2;"Very old"
-2016;"Ukraine";3;"Old"
-2016;"United Kingdom";3;"Middle"
-2017;"Albania";3;"Middle"
-2017;"Armenia";3;"Middle"
-2017;"Australia";2;"Middle"
-2017;"Austria";3;"Middle"
-2017;"Azerbaijan";4;"Very old"
-2017;"Belarus";2;"Old"
-2017;"Belgium";3;"Very young"
-2017;"Bulgaria";2;"Old"
-2017;"Croatia";3;"Middle"
-2017;"Cyprus";3;"Middle"
-2017;"Czech-republic";3;"Middle"
-2017;"Denmark";2;"Middle"
-2017;"Estonia";3;"Young"
-2017;"Finland";3;"Middle"
-2017;"France";3;"Very young"
-2017;"Georgia";2;"Middle"
-2017;"Germany";3;"Middle"
-2017;"Greece";3;"Young"
-2017;"Hungary";3;"Young"
-2017;"Iceland";2;"Old"
-2017;"Ireland";2;"Young"
-2017;"Israel";3;"Old"
-2017;"Italy";3;"Old"
-2017;"Latvia";3;"Young"
-2017;"Lithuania";3;"Very old"
-2017;"Macedonia";2;"Young"
-2017;"Malta";3;"Young"
-2017;"Moldova";2;"Young"
-2017;"Montenegro";4;"Middle"
-2017;"Norway";3;"Middle"
-2017;"Poland";3;"Middle"
-2017;"Portugal";3;"Very old"
-2017;"Romania";3;"Middle"
-2017;"San Marino";3;"Very young"
-2017;"Serbia";2;"Old"
-2017;"Slovenia";3;"Middle"
-2017;"Spain";3;"Young"
-2017;"Sweden";3;"Middle"
-2017;"Switzerland";3;"Old"
-2017;"The-netherlands";3;"Old"
-2017;"Ukraine";3;"Middle"
-2017;"United Kingdom";2;"Old"
-2018;"Albania";3;"Middle"
-2018;"Armenia";3;"Middle"
-2018;"Australia";2;"Old"
-2018;"Austria";3;"Young"
-2018;"Azerbaijan";2;"Very old"
-2018;"Belarus";2;"Old"
-2018;"Belgium";3;"Young"
-2018;"Bulgaria";2;"Old"
-2018;"Croatia";3;"Old"
-2018;"Cyprus";3;"Middle"
-2018;"Czech-republic";3;"Middle"
-2018;"Denmark";2;"Young"
-2018;"Estonia";3;"Young"
-2018;"Finland";2;"Middle"
-2018;"France";2;"Young"
-2018;"Georgia";2;"Old"
-2018;"Germany";3;"Young"
-2018;"Greece";3;"Middle"
-2018;"Hungary";3;"Very old"
-2018;"Iceland";3;"Middle"
-2018;"Ireland";3;"Middle"
-2018;"Israel";4;"Old"
-2018;"Italy";2;"Very old"
-2018;"Latvia";2;"Very young"
-2018;"Lithuania";3;"Middle"
-2018;"Macedonia";3;"Old"
-2018;"Malta";3;"Young"
-2018;"Moldova";2;"Middle"
-2018;"Montenegro";2;"Middle"
-2018;"Norway";2;"Young"
-2018;"Poland";3;"Young"
-2018;"Portugal";3;"Middle"
-2018;"Romania";3;"Very old"
-2018;"Russia";3;"Old"
-2018;"San Marino";3;"Very young"
-2018;"Serbia";3;"Very old"
-2018;"Slovenia";3;"Middle"
-2018;"Spain";2;"Very young"
-2018;"Sweden";2;"Young"
-2018;"Switzerland";3;"Middle"
-2018;"The-netherlands";3;"Old"
-2018;"Ukraine";3;"Young"
-2018;"United Kingdom";2;"Very young"
+Year;Country.of.jury;Male.count;Mean.age.category
+1975;Belgium;Unknown;Unknown
+1975;Finland;Unknown;Unknown
+1975;France;Unknown;Unknown
+1975;Germany;Unknown;Unknown
+1975;Ireland;Unknown;Unknown
+1975;Israel;Unknown;Unknown
+1975;Italy;Unknown;Unknown
+1975;Luxembourg;Unknown;Unknown
+1975;Malta;Unknown;Unknown
+1975;Monaco;Unknown;Unknown
+1975;Norway;Unknown;Unknown
+1975;Portugal;Unknown;Unknown
+1975;Spain;Unknown;Unknown
+1975;Sweden;Unknown;Unknown
+1975;Switzerland;Unknown;Unknown
+1975;The Netherlands;Unknown;Unknown
+1975;Turkey;Unknown;Unknown
+1975;United Kingdom;Unknown;Unknown
+1975;Yugoslavia;Unknown;Unknown
+1976;Austria;Unknown;Unknown
+1976;Belgium;Unknown;Unknown
+1976;Finland;Unknown;Unknown
+1976;France;Unknown;Unknown
+1976;Germany;Unknown;Unknown
+1976;Greece;Unknown;Unknown
+1976;Ireland;Unknown;Unknown
+1976;Israel;Unknown;Unknown
+1976;Italy;Unknown;Unknown
+1976;Luxembourg;Unknown;Unknown
+1976;Monaco;Unknown;Unknown
+1976;Norway;Unknown;Unknown
+1976;Portugal;Unknown;Unknown
+1976;Spain;Unknown;Unknown
+1976;Switzerland;Unknown;Unknown
+1976;The Netherlands;Unknown;Unknown
+1976;United Kingdom;Unknown;Unknown
+1976;Yugoslavia;Unknown;Unknown
+1977;Austria;Unknown;Unknown
+1977;Belgium;Unknown;Unknown
+1977;Finland;Unknown;Unknown
+1977;France;Unknown;Unknown
+1977;Germany;Unknown;Unknown
+1977;Greece;Unknown;Unknown
+1977;Ireland;Unknown;Unknown
+1977;Israel;Unknown;Unknown
+1977;Italy;Unknown;Unknown
+1977;Luxembourg;Unknown;Unknown
+1977;Monaco;Unknown;Unknown
+1977;Norway;Unknown;Unknown
+1977;Portugal;Unknown;Unknown
+1977;Spain;Unknown;Unknown
+1977;Sweden;Unknown;Unknown
+1977;Switzerland;Unknown;Unknown
+1977;The Netherlands;Unknown;Unknown
+1977;United Kingdom;Unknown;Unknown
+1978;Austria;Unknown;Unknown
+1978;Belgium;Unknown;Unknown
+1978;Denmark;Unknown;Unknown
+1978;Finland;Unknown;Unknown
+1978;France;Unknown;Unknown
+1978;Germany;Unknown;Unknown
+1978;Greece;Unknown;Unknown
+1978;Ireland;Unknown;Unknown
+1978;Israel;Unknown;Unknown
+1978;Italy;Unknown;Unknown
+1978;Luxembourg;Unknown;Unknown
+1978;Monaco;Unknown;Unknown
+1978;Norway;Unknown;Unknown
+1978;Portugal;Unknown;Unknown
+1978;Spain;Unknown;Unknown
+1978;Sweden;Unknown;Unknown
+1978;Switzerland;Unknown;Unknown
+1978;The Netherlands;Unknown;Unknown
+1978;Turkey;Unknown;Unknown
+1978;United Kingdom;Unknown;Unknown
+1979;Austria;Unknown;Unknown
+1979;Belgium;Unknown;Unknown
+1979;Denmark;Unknown;Unknown
+1979;Finland;Unknown;Unknown
+1979;France;Unknown;Unknown
+1979;Germany;Unknown;Unknown
+1979;Greece;Unknown;Unknown
+1979;Ireland;Unknown;Unknown
+1979;Israel;Unknown;Unknown
+1979;Italy;Unknown;Unknown
+1979;Luxembourg;Unknown;Unknown
+1979;Monaco;Unknown;Unknown
+1979;Norway;Unknown;Unknown
+1979;Portugal;Unknown;Unknown
+1979;Spain;Unknown;Unknown
+1979;Sweden;Unknown;Unknown
+1979;Switzerland;Unknown;Unknown
+1979;The Netherlands;Unknown;Unknown
+1979;United Kingdom;Unknown;Unknown
+1980;Austria;Unknown;Unknown
+1980;Belgium;Unknown;Unknown
+1980;Denmark;Unknown;Unknown
+1980;Finland;Unknown;Unknown
+1980;France;Unknown;Unknown
+1980;Germany;Unknown;Unknown
+1980;Greece;Unknown;Unknown
+1980;Ireland;Unknown;Unknown
+1980;Italy;Unknown;Unknown
+1980;Luxembourg;Unknown;Unknown
+1980;Morocco;Unknown;Unknown
+1980;Norway;Unknown;Unknown
+1980;Portugal;Unknown;Unknown
+1980;Spain;Unknown;Unknown
+1980;Sweden;Unknown;Unknown
+1980;Switzerland;Unknown;Unknown
+1980;The Netherlands;Unknown;Unknown
+1980;Turkey;Unknown;Unknown
+1980;United Kingdom;Unknown;Unknown
+1981;Austria;Unknown;Unknown
+1981;Belgium;Unknown;Unknown
+1981;Cyprus;Unknown;Unknown
+1981;Denmark;Unknown;Unknown
+1981;Finland;Unknown;Unknown
+1981;France;Unknown;Unknown
+1981;Germany;Unknown;Unknown
+1981;Greece;Unknown;Unknown
+1981;Ireland;Unknown;Unknown
+1981;Israel;Unknown;Unknown
+1981;Luxembourg;Unknown;Unknown
+1981;Norway;Unknown;Unknown
+1981;Portugal;Unknown;Unknown
+1981;Spain;Unknown;Unknown
+1981;Sweden;Unknown;Unknown
+1981;Switzerland;Unknown;Unknown
+1981;The Netherlands;Unknown;Unknown
+1981;Turkey;Unknown;Unknown
+1981;United Kingdom;Unknown;Unknown
+1981;Yugoslavia;Unknown;Unknown
+1982;Austria;Unknown;Unknown
+1982;Belgium;Unknown;Unknown
+1982;Cyprus;Unknown;Unknown
+1982;Denmark;Unknown;Unknown
+1982;Finland;Unknown;Unknown
+1982;Germany;Unknown;Unknown
+1982;Ireland;Unknown;Unknown
+1982;Israel;Unknown;Unknown
+1982;Luxembourg;Unknown;Unknown
+1982;Norway;Unknown;Unknown
+1982;Portugal;Unknown;Unknown
+1982;Spain;Unknown;Unknown
+1982;Sweden;Unknown;Unknown
+1982;Switzerland;Unknown;Unknown
+1982;The Netherlands;Unknown;Unknown
+1982;Turkey;Unknown;Unknown
+1982;United Kingdom;Unknown;Unknown
+1982;Yugoslavia;Unknown;Unknown
+1983;Austria;Unknown;Unknown
+1983;Belgium;Unknown;Unknown
+1983;Cyprus;Unknown;Unknown
+1983;Denmark;Unknown;Unknown
+1983;Finland;Unknown;Unknown
+1983;France;Unknown;Unknown
+1983;Germany;Unknown;Unknown
+1983;Greece;Unknown;Unknown
+1983;Israel;Unknown;Unknown
+1983;Italy;Unknown;Unknown
+1983;Luxembourg;Unknown;Unknown
+1983;Norway;Unknown;Unknown
+1983;Portugal;Unknown;Unknown
+1983;Spain;Unknown;Unknown
+1983;Sweden;Unknown;Unknown
+1983;Switzerland;Unknown;Unknown
+1983;The Netherlands;Unknown;Unknown
+1983;Turkey;Unknown;Unknown
+1983;United Kingdom;Unknown;Unknown
+1983;Yugoslavia;Unknown;Unknown
+1984;Austria;Unknown;Unknown
+1984;Belgium;Unknown;Unknown
+1984;Cyprus;Unknown;Unknown
+1984;Denmark;Unknown;Unknown
+1984;Finland;Unknown;Unknown
+1984;France;Unknown;Unknown
+1984;Germany;Unknown;Unknown
+1984;Ireland;Unknown;Unknown
+1984;Italy;Unknown;Unknown
+1984;Luxembourg;Unknown;Unknown
+1984;Norway;Unknown;Unknown
+1984;Portugal;Unknown;Unknown
+1984;Spain;Unknown;Unknown
+1984;Sweden;Unknown;Unknown
+1984;Switzerland;Unknown;Unknown
+1984;The Netherlands;Unknown;Unknown
+1984;Turkey;Unknown;Unknown
+1984;United Kingdom;Unknown;Unknown
+1984;Yugoslavia;Unknown;Unknown
+1985;Austria;Unknown;Unknown
+1985;Belgium;Unknown;Unknown
+1985;Cyprus;Unknown;Unknown
+1985;Denmark;Unknown;Unknown
+1985;Finland;Unknown;Unknown
+1985;France;Unknown;Unknown
+1985;Germany;Unknown;Unknown
+1985;Greece;Unknown;Unknown
+1985;Ireland;Unknown;Unknown
+1985;Israel;Unknown;Unknown
+1985;Italy;Unknown;Unknown
+1985;Luxembourg;Unknown;Unknown
+1985;Norway;Unknown;Unknown
+1985;Portugal;Unknown;Unknown
+1985;Spain;Unknown;Unknown
+1985;Sweden;Unknown;Unknown
+1985;Switzerland;Unknown;Unknown
+1985;Turkey;Unknown;Unknown
+1985;United Kingdom;Unknown;Unknown
+1986;Austria;Unknown;Unknown
+1986;Belgium;Unknown;Unknown
+1986;Cyprus;Unknown;Unknown
+1986;Denmark;Unknown;Unknown
+1986;Finland;Unknown;Unknown
+1986;France;Unknown;Unknown
+1986;Germany;Unknown;Unknown
+1986;Iceland;Unknown;Unknown
+1986;Ireland;Unknown;Unknown
+1986;Israel;Unknown;Unknown
+1986;Luxembourg;Unknown;Unknown
+1986;Norway;Unknown;Unknown
+1986;Portugal;Unknown;Unknown
+1986;Spain;Unknown;Unknown
+1986;Sweden;Unknown;Unknown
+1986;Switzerland;Unknown;Unknown
+1986;The Netherlands;Unknown;Unknown
+1986;Turkey;Unknown;Unknown
+1986;United Kingdom;Unknown;Unknown
+1986;Yugoslavia;Unknown;Unknown
+1987;Austria;Unknown;Unknown
+1987;Belgium;Unknown;Unknown
+1987;Cyprus;Unknown;Unknown
+1987;Denmark;Unknown;Unknown
+1987;Finland;Unknown;Unknown
+1987;France;Unknown;Unknown
+1987;Germany;Unknown;Unknown
+1987;Greece;Unknown;Unknown
+1987;Iceland;Unknown;Unknown
+1987;Ireland;Unknown;Unknown
+1987;Israel;Unknown;Unknown
+1987;Italy;Unknown;Unknown
+1987;Luxembourg;Unknown;Unknown
+1987;Norway;Unknown;Unknown
+1987;Portugal;Unknown;Unknown
+1987;Spain;Unknown;Unknown
+1987;Sweden;Unknown;Unknown
+1987;Switzerland;Unknown;Unknown
+1987;The Netherlands;Unknown;Unknown
+1987;Turkey;Unknown;Unknown
+1987;United Kingdom;Unknown;Unknown
+1987;Yugoslavia;Unknown;Unknown
+1988;Austria;Unknown;Unknown
+1988;Belgium;Unknown;Unknown
+1988;Denmark;Unknown;Unknown
+1988;Finland;Unknown;Unknown
+1988;France;Unknown;Unknown
+1988;Germany;Unknown;Unknown
+1988;Greece;Unknown;Unknown
+1988;Iceland;Unknown;Unknown
+1988;Ireland;Unknown;Unknown
+1988;Israel;Unknown;Unknown
+1988;Italy;Unknown;Unknown
+1988;Luxembourg;Unknown;Unknown
+1988;Norway;Unknown;Unknown
+1988;Portugal;Unknown;Unknown
+1988;Spain;Unknown;Unknown
+1988;Sweden;Unknown;Unknown
+1988;Switzerland;Unknown;Unknown
+1988;The Netherlands;Unknown;Unknown
+1988;Turkey;Unknown;Unknown
+1988;United Kingdom;Unknown;Unknown
+1988;Yugoslavia;Unknown;Unknown
+1989;Austria;Unknown;Unknown
+1989;Belgium;Unknown;Unknown
+1989;Cyprus;Unknown;Unknown
+1989;Denmark;Unknown;Unknown
+1989;Finland;Unknown;Unknown
+1989;France;Unknown;Unknown
+1989;Germany;Unknown;Unknown
+1989;Greece;Unknown;Unknown
+1989;Iceland;Unknown;Unknown
+1989;Ireland;Unknown;Unknown
+1989;Israel;Unknown;Unknown
+1989;Italy;Unknown;Unknown
+1989;Luxembourg;Unknown;Unknown
+1989;Norway;Unknown;Unknown
+1989;Portugal;Unknown;Unknown
+1989;Spain;Unknown;Unknown
+1989;Sweden;Unknown;Unknown
+1989;Switzerland;Unknown;Unknown
+1989;The Netherlands;Unknown;Unknown
+1989;Turkey;Unknown;Unknown
+1989;United Kingdom;Unknown;Unknown
+1989;Yugoslavia;Unknown;Unknown
+1990;Austria;Unknown;Unknown
+1990;Belgium;Unknown;Unknown
+1990;Cyprus;Unknown;Unknown
+1990;Denmark;Unknown;Unknown
+1990;Finland;Unknown;Unknown
+1990;France;Unknown;Unknown
+1990;Germany;Unknown;Unknown
+1990;Greece;Unknown;Unknown
+1990;Iceland;Unknown;Unknown
+1990;Ireland;Unknown;Unknown
+1990;Israel;Unknown;Unknown
+1990;Italy;Unknown;Unknown
+1990;Luxembourg;Unknown;Unknown
+1990;Norway;Unknown;Unknown
+1990;Portugal;Unknown;Unknown
+1990;Spain;Unknown;Unknown
+1990;Sweden;Unknown;Unknown
+1990;Switzerland;Unknown;Unknown
+1990;The Netherlands;Unknown;Unknown
+1990;Turkey;Unknown;Unknown
+1990;United Kingdom;Unknown;Unknown
+1990;Yugoslavia;Unknown;Unknown
+1991;Austria;Unknown;Unknown
+1991;Belgium;Unknown;Unknown
+1991;Cyprus;Unknown;Unknown
+1991;Denmark;Unknown;Unknown
+1991;Finland;Unknown;Unknown
+1991;France;Unknown;Unknown
+1991;Germany;Unknown;Unknown
+1991;Greece;Unknown;Unknown
+1991;Iceland;Unknown;Unknown
+1991;Ireland;Unknown;Unknown
+1991;Israel;Unknown;Unknown
+1991;Italy;Unknown;Unknown
+1991;Luxembourg;Unknown;Unknown
+1991;Malta;Unknown;Unknown
+1991;Norway;Unknown;Unknown
+1991;Portugal;Unknown;Unknown
+1991;Spain;Unknown;Unknown
+1991;Sweden;Unknown;Unknown
+1991;Switzerland;Unknown;Unknown
+1991;Turkey;Unknown;Unknown
+1991;United Kingdom;Unknown;Unknown
+1991;Yugoslavia;Unknown;Unknown
+1992;Austria;Unknown;Unknown
+1992;Belgium;Unknown;Unknown
+1992;Cyprus;Unknown;Unknown
+1992;Denmark;Unknown;Unknown
+1992;Finland;Unknown;Unknown
+1992;France;Unknown;Unknown
+1992;Germany;Unknown;Unknown
+1992;Greece;Unknown;Unknown
+1992;Iceland;Unknown;Unknown
+1992;Ireland;Unknown;Unknown
+1992;Israel;Unknown;Unknown
+1992;Italy;Unknown;Unknown
+1992;Luxembourg;Unknown;Unknown
+1992;Malta;Unknown;Unknown
+1992;Norway;Unknown;Unknown
+1992;Portugal;Unknown;Unknown
+1992;Spain;Unknown;Unknown
+1992;Sweden;Unknown;Unknown
+1992;Switzerland;Unknown;Unknown
+1992;The Netherlands;Unknown;Unknown
+1992;Turkey;Unknown;Unknown
+1992;United Kingdom;Unknown;Unknown
+1992;Yugoslavia;Unknown;Unknown
+1993;Austria;Unknown;Unknown
+1993;Belgium;Unknown;Unknown
+1993;Bosnia and Herzegovina;Unknown;Unknown
+1993;Croatia;Unknown;Unknown
+1993;Cyprus;Unknown;Unknown
+1993;Denmark;Unknown;Unknown
+1993;Finland;Unknown;Unknown
+1993;France;Unknown;Unknown
+1993;Germany;Unknown;Unknown
+1993;Greece;Unknown;Unknown
+1993;Iceland;Unknown;Unknown
+1993;Ireland;Unknown;Unknown
+1993;Israel;Unknown;Unknown
+1993;Italy;Unknown;Unknown
+1993;Luxembourg;Unknown;Unknown
+1993;Malta;Unknown;Unknown
+1993;Norway;Unknown;Unknown
+1993;Portugal;Unknown;Unknown
+1993;Slovenia;Unknown;Unknown
+1993;Spain;Unknown;Unknown
+1993;Sweden;Unknown;Unknown
+1993;Switzerland;Unknown;Unknown
+1993;The Netherlands;Unknown;Unknown
+1993;Turkey;Unknown;Unknown
+1993;United Kingdom;Unknown;Unknown
+1994;Austria;Unknown;Unknown
+1994;Bosnia and Herzegovina;Unknown;Unknown
+1994;Croatia;Unknown;Unknown
+1994;Cyprus;Unknown;Unknown
+1994;Estonia;Unknown;Unknown
+1994;Finland;Unknown;Unknown
+1994;France;Unknown;Unknown
+1994;Germany;Unknown;Unknown
+1994;Greece;Unknown;Unknown
+1994;Hungary;Unknown;Unknown
+1994;Iceland;Unknown;Unknown
+1994;Ireland;Unknown;Unknown
+1994;Lithuania;Unknown;Unknown
+1994;Malta;Unknown;Unknown
+1994;Norway;Unknown;Unknown
+1994;Poland;Unknown;Unknown
+1994;Portugal;Unknown;Unknown
+1994;Romania;Unknown;Unknown
+1994;Russia;Unknown;Unknown
+1994;Slovakia;Unknown;Unknown
+1994;Spain;Unknown;Unknown
+1994;Sweden;Unknown;Unknown
+1994;Switzerland;Unknown;Unknown
+1994;The Netherlands;Unknown;Unknown
+1994;United Kingdom;Unknown;Unknown
+1995;Austria;Unknown;Unknown
+1995;Belgium;Unknown;Unknown
+1995;Bosnia and Herzegovina;Unknown;Unknown
+1995;Croatia;Unknown;Unknown
+1995;Cyprus;Unknown;Unknown
+1995;Denmark;Unknown;Unknown
+1995;France;Unknown;Unknown
+1995;Germany;Unknown;Unknown
+1995;Greece;Unknown;Unknown
+1995;Hungary;Unknown;Unknown
+1995;Iceland;Unknown;Unknown
+1995;Ireland;Unknown;Unknown
+1995;Israel;Unknown;Unknown
+1995;Malta;Unknown;Unknown
+1995;Norway;Unknown;Unknown
+1995;Poland;Unknown;Unknown
+1995;Portugal;Unknown;Unknown
+1995;Russia;Unknown;Unknown
+1995;Slovenia;Unknown;Unknown
+1995;Spain;Unknown;Unknown
+1995;Sweden;Unknown;Unknown
+1995;Turkey;Unknown;Unknown
+1995;United Kingdom;Unknown;Unknown
+1996;Austria;Unknown;Unknown
+1996;Belgium;Unknown;Unknown
+1996;Bosnia and Herzegovina;Unknown;Unknown
+1996;Croatia;Unknown;Unknown
+1996;Cyprus;Unknown;Unknown
+1996;Estonia;Unknown;Unknown
+1996;Finland;Unknown;Unknown
+1996;France;Unknown;Unknown
+1996;Greece;Unknown;Unknown
+1996;Iceland;Unknown;Unknown
+1996;Ireland;Unknown;Unknown
+1996;Malta;Unknown;Unknown
+1996;Norway;Unknown;Unknown
+1996;Poland;Unknown;Unknown
+1996;Portugal;Unknown;Unknown
+1996;Slovakia;Unknown;Unknown
+1996;Slovenia;Unknown;Unknown
+1996;Spain;Unknown;Unknown
+1996;Sweden;Unknown;Unknown
+1996;Switzerland;Unknown;Unknown
+1996;The Netherlands;Unknown;Unknown
+1996;Turkey;Unknown;Unknown
+1996;United Kingdom;Unknown;Unknown
+1997;Austria;Unknown;Unknown
+1997;Bosnia and Herzegovina;Unknown;Unknown
+1997;Croatia;Unknown;Unknown
+1997;Cyprus;Unknown;Unknown
+1997;Denmark;Unknown;Unknown
+1997;Estonia;Unknown;Unknown
+1997;France;Unknown;Unknown
+1997;Germany;Unknown;Unknown
+1997;Greece;Unknown;Unknown
+1997;Hungary;Unknown;Unknown
+1997;Iceland;Unknown;Unknown
+1997;Ireland;Unknown;Unknown
+1997;Italy;Unknown;Unknown
+1997;Malta;Unknown;Unknown
+1997;Norway;Unknown;Unknown
+1997;Poland;Unknown;Unknown
+1997;Portugal;Unknown;Unknown
+1997;Russia;Unknown;Unknown
+1997;Slovenia;Unknown;Unknown
+1997;Spain;Unknown;Unknown
+1997;Sweden;Unknown;Unknown
+1997;Switzerland;Unknown;Unknown
+1997;The Netherlands;Unknown;Unknown
+1997;Turkey;Unknown;Unknown
+1997;United Kingdom;Unknown;Unknown
+1998;Belgium;Unknown;Unknown
+1998;Croatia;Unknown;Unknown
+1998;Cyprus;Unknown;Unknown
+1998;Estonia;Unknown;Unknown
+1998;Finland;Unknown;Unknown
+1998;France;Unknown;Unknown
+1998;Germany;Unknown;Unknown
+1998;Greece;Unknown;Unknown
+1998;Hungary;Unknown;Unknown
+1998;Ireland;Unknown;Unknown
+1998;Israel;Unknown;Unknown
+1998;Macedonia;Unknown;Unknown
+1998;Malta;Unknown;Unknown
+1998;Norway;Unknown;Unknown
+1998;Poland;Unknown;Unknown
+1998;Portugal;Unknown;Unknown
+1998;Romania;Unknown;Unknown
+1998;Slovakia;Unknown;Unknown
+1998;Slovenia;Unknown;Unknown
+1998;Spain;Unknown;Unknown
+1998;Sweden;Unknown;Unknown
+1998;Switzerland;Unknown;Unknown
+1998;The Netherlands;Unknown;Unknown
+1998;Turkey;Unknown;Unknown
+1998;United Kingdom;Unknown;Unknown
+1999;Austria;Unknown;Unknown
+1999;Belgium;Unknown;Unknown
+1999;Bosnia and Herzegovina;Unknown;Unknown
+1999;Croatia;Unknown;Unknown
+1999;Cyprus;Unknown;Unknown
+1999;Denmark;Unknown;Unknown
+1999;Estonia;Unknown;Unknown
+1999;France;Unknown;Unknown
+1999;Germany;Unknown;Unknown
+1999;Iceland;Unknown;Unknown
+1999;Ireland;Unknown;Unknown
+1999;Israel;Unknown;Unknown
+1999;Lithuania;Unknown;Unknown
+1999;Malta;Unknown;Unknown
+1999;Norway;Unknown;Unknown
+1999;Poland;Unknown;Unknown
+1999;Portugal;Unknown;Unknown
+1999;Slovenia;Unknown;Unknown
+1999;Spain;Unknown;Unknown
+1999;Sweden;Unknown;Unknown
+1999;The Netherlands;Unknown;Unknown
+1999;Turkey;Unknown;Unknown
+1999;United Kingdom;Unknown;Unknown
+2000;Austria;Unknown;Unknown
+2000;Belgium;Unknown;Unknown
+2000;Croatia;Unknown;Unknown
+2000;Cyprus;Unknown;Unknown
+2000;Denmark;Unknown;Unknown
+2000;Estonia;Unknown;Unknown
+2000;Finland;Unknown;Unknown
+2000;France;Unknown;Unknown
+2000;Germany;Unknown;Unknown
+2000;Iceland;Unknown;Unknown
+2000;Ireland;Unknown;Unknown
+2000;Israel;Unknown;Unknown
+2000;Latvia;Unknown;Unknown
+2000;Macedonia;Unknown;Unknown
+2000;Malta;Unknown;Unknown
+2000;Norway;Unknown;Unknown
+2000;Romania;Unknown;Unknown
+2000;Russia;Unknown;Unknown
+2000;Spain;Unknown;Unknown
+2000;Sweden;Unknown;Unknown
+2000;Switzerland;Unknown;Unknown
+2000;The Netherlands;Unknown;Unknown
+2000;Turkey;Unknown;Unknown
+2000;United Kingdom;Unknown;Unknown
+2001;Bosnia and Herzegovina;Unknown;Unknown
+2001;Croatia;Unknown;Unknown
+2001;Denmark;Unknown;Unknown
+2001;Estonia;Unknown;Unknown
+2001;France;Unknown;Unknown
+2001;Germany;Unknown;Unknown
+2001;Greece;Unknown;Unknown
+2001;Iceland;Unknown;Unknown
+2001;Ireland;Unknown;Unknown
+2001;Israel;Unknown;Unknown
+2001;Latvia;Unknown;Unknown
+2001;Lithuania;Unknown;Unknown
+2001;Malta;Unknown;Unknown
+2001;Norway;Unknown;Unknown
+2001;Poland;Unknown;Unknown
+2001;Portugal;Unknown;Unknown
+2001;Russia;Unknown;Unknown
+2001;Slovenia;Unknown;Unknown
+2001;Spain;Unknown;Unknown
+2001;Sweden;Unknown;Unknown
+2001;The Netherlands;Unknown;Unknown
+2001;Turkey;Unknown;Unknown
+2001;United Kingdom;Unknown;Unknown
+2002;Austria;Unknown;Unknown
+2002;Belgium;Unknown;Unknown
+2002;Bosnia and Herzegovina;Unknown;Unknown
+2002;Croatia;Unknown;Unknown
+2002;Cyprus;Unknown;Unknown
+2002;Denmark;Unknown;Unknown
+2002;Estonia;Unknown;Unknown
+2002;Finland;Unknown;Unknown
+2002;France;Unknown;Unknown
+2002;Germany;Unknown;Unknown
+2002;Greece;Unknown;Unknown
+2002;Israel;Unknown;Unknown
+2002;Latvia;Unknown;Unknown
+2002;Lithuania;Unknown;Unknown
+2002;Macedonia;Unknown;Unknown
+2002;Malta;Unknown;Unknown
+2002;Romania;Unknown;Unknown
+2002;Russia;Unknown;Unknown
+2002;Slovenia;Unknown;Unknown
+2002;Spain;Unknown;Unknown
+2002;Sweden;Unknown;Unknown
+2002;Switzerland;Unknown;Unknown
+2002;Turkey;Unknown;Unknown
+2002;United Kingdom;Unknown;Unknown
+2003;Austria;Unknown;Unknown
+2003;Belgium;Unknown;Unknown
+2003;Bosnia and Herzegovina;Unknown;Unknown
+2003;Croatia;Unknown;Unknown
+2003;Cyprus;Unknown;Unknown
+2003;Estonia;Unknown;Unknown
+2003;France;Unknown;Unknown
+2003;Germany;Unknown;Unknown
+2003;Greece;Unknown;Unknown
+2003;Iceland;Unknown;Unknown
+2003;Ireland;Unknown;Unknown
+2003;Israel;Unknown;Unknown
+2003;Latvia;Unknown;Unknown
+2003;Malta;Unknown;Unknown
+2003;Norway;Unknown;Unknown
+2003;Poland;Unknown;Unknown
+2003;Portugal;Unknown;Unknown
+2003;Romania;Unknown;Unknown
+2003;Russia;Unknown;Unknown
+2003;Slovenia;Unknown;Unknown
+2003;Spain;Unknown;Unknown
+2003;Sweden;Unknown;Unknown
+2003;The Netherlands;Unknown;Unknown
+2003;Turkey;Unknown;Unknown
+2003;Ukraine;Unknown;Unknown
+2003;United Kingdom;Unknown;Unknown
+2004;Albania;Unknown;Unknown
+2004;Andorra;Unknown;Unknown
+2004;Austria;Unknown;Unknown
+2004;Belarus;Unknown;Unknown
+2004;Belgium;Unknown;Unknown
+2004;Bosnia and Herzegovina;Unknown;Unknown
+2004;Croatia;Unknown;Unknown
+2004;Cyprus;Unknown;Unknown
+2004;Denmark;Unknown;Unknown
+2004;Estonia;Unknown;Unknown
+2004;Finland;Unknown;Unknown
+2004;France;Unknown;Unknown
+2004;Germany;Unknown;Unknown
+2004;Greece;Unknown;Unknown
+2004;Iceland;Unknown;Unknown
+2004;Ireland;Unknown;Unknown
+2004;Israel;Unknown;Unknown
+2004;Latvia;Unknown;Unknown
+2004;Lithuania;Unknown;Unknown
+2004;Macedonia;Unknown;Unknown
+2004;Malta;Unknown;Unknown
+2004;Monaco;Unknown;Unknown
+2004;Norway;Unknown;Unknown
+2004;Poland;Unknown;Unknown
+2004;Portugal;Unknown;Unknown
+2004;Romania;Unknown;Unknown
+2004;Russia;Unknown;Unknown
+2004;Serbia and Montenegro;Unknown;Unknown
+2004;Slovenia;Unknown;Unknown
+2004;Spain;Unknown;Unknown
+2004;Sweden;Unknown;Unknown
+2004;Switzerland;Unknown;Unknown
+2004;The Netherlands;Unknown;Unknown
+2004;Turkey;Unknown;Unknown
+2004;Ukraine;Unknown;Unknown
+2004;United Kingdom;Unknown;Unknown
+2005;Albania;Unknown;Unknown
+2005;Andorra;Unknown;Unknown
+2005;Austria;Unknown;Unknown
+2005;Belarus;Unknown;Unknown
+2005;Belgium;Unknown;Unknown
+2005;Bosnia and Herzegovina;Unknown;Unknown
+2005;Bulgaria;Unknown;Unknown
+2005;Croatia;Unknown;Unknown
+2005;Cyprus;Unknown;Unknown
+2005;Denmark;Unknown;Unknown
+2005;Estonia;Unknown;Unknown
+2005;Finland;Unknown;Unknown
+2005;France;Unknown;Unknown
+2005;Germany;Unknown;Unknown
+2005;Greece;Unknown;Unknown
+2005;Hungary;Unknown;Unknown
+2005;Iceland;Unknown;Unknown
+2005;Ireland;Unknown;Unknown
+2005;Israel;Unknown;Unknown
+2005;Latvia;Unknown;Unknown
+2005;Lithuania;Unknown;Unknown
+2005;Macedonia;Unknown;Unknown
+2005;Malta;Unknown;Unknown
+2005;Moldova;Unknown;Unknown
+2005;Monaco;Unknown;Unknown
+2005;Norway;Unknown;Unknown
+2005;Poland;Unknown;Unknown
+2005;Portugal;Unknown;Unknown
+2005;Romania;Unknown;Unknown
+2005;Russia;Unknown;Unknown
+2005;Serbia and Montenegro;Unknown;Unknown
+2005;Slovenia;Unknown;Unknown
+2005;Spain;Unknown;Unknown
+2005;Sweden;Unknown;Unknown
+2005;Switzerland;Unknown;Unknown
+2005;The Netherlands;Unknown;Unknown
+2005;Turkey;Unknown;Unknown
+2005;Ukraine;Unknown;Unknown
+2005;United Kingdom;Unknown;Unknown
+2006;Albania;Unknown;Unknown
+2006;Andorra;Unknown;Unknown
+2006;Armenia;Unknown;Unknown
+2006;Belarus;Unknown;Unknown
+2006;Belgium;Unknown;Unknown
+2006;Bosnia and Herzegovina;Unknown;Unknown
+2006;Bulgaria;Unknown;Unknown
+2006;Croatia;Unknown;Unknown
+2006;Cyprus;Unknown;Unknown
+2006;Denmark;Unknown;Unknown
+2006;Estonia;Unknown;Unknown
+2006;Finland;Unknown;Unknown
+2006;France;Unknown;Unknown
+2006;Germany;Unknown;Unknown
+2006;Greece;Unknown;Unknown
+2006;Iceland;Unknown;Unknown
+2006;Ireland;Unknown;Unknown
+2006;Israel;Unknown;Unknown
+2006;Latvia;Unknown;Unknown
+2006;Lithuania;Unknown;Unknown
+2006;Macedonia;Unknown;Unknown
+2006;Malta;Unknown;Unknown
+2006;Moldova;Unknown;Unknown
+2006;Monaco;Unknown;Unknown
+2006;Norway;Unknown;Unknown
+2006;Poland;Unknown;Unknown
+2006;Portugal;Unknown;Unknown
+2006;Romania;Unknown;Unknown
+2006;Russia;Unknown;Unknown
+2006;Serbia and Montenegro;Unknown;Unknown
+2006;Slovenia;Unknown;Unknown
+2006;Spain;Unknown;Unknown
+2006;Sweden;Unknown;Unknown
+2006;Switzerland;Unknown;Unknown
+2006;The Netherlands;Unknown;Unknown
+2006;Turkey;Unknown;Unknown
+2006;Ukraine;Unknown;Unknown
+2006;United Kingdom;Unknown;Unknown
+2007;Albania;Unknown;Unknown
+2007;Andorra;Unknown;Unknown
+2007;Armenia;Unknown;Unknown
+2007;Austria;Unknown;Unknown
+2007;Belarus;Unknown;Unknown
+2007;Belgium;Unknown;Unknown
+2007;Bosnia and Herzegovina;Unknown;Unknown
+2007;Bulgaria;Unknown;Unknown
+2007;Croatia;Unknown;Unknown
+2007;Cyprus;Unknown;Unknown
+2007;Czech Republic;Unknown;Unknown
+2007;Denmark;Unknown;Unknown
+2007;Estonia;Unknown;Unknown
+2007;Finland;Unknown;Unknown
+2007;France;Unknown;Unknown
+2007;Georgia;Unknown;Unknown
+2007;Germany;Unknown;Unknown
+2007;Greece;Unknown;Unknown
+2007;Hungary;Unknown;Unknown
+2007;Iceland;Unknown;Unknown
+2007;Ireland;Unknown;Unknown
+2007;Israel;Unknown;Unknown
+2007;Latvia;Unknown;Unknown
+2007;Lithuania;Unknown;Unknown
+2007;Macedonia;Unknown;Unknown
+2007;Malta;Unknown;Unknown
+2007;Moldova;Unknown;Unknown
+2007;Montenegro;Unknown;Unknown
+2007;Norway;Unknown;Unknown
+2007;Poland;Unknown;Unknown
+2007;Portugal;Unknown;Unknown
+2007;Romania;Unknown;Unknown
+2007;Russia;Unknown;Unknown
+2007;Serbia;Unknown;Unknown
+2007;Slovenia;Unknown;Unknown
+2007;Spain;Unknown;Unknown
+2007;Sweden;Unknown;Unknown
+2007;Switzerland;Unknown;Unknown
+2007;The Netherlands;Unknown;Unknown
+2007;Turkey;Unknown;Unknown
+2007;Ukraine;Unknown;Unknown
+2007;United Kingdom;Unknown;Unknown
+2008;Albania;Unknown;Unknown
+2008;Andorra;Unknown;Unknown
+2008;Armenia;Unknown;Unknown
+2008;Azerbaijan;Unknown;Unknown
+2008;Belarus;Unknown;Unknown
+2008;Belgium;Unknown;Unknown
+2008;Bosnia and Herzegovina;Unknown;Unknown
+2008;Bulgaria;Unknown;Unknown
+2008;Croatia;Unknown;Unknown
+2008;Cyprus;Unknown;Unknown
+2008;Czech Republic;Unknown;Unknown
+2008;Denmark;Unknown;Unknown
+2008;Estonia;Unknown;Unknown
+2008;Finland;Unknown;Unknown
+2008;France;Unknown;Unknown
+2008;Georgia;Unknown;Unknown
+2008;Germany;Unknown;Unknown
+2008;Greece;Unknown;Unknown
+2008;Hungary;Unknown;Unknown
+2008;Iceland;Unknown;Unknown
+2008;Ireland;Unknown;Unknown
+2008;Israel;Unknown;Unknown
+2008;Latvia;Unknown;Unknown
+2008;Lithuania;Unknown;Unknown
+2008;Macedonia;Unknown;Unknown
+2008;Malta;Unknown;Unknown
+2008;Moldova;Unknown;Unknown
+2008;Montenegro;Unknown;Unknown
+2008;Norway;Unknown;Unknown
+2008;Poland;Unknown;Unknown
+2008;Portugal;Unknown;Unknown
+2008;Romania;Unknown;Unknown
+2008;Russia;Unknown;Unknown
+2008;San Marino;Unknown;Unknown
+2008;Serbia;Unknown;Unknown
+2008;Slovenia;Unknown;Unknown
+2008;Spain;Unknown;Unknown
+2008;Sweden;Unknown;Unknown
+2008;Switzerland;Unknown;Unknown
+2008;The Netherlands;Unknown;Unknown
+2008;Turkey;Unknown;Unknown
+2008;Ukraine;Unknown;Unknown
+2008;United Kingdom;Unknown;Unknown
+2009;Albania;Unknown;Unknown
+2009;Andorra;Unknown;Unknown
+2009;Armenia;Unknown;Unknown
+2009;Azerbaijan;Unknown;Unknown
+2009;Belarus;Unknown;Unknown
+2009;Belgium;Unknown;Unknown
+2009;Bosnia and Herzegovina;Unknown;Unknown
+2009;Bulgaria;Unknown;Unknown
+2009;Croatia;Unknown;Unknown
+2009;Cyprus;Unknown;Unknown
+2009;Czech Republic;Unknown;Unknown
+2009;Denmark;Unknown;Unknown
+2009;Estonia;Unknown;Unknown
+2009;Finland;Unknown;Unknown
+2009;France;Unknown;Unknown
+2009;Germany;Unknown;Unknown
+2009;Greece;Unknown;Unknown
+2009;Hungary;Unknown;Unknown
+2009;Iceland;Unknown;Unknown
+2009;Ireland;Unknown;Unknown
+2009;Israel;Unknown;Unknown
+2009;Latvia;Unknown;Unknown
+2009;Lithuania;Unknown;Unknown
+2009;Macedonia;Unknown;Unknown
+2009;Malta;Unknown;Unknown
+2009;Moldova;Unknown;Unknown
+2009;Montenegro;Unknown;Unknown
+2009;Norway;Unknown;Unknown
+2009;Poland;Unknown;Unknown
+2009;Portugal;Unknown;Unknown
+2009;Romania;Unknown;Unknown
+2009;Russia;Unknown;Unknown
+2009;Serbia;Unknown;Unknown
+2009;Slovakia;Unknown;Unknown
+2009;Slovenia;Unknown;Unknown
+2009;Spain;Unknown;Unknown
+2009;Sweden;Unknown;Unknown
+2009;Switzerland;Unknown;Unknown
+2009;The Netherlands;Unknown;Unknown
+2009;Turkey;Unknown;Unknown
+2009;Ukraine;Unknown;Unknown
+2009;United Kingdom;Unknown;Unknown
+2010;Albania;Unknown;Unknown
+2010;Armenia;Unknown;Unknown
+2010;Azerbaijan;Unknown;Unknown
+2010;Belarus;Unknown;Unknown
+2010;Belgium;Unknown;Unknown
+2010;Bosnia and Herzegovina;Unknown;Unknown
+2010;Bulgaria;Unknown;Unknown
+2010;Croatia;Unknown;Unknown
+2010;Cyprus;Unknown;Unknown
+2010;Denmark;Unknown;Unknown
+2010;Estonia;Unknown;Unknown
+2010;Finland;Unknown;Unknown
+2010;France;Unknown;Unknown
+2010;Georgia;Unknown;Unknown
+2010;Germany;Unknown;Unknown
+2010;Greece;Unknown;Unknown
+2010;Iceland;Unknown;Unknown
+2010;Ireland;Unknown;Unknown
+2010;Israel;Unknown;Unknown
+2010;Latvia;Unknown;Unknown
+2010;Lithuania;Unknown;Unknown
+2010;Macedonia;Unknown;Unknown
+2010;Malta;Unknown;Unknown
+2010;Moldova;Unknown;Unknown
+2010;Norway;Unknown;Unknown
+2010;Poland;Unknown;Unknown
+2010;Portugal;Unknown;Unknown
+2010;Romania;Unknown;Unknown
+2010;Russia;Unknown;Unknown
+2010;Serbia;Unknown;Unknown
+2010;Slovakia;Unknown;Unknown
+2010;Slovenia;Unknown;Unknown
+2010;Spain;Unknown;Unknown
+2010;Sweden;Unknown;Unknown
+2010;Switzerland;Unknown;Unknown
+2010;The Netherlands;Unknown;Unknown
+2010;Turkey;Unknown;Unknown
+2010;Ukraine;Unknown;Unknown
+2010;United Kingdom;Unknown;Unknown
+2011;Albania;Unknown;Unknown
+2011;Armenia;Unknown;Unknown
+2011;Austria;Unknown;Unknown
+2011;Azerbaijan;Unknown;Unknown
+2011;Belarus;Unknown;Unknown
+2011;Belgium;Unknown;Unknown
+2011;Bosnia and Herzegovina;Unknown;Unknown
+2011;Bulgaria;Unknown;Unknown
+2011;Croatia;Unknown;Unknown
+2011;Cyprus;Unknown;Unknown
+2011;Denmark;Unknown;Unknown
+2011;Estonia;Unknown;Unknown
+2011;Finland;Unknown;Unknown
+2011;France;Unknown;Unknown
+2011;Georgia;Unknown;Unknown
+2011;Germany;Unknown;Unknown
+2011;Greece;Unknown;Unknown
+2011;Hungary;Unknown;Unknown
+2011;Iceland;Unknown;Unknown
+2011;Ireland;Unknown;Unknown
+2011;Israel;Unknown;Unknown
+2011;Italy;Unknown;Unknown
+2011;Latvia;Unknown;Unknown
+2011;Lithuania;Unknown;Unknown
+2011;Macedonia;Unknown;Unknown
+2011;Malta;Unknown;Unknown
+2011;Moldova;Unknown;Unknown
+2011;Norway;Unknown;Unknown
+2011;Poland;Unknown;Unknown
+2011;Portugal;Unknown;Unknown
+2011;Romania;Unknown;Unknown
+2011;Russia;Unknown;Unknown
+2011;San Marino;Unknown;Unknown
+2011;Serbia;Unknown;Unknown
+2011;Slovakia;Unknown;Unknown
+2011;Slovenia;Unknown;Unknown
+2011;Spain;Unknown;Unknown
+2011;Sweden;Unknown;Unknown
+2011;Switzerland;Unknown;Unknown
+2011;The Netherlands;Unknown;Unknown
+2011;Turkey;Unknown;Unknown
+2011;Ukraine;Unknown;Unknown
+2011;United Kingdom;Unknown;Unknown
+2012;Albania;Unknown;Unknown
+2012;Austria;Unknown;Unknown
+2012;Azerbaijan;Unknown;Unknown
+2012;Belarus;Unknown;Unknown
+2012;Belgium;Unknown;Unknown
+2012;Bosnia and Herzegovina;Unknown;Unknown
+2012;Bulgaria;Unknown;Unknown
+2012;Croatia;Unknown;Unknown
+2012;Cyprus;Unknown;Unknown
+2012;Denmark;Unknown;Unknown
+2012;Estonia;Unknown;Unknown
+2012;Finland;Unknown;Unknown
+2012;France;Unknown;Unknown
+2012;Georgia;Unknown;Unknown
+2012;Germany;Unknown;Unknown
+2012;Greece;Unknown;Unknown
+2012;Hungary;Unknown;Unknown
+2012;Iceland;Unknown;Unknown
+2012;Ireland;Unknown;Unknown
+2012;Israel;Unknown;Unknown
+2012;Italy;Unknown;Unknown
+2012;Latvia;Unknown;Unknown
+2012;Lithuania;Unknown;Unknown
+2012;Macedonia;Unknown;Unknown
+2012;Malta;Unknown;Unknown
+2012;Moldova;Unknown;Unknown
+2012;Montenegro;Unknown;Unknown
+2012;Norway;Unknown;Unknown
+2012;Portugal;Unknown;Unknown
+2012;Romania;Unknown;Unknown
+2012;Russia;Unknown;Unknown
+2012;San Marino;Unknown;Unknown
+2012;Serbia;Unknown;Unknown
+2012;Slovakia;Unknown;Unknown
+2012;Slovenia;Unknown;Unknown
+2012;Spain;Unknown;Unknown
+2012;Sweden;Unknown;Unknown
+2012;Switzerland;Unknown;Unknown
+2012;The Netherlands;Unknown;Unknown
+2012;Turkey;Unknown;Unknown
+2012;Ukraine;Unknown;Unknown
+2012;United Kingdom;Unknown;Unknown
+2013;Albania;Unknown;Unknown
+2013;Armenia;Unknown;Unknown
+2013;Austria;Unknown;Unknown
+2013;Azerbaijan;Unknown;Unknown
+2013;Belarus;Unknown;Unknown
+2013;Belgium;Unknown;Unknown
+2013;Bulgaria;Unknown;Unknown
+2013;Croatia;Unknown;Unknown
+2013;Cyprus;Unknown;Unknown
+2013;Denmark;Unknown;Unknown
+2013;Estonia;Unknown;Unknown
+2013;Finland;Unknown;Unknown
+2013;France;Unknown;Unknown
+2013;Georgia;Unknown;Unknown
+2013;Germany;Unknown;Unknown
+2013;Greece;Unknown;Unknown
+2013;Hungary;Unknown;Unknown
+2013;Iceland;Unknown;Unknown
+2013;Ireland;Unknown;Unknown
+2013;Israel;Unknown;Unknown
+2013;Italy;Unknown;Unknown
+2013;Latvia;Unknown;Unknown
+2013;Lithuania;Unknown;Unknown
+2013;Macedonia;Unknown;Unknown
+2013;Malta;Unknown;Unknown
+2013;Moldova;Unknown;Unknown
+2013;Montenegro;Unknown;Unknown
+2013;Norway;Unknown;Unknown
+2013;Romania;Unknown;Unknown
+2013;Russia;Unknown;Unknown
+2013;San Marino;Unknown;Unknown
+2013;Serbia;Unknown;Unknown
+2013;Slovenia;Unknown;Unknown
+2013;Spain;Unknown;Unknown
+2013;Sweden;Unknown;Unknown
+2013;Switzerland;Unknown;Unknown
+2013;The Netherlands;Unknown;Unknown
+2013;Ukraine;Unknown;Unknown
+2013;United Kingdom;Unknown;Unknown
+2014;Albania;Unknown;Unknown
+2014;Armenia;Unknown;Unknown
+2014;Austria;Unknown;Unknown
+2014;Azerbaijan;Unknown;Unknown
+2014;Belarus;Unknown;Unknown
+2014;Belgium;Unknown;Unknown
+2014;Denmark;Unknown;Unknown
+2014;Estonia;Unknown;Unknown
+2014;Finland;Unknown;Unknown
+2014;France;Unknown;Unknown
+2014;Georgia;Unknown;Unknown
+2014;Germany;Unknown;Unknown
+2014;Greece;Unknown;Unknown
+2014;Hungary;Unknown;Unknown
+2014;Iceland;Unknown;Unknown
+2014;Ireland;Unknown;Unknown
+2014;Israel;Unknown;Unknown
+2014;Italy;Unknown;Unknown
+2014;Latvia;Unknown;Unknown
+2014;Lithuania;Unknown;Unknown
+2014;Macedonia;Unknown;Unknown
+2014;Malta;Unknown;Unknown
+2014;Moldova;Unknown;Unknown
+2014;Montenegro;Unknown;Unknown
+2014;Norway;Unknown;Unknown
+2014;Poland;Unknown;Unknown
+2014;Portugal;Unknown;Unknown
+2014;Romania;Unknown;Unknown
+2014;Russia;Unknown;Unknown
+2014;San Marino;Unknown;Unknown
+2014;Slovenia;Unknown;Unknown
+2014;Spain;Unknown;Unknown
+2014;Sweden;Unknown;Unknown
+2014;Switzerland;Unknown;Unknown
+2014;The Netherlands;Unknown;Unknown
+2014;Ukraine;Unknown;Unknown
+2014;United Kingdom;Unknown;Unknown
+2015;Albania;Unknown;Unknown
+2015;Armenia;Unknown;Unknown
+2015;Australia;Unknown;Unknown
+2015;Austria;Unknown;Unknown
+2015;Azerbaijan;Unknown;Unknown
+2015;Belarus;Unknown;Unknown
+2015;Belgium;Unknown;Unknown
+2015;Cyprus;Unknown;Unknown
+2015;Czech Republic;Unknown;Unknown
+2015;Denmark;Unknown;Unknown
+2015;Estonia;Unknown;Unknown
+2015;Finland;Unknown;Unknown
+2015;France;Unknown;Unknown
+2015;Georgia;Unknown;Unknown
+2015;Germany;Unknown;Unknown
+2015;Greece;Unknown;Unknown
+2015;Hungary;Unknown;Unknown
+2015;Iceland;Unknown;Unknown
+2015;Ireland;Unknown;Unknown
+2015;Israel;Unknown;Unknown
+2015;Italy;Unknown;Unknown
+2015;Latvia;Unknown;Unknown
+2015;Lithuania;Unknown;Unknown
+2015;Macedonia;Unknown;Unknown
+2015;Malta;Unknown;Unknown
+2015;Moldova;Unknown;Unknown
+2015;Montenegro;Unknown;Unknown
+2015;Norway;Unknown;Unknown
+2015;Poland;Unknown;Unknown
+2015;Portugal;Unknown;Unknown
+2015;Romania;Unknown;Unknown
+2015;Russia;Unknown;Unknown
+2015;San Marino;Unknown;Unknown
+2015;Serbia;Unknown;Unknown
+2015;Slovenia;Unknown;Unknown
+2015;Spain;Unknown;Unknown
+2015;Sweden;Unknown;Unknown
+2015;Switzerland;Unknown;Unknown
+2015;The Netherlands;Unknown;Unknown
+2015;United Kingdom;Unknown;Unknown
+2016;Albania;3;Very old
+2016;Armenia;4;Middle
+2016;Australia;3;Old
+2016;Austria;4;Middle
+2016;Azerbaijan;2;Old
+2016;Belarus;3;Middle
+2016;Belgium;2;Middle
+2016;Bosnia and Herzegovina;4;Middle
+2016;Bulgaria;3;Old
+2016;Croatia;2;Young
+2016;Cyprus;2;Middle
+2016;Czech Republic;Unknown;Unknown
+2016;Denmark;3;Old
+2016;Estonia;2;Old
+2016;Finland;3;Young
+2016;France;3;Old
+2016;Georgia;3;Young
+2016;Germany;2;Middle
+2016;Greece;3;Old
+2016;Hungary;4;Old
+2016;Iceland;2;Old
+2016;Ireland;2;Young
+2016;Israel;3;Old
+2016;Italy;2;Old
+2016;Latvia;3;Young
+2016;Lithuania;3;Middle
+2016;Macedonia;3;Old
+2016;Malta;3;Very young
+2016;Moldova;3;Young
+2016;Montenegro;3;Middle
+2016;Norway;3;Middle
+2016;Poland;4;Middle
+2016;Russia;3;Old
+2016;San Marino;3;Young
+2016;Serbia;3;Old
+2016;Slovenia;2;Young
+2016;Spain;3;Very young
+2016;Sweden;3;Very young
+2016;Switzerland;3;Very young
+2016;The Netherlands;Unknown;Unknown
+2016;Ukraine;3;Old
+2016;United Kingdom;3;Middle
+2017;Albania;3;Middle
+2017;Armenia;3;Middle
+2017;Australia;2;Middle
+2017;Austria;3;Middle
+2017;Azerbaijan;4;Very old
+2017;Belarus;2;Old
+2017;Belgium;3;Very young
+2017;Bulgaria;2;Old
+2017;Croatia;3;Middle
+2017;Cyprus;3;Middle
+2017;Czech Republic;Unknown;Unknown
+2017;Denmark;2;Middle
+2017;Estonia;3;Young
+2017;Finland;3;Middle
+2017;France;3;Very young
+2017;Georgia;2;Middle
+2017;Germany;3;Middle
+2017;Greece;3;Young
+2017;Hungary;3;Young
+2017;Iceland;2;Old
+2017;Ireland;2;Young
+2017;Israel;3;Old
+2017;Italy;3;Old
+2017;Latvia;3;Young
+2017;Lithuania;3;Very old
+2017;Macedonia;2;Young
+2017;Malta;3;Young
+2017;Moldova;2;Young
+2017;Montenegro;4;Middle
+2017;Norway;3;Middle
+2017;Poland;3;Middle
+2017;Portugal;3;Very old
+2017;Romania;3;Middle
+2017;San Marino;3;Very young
+2017;Serbia;2;Old
+2017;Slovenia;3;Middle
+2017;Spain;3;Young
+2017;Sweden;3;Middle
+2017;Switzerland;3;Old
+2017;The Netherlands;Unknown;Unknown
+2017;Ukraine;3;Middle
+2017;United Kingdom;2;Old
+2018;Albania;3;Middle
+2018;Armenia;3;Middle
+2018;Australia;2;Old
+2018;Austria;3;Young
+2018;Azerbaijan;2;Very old
+2018;Belarus;2;Old
+2018;Belgium;3;Young
+2018;Bulgaria;2;Old
+2018;Croatia;3;Old
+2018;Cyprus;3;Middle
+2018;Czech Republic;Unknown;Unknown
+2018;Denmark;2;Young
+2018;Estonia;3;Young
+2018;Finland;2;Middle
+2018;France;2;Young
+2018;Georgia;2;Old
+2018;Germany;3;Young
+2018;Greece;3;Middle
+2018;Hungary;3;Very old
+2018;Iceland;3;Middle
+2018;Ireland;3;Middle
+2018;Israel;4;Old
+2018;Italy;2;Very old
+2018;Latvia;2;Very young
+2018;Lithuania;3;Middle
+2018;Macedonia;3;Old
+2018;Malta;3;Young
+2018;Moldova;2;Middle
+2018;Montenegro;2;Middle
+2018;Norway;2;Young
+2018;Poland;3;Young
+2018;Portugal;3;Middle
+2018;Romania;3;Very old
+2018;Russia;3;Old
+2018;San Marino;3;Very young
+2018;Serbia;3;Very old
+2018;Slovenia;3;Middle
+2018;Spain;2;Very young
+2018;Sweden;2;Young
+2018;Switzerland;3;Middle
+2018;The Netherlands;Unknown;Unknown
+2018;Ukraine;3;Young
+2018;United Kingdom;2;Very young
+2019;Albania;Unknown;Unknown
+2019;Armenia;Unknown;Unknown
+2019;Australia;Unknown;Unknown
+2019;Austria;Unknown;Unknown
+2019;Azerbaijan;Unknown;Unknown
+2019;Belarus;Unknown;Unknown
+2019;Belgium;Unknown;Unknown
+2019;Croatia;Unknown;Unknown
+2019;Cyprus;Unknown;Unknown
+2019;Czech Republic;Unknown;Unknown
+2019;Denmark;Unknown;Unknown
+2019;Estonia;Unknown;Unknown
+2019;Finland;Unknown;Unknown
+2019;France;Unknown;Unknown
+2019;Georgia;Unknown;Unknown
+2019;Germany;Unknown;Unknown
+2019;Greece;Unknown;Unknown
+2019;Hungary;Unknown;Unknown
+2019;Iceland;Unknown;Unknown
+2019;Ireland;Unknown;Unknown
+2019;Israel;Unknown;Unknown
+2019;Italy;Unknown;Unknown
+2019;Latvia;Unknown;Unknown
+2019;Lithuania;Unknown;Unknown
+2019;Macedonia;Unknown;Unknown
+2019;Malta;Unknown;Unknown
+2019;Moldova;Unknown;Unknown
+2019;Montenegro;Unknown;Unknown
+2019;Norway;Unknown;Unknown
+2019;Poland;Unknown;Unknown
+2019;Portugal;Unknown;Unknown
+2019;Romania;Unknown;Unknown
+2019;Russia;Unknown;Unknown
+2019;San Marino;Unknown;Unknown
+2019;Serbia;Unknown;Unknown
+2019;Slovenia;Unknown;Unknown
+2019;Spain;Unknown;Unknown
+2019;Sweden;Unknown;Unknown
+2019;Switzerland;Unknown;Unknown
+2019;The Netherlands;Unknown;Unknown
+2019;United Kingdom;Unknown;Unknown
+2021;Albania;Unknown;Unknown
+2021;Australia;Unknown;Unknown
+2021;Austria;Unknown;Unknown
+2021;Azerbaijan;Unknown;Unknown
+2021;Belgium;Unknown;Unknown
+2021;Bulgaria;Unknown;Unknown
+2021;Croatia;Unknown;Unknown
+2021;Cyprus;Unknown;Unknown
+2021;Czech Republic;Unknown;Unknown
+2021;Denmark;Unknown;Unknown
+2021;Estonia;Unknown;Unknown
+2021;Finland;Unknown;Unknown
+2021;France;Unknown;Unknown
+2021;Georgia;Unknown;Unknown
+2021;Germany;Unknown;Unknown
+2021;Greece;Unknown;Unknown
+2021;Iceland;Unknown;Unknown
+2021;Ireland;Unknown;Unknown
+2021;Israel;Unknown;Unknown
+2021;Italy;Unknown;Unknown
+2021;Latvia;Unknown;Unknown
+2021;Lithuania;Unknown;Unknown
+2021;Macedonia;Unknown;Unknown
+2021;Malta;Unknown;Unknown
+2021;Moldova;Unknown;Unknown
+2021;Norway;Unknown;Unknown
+2021;Poland;Unknown;Unknown
+2021;Portugal;Unknown;Unknown
+2021;Romania;Unknown;Unknown
+2021;Russia;Unknown;Unknown
+2021;San Marino;Unknown;Unknown
+2021;Serbia;Unknown;Unknown
+2021;Slovenia;Unknown;Unknown
+2021;Spain;Unknown;Unknown
+2021;Sweden;Unknown;Unknown
+2021;Switzerland;Unknown;Unknown
+2021;The Netherlands;Unknown;Unknown
+2021;Ukraine;Unknown;Unknown
+2021;United Kingdom;Unknown;Unknown

@@ -76,6 +76,13 @@ res <- res %>%
 ### change column names
 colnames(res) <- c("Year", "Country.of.jury", "Male.count", "Mean.age.category")
 
+points_given <- read.csv2("../data/new/points_given.csv")
+points_given <- select(points_given, c("Year", "Voting")) %>%
+  unique()
+res <- merge(res, points_given, all.y = TRUE, by.x = c("Year", "Country.of.jury"), by.y = c("Year", "Voting")) %>%
+  select(Year, Country.of.jury, Male.count, Mean.age.category)
+res[is.na(res)] <- "Unknown"
+
 write.csv2(res, "../data/new/jury.csv", row.names = F)
 
 

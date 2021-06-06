@@ -1,2367 +1,1059 @@
-Country;Year;Current.US.digits;Growth.annual
-Albania;1975;Unknown;Unknown
-Andorra;1975;9;Stagnation
-Armenia;1975;Unknown;Unknown
-Australia;1975;11;Slight increase
-Austria;1975;11;Stagnation
-Azerbaijan;1975;Unknown;Unknown
-Belarus;1975;Unknown;Unknown
-Belgium;1975;11;Slight decrease
-Bosnia and Herzegovina;1975;Unknown;Unknown
-Bulgaria;1975;Unknown;Unknown
-Croatia;1975;Unknown;Unknown
-Cyprus;1975;9;Unknown
-Czech Republic;1975;Unknown;Unknown
-Denmark;1975;11;Slight decrease
-Estonia;1975;Unknown;Unknown
-Finland;1975;11;Slight increase
-France;1975;12;Stagnation
-Georgia;1975;Unknown;Big increase
-Germany;1975;12;Stagnation
-Greece;1975;11;Big increase
-Hungary;1975;Unknown;Unknown
-Iceland;1975;10;Stagnation
-Ireland;1975;10;Big increase
-Israel;1975;11;Slight increase
-Italy;1975;12;Slight decrease
-Latvia;1975;Unknown;Unknown
-Lithuania;1975;Unknown;Unknown
-Luxembourg;1975;10;Big decrease
-Macedonia;1975;Unknown;Unknown
-Malta;1975;9;Huge increase
-Moldova;1975;Unknown;Unknown
-Monaco;1975;9;Stagnation
-Montenegro;1975;Unknown;Unknown
-Morocco;1975;10;Big increase
-The Netherlands;1975;12;Stagnation
-Norway;1975;11;Slight increase
-Poland;1975;Unknown;Unknown
-Portugal;1975;11;Slight decrease
-Romania;1975;Unknown;Unknown
-Russia;1975;Unknown;Unknown
-San Marino;1975;Unknown;Unknown
-Serbia;1975;Unknown;Unknown
-Serbia and Montenegro;1975;Unknown;Unknown
-Slovakia;1975;Unknown;Unknown
-Slovenia;1975;Unknown;Unknown
-Spain;1975;12;Stagnation
-Sweden;1975;11;Slight increase
-Switzerland;1975;11;Big decrease
-Turkey;1975;11;Big increase
-Ukraine;1975;Unknown;Unknown
-United Kingdom;1975;12;Slight decrease
-Yugoslavia;1975;Unknown;Unknown
-Albania;1976;Unknown;Unknown
-Andorra;1976;9;Slight increase
-Armenia;1976;Unknown;Unknown
-Australia;1976;12;Slight increase
-Austria;1976;11;Slight increase
-Azerbaijan;1976;Unknown;Unknown
-Belarus;1976;Unknown;Unknown
-Belgium;1976;11;Big increase
-Bosnia and Herzegovina;1976;Unknown;Unknown
-Bulgaria;1976;Unknown;Unknown
-Croatia;1976;Unknown;Unknown
-Cyprus;1976;9;Huge increase
-Czech Republic;1976;Unknown;Unknown
-Denmark;1976;11;Big increase
-Estonia;1976;Unknown;Unknown
-Finland;1976;11;Stagnation
-France;1976;12;Slight increase
-Georgia;1976;Unknown;Big increase
-Germany;1976;12;Slight increase
-Greece;1976;11;Big increase
-Hungary;1976;Unknown;Unknown
-Iceland;1976;10;Big increase
-Ireland;1976;10;Slight increase
-Israel;1976;11;Stagnation
-Italy;1976;12;Big increase
-Latvia;1976;Unknown;Unknown
-Lithuania;1976;Unknown;Unknown
-Luxembourg;1976;10;Slight increase
-Macedonia;1976;Unknown;Unknown
-Malta;1976;9;Huge increase
-Moldova;1976;Unknown;Unknown
-Monaco;1976;9;Slight increase
-Montenegro;1976;Unknown;Unknown
-Morocco;1976;10;Huge increase
-The Netherlands;1976;12;Slight increase
-Norway;1976;11;Big increase
-Poland;1976;Unknown;Unknown
-Portugal;1976;11;Big increase
-Romania;1976;Unknown;Unknown
-Russia;1976;Unknown;Unknown
-San Marino;1976;Unknown;Unknown
-Serbia;1976;Unknown;Unknown
-Serbia and Montenegro;1976;Unknown;Unknown
-Slovakia;1976;Unknown;Unknown
-Slovenia;1976;Unknown;Unknown
-Spain;1976;12;Slight increase
-Sweden;1976;11;Slight increase
-Switzerland;1976;11;Slight decrease
-Turkey;1976;11;Huge increase
-Ukraine;1976;Unknown;Unknown
-United Kingdom;1976;12;Slight increase
-Yugoslavia;1976;Unknown;Unknown
-Albania;1977;Unknown;Unknown
-Andorra;1977;9;Slight increase
-Armenia;1977;Unknown;Unknown
-Australia;1977;12;Slight increase
-Austria;1977;11;Big increase
-Azerbaijan;1977;Unknown;Unknown
-Belarus;1977;Unknown;Unknown
-Belgium;1977;11;Stagnation
-Bosnia and Herzegovina;1977;Unknown;Unknown
-Bulgaria;1977;Unknown;Unknown
-Croatia;1977;Unknown;Unknown
-Cyprus;1977;9;Huge increase
-Czech Republic;1977;Unknown;Unknown
-Denmark;1977;11;Slight increase
-Estonia;1977;Unknown;Unknown
-Finland;1977;11;Stagnation
-France;1977;12;Slight increase
-Georgia;1977;Unknown;Big increase
-Germany;1977;12;Slight increase
-Greece;1977;11;Slight increase
-Hungary;1977;Unknown;Unknown
-Iceland;1977;10;Big increase
-Ireland;1977;11;Big increase
-Israel;1977;11;Slight increase
-Italy;1977;12;Slight increase
-Latvia;1977;Unknown;Unknown
-Lithuania;1977;Unknown;Unknown
-Luxembourg;1977;10;Slight increase
-Macedonia;1977;Unknown;Unknown
-Malta;1977;9;Huge increase
-Moldova;1977;Unknown;Unknown
-Monaco;1977;9;Slight increase
-Montenegro;1977;Unknown;Unknown
-Morocco;1977;11;Big increase
-The Netherlands;1977;12;Slight increase
-Norway;1977;11;Slight increase
-Poland;1977;Unknown;Unknown
-Portugal;1977;11;Big increase
-Romania;1977;Unknown;Unknown
-Russia;1977;Unknown;Unknown
-San Marino;1977;Unknown;Unknown
-Serbia;1977;Unknown;Unknown
-Serbia and Montenegro;1977;Unknown;Unknown
-Slovakia;1977;Unknown;Unknown
-Slovenia;1977;Unknown;Unknown
-Spain;1977;12;Slight increase
-Sweden;1977;11;Slight decrease
-Switzerland;1977;11;Slight increase
-Turkey;1977;11;Slight increase
-Ukraine;1977;Unknown;Unknown
-United Kingdom;1977;12;Slight increase
-Yugoslavia;1977;Unknown;Unknown
-Albania;1978;Unknown;Unknown
-Andorra;1978;9;Slight increase
-Armenia;1978;Unknown;Unknown
-Australia;1978;12;Stagnation
-Austria;1978;11;Stagnation
-Azerbaijan;1978;Unknown;Unknown
-Belarus;1978;Unknown;Unknown
-Belgium;1978;12;Slight increase
-Bosnia and Herzegovina;1978;Unknown;Unknown
-Bulgaria;1978;Unknown;Unknown
-Croatia;1978;Unknown;Unknown
-Cyprus;1978;9;Big increase
-Czech Republic;1978;Unknown;Unknown
-Denmark;1978;11;Slight increase
-Estonia;1978;Unknown;Unknown
-Finland;1978;11;Slight increase
-France;1978;12;Slight increase
-Georgia;1978;Unknown;Big increase
-Germany;1978;12;Slight increase
-Greece;1978;11;Big increase
-Hungary;1978;Unknown;Unknown
-Iceland;1978;10;Big increase
-Ireland;1978;11;Big increase
-Israel;1978;11;Big increase
-Italy;1978;12;Slight increase
-Latvia;1978;Unknown;Unknown
-Lithuania;1978;Unknown;Unknown
-Luxembourg;1978;10;Slight increase
-Macedonia;1978;Unknown;Unknown
-Malta;1978;9;Huge increase
-Moldova;1978;Unknown;Unknown
-Monaco;1978;10;Slight increase
-Montenegro;1978;Unknown;Unknown
-Morocco;1978;11;Slight increase
-The Netherlands;1978;12;Slight increase
-Norway;1978;11;Slight increase
-Poland;1978;Unknown;Unknown
-Portugal;1978;11;Slight increase
-Romania;1978;Unknown;Unknown
-Russia;1978;Unknown;Unknown
-San Marino;1978;Unknown;Unknown
-Serbia;1978;Unknown;Unknown
-Serbia and Montenegro;1978;Unknown;Unknown
-Slovakia;1978;Unknown;Unknown
-Slovenia;1978;Unknown;Unknown
-Spain;1978;12;Slight increase
-Sweden;1978;12;Slight increase
-Switzerland;1978;11;Stagnation
-Turkey;1978;11;Slight increase
-Ukraine;1978;Unknown;Unknown
-United Kingdom;1978;12;Slight increase
-Yugoslavia;1978;Unknown;Unknown
-Albania;1979;Unknown;Unknown
-Andorra;1979;9;Stagnation
-Armenia;1979;Unknown;Unknown
-Australia;1979;12;Slight increase
-Austria;1979;11;Big increase
-Azerbaijan;1979;Unknown;Unknown
-Belarus;1979;Unknown;Unknown
-Belgium;1979;12;Slight increase
-Bosnia and Herzegovina;1979;Unknown;Unknown
-Bulgaria;1979;Unknown;Unknown
-Croatia;1979;Unknown;Unknown
-Cyprus;1979;10;Big increase
-Czech Republic;1979;Unknown;Unknown
-Denmark;1979;11;Slight increase
-Estonia;1979;Unknown;Unknown
-Finland;1979;11;Big increase
-France;1979;12;Slight increase
-Georgia;1979;Unknown;Big increase
-Germany;1979;12;Slight increase
-Greece;1979;11;Slight increase
-Hungary;1979;Unknown;Unknown
-Iceland;1979;10;Slight increase
-Ireland;1979;11;Slight increase
-Israel;1979;11;Big increase
-Italy;1979;12;Big increase
-Latvia;1979;Unknown;Unknown
-Lithuania;1979;Unknown;Unknown
-Luxembourg;1979;10;Slight increase
-Macedonia;1979;Unknown;Unknown
-Malta;1979;10;Huge increase
-Moldova;1979;Unknown;Unknown
-Monaco;1979;10;Slight increase
-Montenegro;1979;Unknown;Unknown
-Morocco;1979;11;Slight increase
-The Netherlands;1979;12;Slight increase
-Norway;1979;11;Slight increase
-Poland;1979;Unknown;Unknown
-Portugal;1979;11;Big increase
-Romania;1979;Unknown;Unknown
-Russia;1979;Unknown;Unknown
-San Marino;1979;Unknown;Unknown
-Serbia;1979;Unknown;Unknown
-Serbia and Montenegro;1979;Unknown;Unknown
-Slovakia;1979;Unknown;Unknown
-Slovenia;1979;Unknown;Unknown
-Spain;1979;12;Stagnation
-Sweden;1979;12;Slight increase
-Switzerland;1979;12;Slight increase
-Turkey;1979;11;Stagnation
-Ukraine;1979;Unknown;Unknown
-United Kingdom;1979;12;Slight increase
-Yugoslavia;1979;Unknown;Unknown
-Albania;1980;Unknown;Unknown
-Andorra;1980;9;Slight increase
-Armenia;1980;Unknown;Unknown
-Australia;1980;12;Slight increase
-Austria;1980;11;Slight increase
-Azerbaijan;1980;Unknown;Unknown
-Belarus;1980;Unknown;Unknown
-Belgium;1980;12;Slight increase
-Bosnia and Herzegovina;1980;Unknown;Unknown
-Bulgaria;1980;11;Unknown
-Croatia;1980;Unknown;Unknown
-Cyprus;1980;10;Big increase
-Czech Republic;1980;Unknown;Unknown
-Denmark;1980;11;Stagnation
-Estonia;1980;Unknown;Unknown
-Finland;1980;11;Big increase
-France;1980;12;Slight increase
-Georgia;1980;Unknown;Slight increase
-Germany;1980;12;Slight increase
-Greece;1980;11;Stagnation
-Hungary;1980;Unknown;Unknown
-Iceland;1980;10;Big increase
-Ireland;1980;11;Slight increase
-Israel;1980;11;Slight increase
-Italy;1980;12;Slight increase
-Latvia;1980;Unknown;Unknown
-Lithuania;1980;Unknown;Unknown
-Luxembourg;1980;10;Stagnation
-Macedonia;1980;Unknown;Unknown
-Malta;1980;10;Big increase
-Moldova;1980;Unknown;Unknown
-Monaco;1980;10;Slight increase
-Montenegro;1980;Unknown;Unknown
-Morocco;1980;11;Slight increase
-The Netherlands;1980;12;Slight increase
-Norway;1980;11;Slight increase
-Poland;1980;Unknown;Unknown
-Portugal;1980;11;Slight increase
-Romania;1980;Unknown;Unknown
-Russia;1980;Unknown;Unknown
-San Marino;1980;Unknown;Unknown
-Serbia;1980;Unknown;Unknown
-Serbia and Montenegro;1980;Unknown;Unknown
-Slovakia;1980;Unknown;Unknown
-Slovenia;1980;Unknown;Unknown
-Spain;1980;12;Slight increase
-Sweden;1980;12;Slight increase
-Switzerland;1980;12;Slight increase
-Turkey;1980;11;Slight decrease
-Ukraine;1980;Unknown;Unknown
-United Kingdom;1980;12;Slight decrease
-Yugoslavia;1980;Unknown;Unknown
-Albania;1981;Unknown;Big increase
-Andorra;1981;9;Stagnation
-Armenia;1981;Unknown;Unknown
-Australia;1981;12;Slight increase
-Austria;1981;11;Stagnation
-Azerbaijan;1981;Unknown;Unknown
-Belarus;1981;Unknown;Unknown
-Belgium;1981;12;Stagnation
-Bosnia and Herzegovina;1981;Unknown;Unknown
-Bulgaria;1981;11;Slight increase
-Croatia;1981;Unknown;Unknown
-Cyprus;1981;10;Slight increase
-Czech Republic;1981;Unknown;Unknown
-Denmark;1981;11;Stagnation
-Estonia;1981;Unknown;Unknown
-Finland;1981;11;Slight increase
-France;1981;12;Slight increase
-Georgia;1981;Unknown;Big increase
-Germany;1981;12;Stagnation
-Greece;1981;11;Slight decrease
-Hungary;1981;Unknown;Unknown
-Iceland;1981;10;Slight increase
-Ireland;1981;11;Slight increase
-Israel;1981;11;Big increase
-Italy;1981;12;Stagnation
-Latvia;1981;Unknown;Unknown
-Lithuania;1981;Unknown;Unknown
-Luxembourg;1981;10;Stagnation
-Macedonia;1981;Unknown;Unknown
-Malta;1981;10;Slight increase
-Moldova;1981;Unknown;Unknown
-Monaco;1981;10;Stagnation
-Montenegro;1981;Unknown;Unknown
-Morocco;1981;11;Slight decrease
-The Netherlands;1981;12;Stagnation
-Norway;1981;11;Slight increase
-Poland;1981;Unknown;Unknown
-Portugal;1981;11;Slight increase
-Romania;1981;Unknown;Unknown
-Russia;1981;Unknown;Unknown
-San Marino;1981;Unknown;Unknown
-Serbia;1981;Unknown;Unknown
-Serbia and Montenegro;1981;Unknown;Unknown
-Slovakia;1981;Unknown;Unknown
-Slovenia;1981;Unknown;Unknown
-Spain;1981;12;Stagnation
-Sweden;1981;12;Stagnation
-Switzerland;1981;12;Slight increase
-Turkey;1981;11;Slight increase
-Ukraine;1981;Unknown;Unknown
-United Kingdom;1981;12;Stagnation
-Yugoslavia;1981;Unknown;Unknown
-Albania;1982;Unknown;Slight increase
-Andorra;1982;9;Slight increase
-Armenia;1982;Unknown;Unknown
-Australia;1982;12;Slight increase
-Austria;1982;11;Slight increase
-Azerbaijan;1982;Unknown;Unknown
-Belarus;1982;Unknown;Unknown
-Belgium;1982;11;Stagnation
-Bosnia and Herzegovina;1982;Unknown;Unknown
-Bulgaria;1982;11;Slight increase
-Croatia;1982;Unknown;Unknown
-Cyprus;1982;10;Big increase
-Czech Republic;1982;Unknown;Unknown
-Denmark;1982;11;Slight increase
-Estonia;1982;Unknown;Unknown
-Finland;1982;11;Slight increase
-France;1982;12;Slight increase
-Georgia;1982;Unknown;Slight increase
-Germany;1982;12;Stagnation
-Greece;1982;11;Slight decrease
-Hungary;1982;Unknown;Unknown
-Iceland;1982;10;Slight increase
-Ireland;1982;11;Slight increase
-Israel;1982;11;Slight increase
-Italy;1982;12;Stagnation
-Latvia;1982;Unknown;Unknown
-Lithuania;1982;Unknown;Unknown
-Luxembourg;1982;10;Slight increase
-Macedonia;1982;Unknown;Unknown
-Malta;1982;10;Slight increase
-Moldova;1982;Unknown;Unknown
-Monaco;1982;10;Slight increase
-Montenegro;1982;Unknown;Unknown
-Morocco;1982;11;Big increase
-The Netherlands;1982;12;Slight decrease
-Norway;1982;11;Stagnation
-Poland;1982;Unknown;Unknown
-Portugal;1982;11;Slight increase
-Romania;1982;Unknown;Unknown
-Russia;1982;Unknown;Unknown
-San Marino;1982;Unknown;Unknown
-Serbia;1982;Unknown;Unknown
-Serbia and Montenegro;1982;Unknown;Unknown
-Slovakia;1982;Unknown;Unknown
-Slovenia;1982;Unknown;Unknown
-Spain;1982;12;Slight increase
-Sweden;1982;12;Slight increase
-Switzerland;1982;12;Slight decrease
-Turkey;1982;11;Slight increase
-Ukraine;1982;Unknown;Unknown
-United Kingdom;1982;12;Slight increase
-Yugoslavia;1982;Unknown;Unknown
-Albania;1983;Unknown;Slight increase
-Andorra;1983;9;Slight increase
-Armenia;1983;Unknown;Unknown
-Australia;1983;12;Slight decrease
-Austria;1983;11;Slight increase
-Azerbaijan;1983;Unknown;Unknown
-Belarus;1983;Unknown;Unknown
-Belgium;1983;11;Stagnation
-Bosnia and Herzegovina;1983;Unknown;Unknown
-Bulgaria;1983;11;Slight increase
-Croatia;1983;Unknown;Unknown
-Cyprus;1983;10;Big increase
-Czech Republic;1983;Unknown;Unknown
-Denmark;1983;11;Slight increase
-Estonia;1983;Unknown;Unknown
-Finland;1983;11;Slight increase
-France;1983;12;Slight increase
-Georgia;1983;Unknown;Slight increase
-Germany;1983;12;Slight increase
-Greece;1983;11;Slight decrease
-Hungary;1983;Unknown;Unknown
-Iceland;1983;10;Slight decrease
-Ireland;1983;11;Stagnation
-Israel;1983;11;Slight increase
-Italy;1983;12;Slight increase
-Latvia;1983;Unknown;Unknown
-Lithuania;1983;Unknown;Unknown
-Luxembourg;1983;10;Slight increase
-Macedonia;1983;Unknown;Unknown
-Malta;1983;10;Stagnation
-Moldova;1983;Unknown;Unknown
-Monaco;1983;10;Slight increase
-Montenegro;1983;Unknown;Unknown
-Morocco;1983;11;Slight increase
-The Netherlands;1983;12;Slight increase
-Norway;1983;11;Slight increase
-Poland;1983;Unknown;Unknown
-Portugal;1983;11;Stagnation
-Romania;1983;Unknown;Unknown
-Russia;1983;Unknown;Unknown
-San Marino;1983;Unknown;Unknown
-Serbia;1983;Unknown;Unknown
-Serbia and Montenegro;1983;Unknown;Unknown
-Slovakia;1983;Unknown;Unknown
-Slovenia;1983;Unknown;Unknown
-Spain;1983;12;Slight increase
-Sweden;1983;12;Slight increase
-Switzerland;1983;12;Stagnation
-Turkey;1983;11;Slight increase
-Ukraine;1983;Unknown;Unknown
-United Kingdom;1983;12;Slight increase
-Yugoslavia;1983;Unknown;Unknown
-Albania;1984;10;Slight decrease
-Andorra;1984;9;Slight increase
-Armenia;1984;Unknown;Unknown
-Australia;1984;12;Slight increase
-Austria;1984;11;Stagnation
-Azerbaijan;1984;Unknown;Unknown
-Belarus;1984;Unknown;Unknown
-Belgium;1984;11;Slight increase
-Bosnia and Herzegovina;1984;Unknown;Unknown
-Bulgaria;1984;11;Slight increase
-Croatia;1984;Unknown;Unknown
-Cyprus;1984;10;Big increase
-Czech Republic;1984;Unknown;Unknown
-Denmark;1984;11;Slight increase
-Estonia;1984;Unknown;Unknown
-Finland;1984;11;Slight increase
-France;1984;12;Slight increase
-Georgia;1984;Unknown;Big increase
-Germany;1984;12;Slight increase
-Greece;1984;11;Slight increase
-Hungary;1984;Unknown;Unknown
-Iceland;1984;10;Slight increase
-Ireland;1984;11;Slight increase
-Israel;1984;11;Stagnation
-Italy;1984;12;Slight increase
-Latvia;1984;Unknown;Unknown
-Lithuania;1984;Unknown;Unknown
-Luxembourg;1984;10;Big increase
-Macedonia;1984;Unknown;Unknown
-Malta;1984;10;Stagnation
-Moldova;1984;Unknown;Unknown
-Monaco;1984;10;Slight increase
-Montenegro;1984;Unknown;Unknown
-Morocco;1984;11;Big increase
-The Netherlands;1984;12;Slight increase
-Norway;1984;11;Big increase
-Poland;1984;Unknown;Unknown
-Portugal;1984;11;Slight decrease
-Romania;1984;Unknown;Unknown
-Russia;1984;Unknown;Unknown
-San Marino;1984;Unknown;Unknown
-Serbia;1984;Unknown;Unknown
-Serbia and Montenegro;1984;Unknown;Unknown
-Slovakia;1984;Unknown;Unknown
-Slovenia;1984;Unknown;Unknown
-Spain;1984;12;Slight increase
-Sweden;1984;12;Slight increase
-Switzerland;1984;12;Slight increase
-Turkey;1984;11;Big increase
-Ukraine;1984;Unknown;Unknown
-United Kingdom;1984;12;Slight increase
-Yugoslavia;1984;Unknown;Unknown
-Albania;1985;10;Slight increase
-Andorra;1985;9;Slight increase
-Armenia;1985;Unknown;Unknown
-Australia;1985;12;Big increase
-Austria;1985;11;Slight increase
-Azerbaijan;1985;Unknown;Unknown
-Belarus;1985;Unknown;Unknown
-Belgium;1985;11;Slight increase
-Bosnia and Herzegovina;1985;Unknown;Unknown
-Bulgaria;1985;11;Slight increase
-Croatia;1985;Unknown;Unknown
-Cyprus;1985;10;Slight increase
-Czech Republic;1985;Unknown;Unknown
-Denmark;1985;11;Slight increase
-Estonia;1985;Unknown;Unknown
-Finland;1985;11;Slight increase
-France;1985;12;Slight increase
-Georgia;1985;Unknown;Slight increase
-Germany;1985;12;Slight increase
-Greece;1985;11;Slight increase
-Hungary;1985;Unknown;Unknown
-Iceland;1985;10;Slight increase
-Ireland;1985;11;Slight increase
-Israel;1985;11;Slight increase
-Italy;1985;12;Slight increase
-Latvia;1985;Unknown;Unknown
-Lithuania;1985;Unknown;Unknown
-Luxembourg;1985;10;Slight increase
-Macedonia;1985;Unknown;Unknown
-Malta;1985;10;Slight increase
-Moldova;1985;Unknown;Unknown
-Monaco;1985;10;Slight increase
-Montenegro;1985;Unknown;Unknown
-Morocco;1985;11;Big increase
-The Netherlands;1985;12;Slight increase
-Norway;1985;11;Big increase
-Poland;1985;Unknown;Unknown
-Portugal;1985;11;Slight increase
-Romania;1985;Unknown;Unknown
-Russia;1985;Unknown;Unknown
-San Marino;1985;Unknown;Unknown
-Serbia;1985;Unknown;Unknown
-Serbia and Montenegro;1985;Unknown;Unknown
-Slovakia;1985;Unknown;Unknown
-Slovenia;1985;Unknown;Unknown
-Spain;1985;12;Slight increase
-Sweden;1985;12;Slight increase
-Switzerland;1985;12;Slight increase
-Turkey;1985;11;Slight increase
-Ukraine;1985;Unknown;Unknown
-United Kingdom;1985;12;Slight increase
-Yugoslavia;1985;Unknown;Unknown
-Albania;1986;10;Big increase
-Andorra;1986;9;Slight increase
-Armenia;1986;Unknown;Unknown
-Australia;1986;12;Slight increase
-Austria;1986;11;Slight increase
-Azerbaijan;1986;Unknown;Unknown
-Belarus;1986;Unknown;Unknown
-Belgium;1986;12;Slight increase
-Bosnia and Herzegovina;1986;Unknown;Unknown
-Bulgaria;1986;11;Slight increase
-Croatia;1986;Unknown;Unknown
-Cyprus;1986;10;Slight increase
-Czech Republic;1986;Unknown;Unknown
-Denmark;1986;11;Slight increase
-Estonia;1986;Unknown;Unknown
-Finland;1986;11;Slight increase
-France;1986;12;Slight increase
-Georgia;1986;Unknown;Big decrease
-Germany;1986;13;Slight increase
-Greece;1986;11;Stagnation
-Hungary;1986;Unknown;Unknown
-Iceland;1986;10;Big increase
-Ireland;1986;11;Stagnation
-Israel;1986;11;Slight increase
-Italy;1986;12;Slight increase
-Latvia;1986;Unknown;Unknown
-Lithuania;1986;Unknown;Unknown
-Luxembourg;1986;10;Big increase
-Macedonia;1986;Unknown;Unknown
-Malta;1986;10;Slight increase
-Moldova;1986;Unknown;Unknown
-Monaco;1986;10;Slight increase
-Montenegro;1986;Unknown;Unknown
-Morocco;1986;11;Big increase
-The Netherlands;1986;12;Slight increase
-Norway;1986;11;Slight increase
-Poland;1986;Unknown;Unknown
-Portugal;1986;11;Slight increase
-Romania;1986;Unknown;Unknown
-Russia;1986;Unknown;Unknown
-San Marino;1986;Unknown;Unknown
-Serbia;1986;Unknown;Unknown
-Serbia and Montenegro;1986;Unknown;Unknown
-Slovakia;1986;Unknown;Unknown
-Slovenia;1986;Unknown;Unknown
-Spain;1986;12;Slight increase
-Sweden;1986;12;Slight increase
-Switzerland;1986;12;Slight increase
-Turkey;1986;11;Big increase
-Ukraine;1986;Unknown;Unknown
-United Kingdom;1986;12;Slight increase
-Yugoslavia;1986;Unknown;Unknown
-Albania;1987;10;Stagnation
-Andorra;1987;9;Big increase
-Armenia;1987;Unknown;Unknown
-Australia;1987;12;Slight increase
-Austria;1987;12;Slight increase
-Azerbaijan;1987;Unknown;Unknown
-Belarus;1987;Unknown;Unknown
-Belgium;1987;12;Slight increase
-Bosnia and Herzegovina;1987;Unknown;Unknown
-Bulgaria;1987;11;Big increase
-Croatia;1987;Unknown;Unknown
-Cyprus;1987;10;Big increase
-Czech Republic;1987;Unknown;Unknown
-Denmark;1987;12;Stagnation
-Estonia;1987;Unknown;Unknown
-Finland;1987;11;Slight increase
-France;1987;12;Slight increase
-Georgia;1987;Unknown;Slight increase
-Germany;1987;13;Slight increase
-Greece;1987;11;Slight decrease
-Hungary;1987;Unknown;Unknown
-Iceland;1987;10;Big increase
-Ireland;1987;11;Slight increase
-Israel;1987;11;Big increase
-Italy;1987;12;Slight increase
-Latvia;1987;Unknown;Unknown
-Lithuania;1987;Unknown;Unknown
-Luxembourg;1987;10;Slight increase
-Macedonia;1987;Unknown;Unknown
-Malta;1987;10;Slight increase
-Moldova;1987;Unknown;Unknown
-Monaco;1987;10;Slight increase
-Montenegro;1987;Unknown;Unknown
-Morocco;1987;11;Stagnation
-The Netherlands;1987;12;Slight increase
-Norway;1987;11;Slight increase
-Poland;1987;Unknown;Unknown
-Portugal;1987;11;Big increase
-Romania;1987;11;Unknown
-Russia;1987;Unknown;Unknown
-San Marino;1987;Unknown;Unknown
-Serbia;1987;Unknown;Unknown
-Serbia and Montenegro;1987;Unknown;Unknown
-Slovakia;1987;Unknown;Unknown
-Slovenia;1987;Unknown;Unknown
-Spain;1987;12;Big increase
-Sweden;1987;12;Slight increase
-Switzerland;1987;12;Slight increase
-Turkey;1987;11;Big increase
-Ukraine;1987;11;Unknown
-United Kingdom;1987;12;Big increase
-Yugoslavia;1987;Unknown;Unknown
-Albania;1988;10;Slight decrease
-Andorra;1988;9;Big increase
-Armenia;1988;Unknown;Unknown
-Australia;1988;12;Big increase
-Austria;1988;12;Slight increase
-Azerbaijan;1988;Unknown;Unknown
-Belarus;1988;Unknown;Unknown
-Belgium;1988;12;Slight increase
-Bosnia and Herzegovina;1988;Unknown;Unknown
-Bulgaria;1988;11;Huge increase
-Croatia;1988;Unknown;Unknown
-Cyprus;1988;10;Big increase
-Czech Republic;1988;Unknown;Unknown
-Denmark;1988;12;Stagnation
-Estonia;1988;Unknown;Unknown
-Finland;1988;12;Big increase
-France;1988;13;Slight increase
-Georgia;1988;Unknown;Big increase
-Germany;1988;13;Slight increase
-Greece;1988;11;Slight increase
-Hungary;1988;Unknown;Unknown
-Iceland;1988;10;Stagnation
-Ireland;1988;11;Big increase
-Israel;1988;11;Slight increase
-Italy;1988;12;Slight increase
-Latvia;1988;Unknown;Unknown
-Lithuania;1988;Unknown;Unknown
-Luxembourg;1988;10;Big increase
-Macedonia;1988;Unknown;Unknown
-Malta;1988;10;Big increase
-Moldova;1988;Unknown;Unknown
-Monaco;1988;10;Slight increase
-Montenegro;1988;Unknown;Unknown
-Morocco;1988;11;Huge increase
-The Netherlands;1988;12;Slight increase
-Norway;1988;12;Stagnation
-Poland;1988;Unknown;Unknown
-Portugal;1988;11;Big increase
-Romania;1988;11;Unknown
-Russia;1988;12;Unknown
-San Marino;1988;Unknown;Unknown
-Serbia;1988;Unknown;Unknown
-Serbia and Montenegro;1988;Unknown;Unknown
-Slovakia;1988;Unknown;Unknown
-Slovenia;1988;Unknown;Unknown
-Spain;1988;12;Big increase
-Sweden;1988;12;Slight increase
-Switzerland;1988;12;Slight increase
-Turkey;1988;11;Slight increase
-Ukraine;1988;11;Slight increase
-United Kingdom;1988;12;Big increase
-Yugoslavia;1988;Unknown;Unknown
-Albania;1989;10;Big increase
-Andorra;1989;9;Slight increase
-Armenia;1989;Unknown;Unknown
-Australia;1989;12;Slight increase
-Austria;1989;12;Slight increase
-Azerbaijan;1989;Unknown;Unknown
-Belarus;1989;Unknown;Unknown
-Belgium;1989;12;Slight increase
-Bosnia and Herzegovina;1989;Unknown;Unknown
-Bulgaria;1989;11;Slight decrease
-Croatia;1989;Unknown;Unknown
-Cyprus;1989;10;Big increase
-Czech Republic;1989;Unknown;Unknown
-Denmark;1989;12;Stagnation
-Estonia;1989;Unknown;Unknown
-Finland;1989;12;Big increase
-France;1989;13;Slight increase
-Georgia;1989;Unknown;Big decrease
-Germany;1989;13;Slight increase
-Greece;1989;11;Slight increase
-Hungary;1989;Unknown;Unknown
-Iceland;1989;10;Stagnation
-Ireland;1989;11;Big increase
-Israel;1989;11;Stagnation
-Italy;1989;12;Slight increase
-Latvia;1989;Unknown;Unknown
-Lithuania;1989;Unknown;Unknown
-Luxembourg;1989;11;Big increase
-Macedonia;1989;Unknown;Unknown
-Malta;1989;10;Big increase
-Moldova;1989;Unknown;Unknown
-Monaco;1989;10;Slight increase
-Montenegro;1989;Unknown;Unknown
-Morocco;1989;11;Slight increase
-The Netherlands;1989;12;Slight increase
-Norway;1989;12;Slight increase
-Poland;1989;Unknown;Unknown
-Portugal;1989;11;Big increase
-Romania;1989;11;Unknown
-Russia;1989;12;Unknown
-San Marino;1989;Unknown;Unknown
-Serbia;1989;Unknown;Unknown
-Serbia and Montenegro;1989;Unknown;Unknown
-Slovakia;1989;Unknown;Unknown
-Slovenia;1989;Unknown;Unknown
-Spain;1989;12;Slight increase
-Sweden;1989;12;Slight increase
-Switzerland;1989;12;Slight increase
-Turkey;1989;12;Stagnation
-Ukraine;1989;11;Slight increase
-United Kingdom;1989;12;Slight increase
-Yugoslavia;1989;Unknown;Unknown
-Albania;1990;10;Big decrease
-Andorra;1990;10;Slight increase
-Armenia;1990;10;Unknown
-Australia;1990;12;Slight increase
-Austria;1990;12;Slight increase
-Azerbaijan;1990;10;Unknown
-Belarus;1990;11;Unknown
-Belgium;1990;12;Slight increase
-Bosnia and Herzegovina;1990;Unknown;Unknown
-Bulgaria;1990;11;Big decrease
-Croatia;1990;Unknown;Unknown
-Cyprus;1990;10;Big increase
-Czech Republic;1990;11;Unknown
-Denmark;1990;12;Slight increase
-Estonia;1990;Unknown;Unknown
-Finland;1990;12;Stagnation
-France;1990;13;Slight increase
-Georgia;1990;10;Huge decrease
-Germany;1990;13;Big increase
-Greece;1990;11;Unknown
-Hungary;1990;Unknown;Unknown
-Iceland;1990;10;Slight increase
-Ireland;1990;11;Big increase
-Israel;1990;11;Big increase
-Italy;1990;13;Slight increase
-Latvia;1990;Unknown;Unknown
-Lithuania;1990;Unknown;Unknown
-Luxembourg;1990;11;Big increase
-Macedonia;1990;10;Unknown
-Malta;1990;10;Big increase
-Moldova;1990;Unknown;Unknown
-Monaco;1990;10;Slight increase
-Montenegro;1990;Unknown;Unknown
-Morocco;1990;11;Slight increase
-The Netherlands;1990;12;Slight increase
-Norway;1990;12;Slight increase
-Poland;1990;11;Unknown
-Portugal;1990;11;Slight increase
-Romania;1990;11;Unknown
-Russia;1990;12;Slight decrease
-San Marino;1990;Unknown;Unknown
-Serbia;1990;Unknown;Unknown
-Serbia and Montenegro;1990;Unknown;Unknown
-Slovakia;1990;11;Unknown
-Slovenia;1990;11;Unknown
-Spain;1990;12;Slight increase
-Sweden;1990;12;Stagnation
-Switzerland;1990;12;Slight increase
-Turkey;1990;12;Big increase
-Ukraine;1990;11;Big decrease
-United Kingdom;1990;13;Stagnation
-Yugoslavia;1990;Unknown;Unknown
-Albania;1991;10;Huge decrease
-Andorra;1991;10;Slight increase
-Armenia;1991;10;Huge decrease
-Australia;1991;12;Stagnation
-Austria;1991;12;Slight increase
-Azerbaijan;1991;10;Stagnation
-Belarus;1991;11;Slight decrease
-Belgium;1991;12;Slight increase
-Bosnia and Herzegovina;1991;Unknown;Unknown
-Bulgaria;1991;11;Big decrease
-Croatia;1991;Unknown;Unknown
-Cyprus;1991;10;Stagnation
-Czech Republic;1991;11;Huge decrease
-Denmark;1991;12;Slight increase
-Estonia;1991;Unknown;Unknown
-Finland;1991;12;Big decrease
-France;1991;13;Slight increase
-Georgia;1991;10;Huge decrease
-Germany;1991;13;Big increase
-Greece;1991;12;Slight increase
-Hungary;1991;11;Unknown
-Iceland;1991;10;Stagnation
-Ireland;1991;11;Slight increase
-Israel;1991;11;Big increase
-Italy;1991;13;Slight increase
-Latvia;1991;Unknown;Unknown
-Lithuania;1991;Unknown;Unknown
-Luxembourg;1991;11;Big increase
-Macedonia;1991;10;Big decrease
-Malta;1991;10;Big increase
-Moldova;1991;Unknown;Unknown
-Monaco;1991;10;Slight increase
-Montenegro;1991;Unknown;Unknown
-Morocco;1991;11;Big increase
-The Netherlands;1991;12;Slight increase
-Norway;1991;12;Slight increase
-Poland;1991;11;Big decrease
-Portugal;1991;11;Slight increase
-Romania;1991;11;Huge decrease
-Russia;1991;12;Big decrease
-San Marino;1991;Unknown;Unknown
-Serbia;1991;Unknown;Unknown
-Serbia and Montenegro;1991;Unknown;Unknown
-Slovakia;1991;11;Unknown
-Slovenia;1991;11;Big decrease
-Spain;1991;12;Slight increase
-Sweden;1991;12;Slight decrease
-Switzerland;1991;12;Stagnation
-Turkey;1991;12;Stagnation
-Ukraine;1991;11;Big decrease
-United Kingdom;1991;13;Slight decrease
-Yugoslavia;1991;Unknown;Unknown
-Albania;1992;9;Big decrease
-Andorra;1992;10;Stagnation
-Armenia;1992;10;Huge decrease
-Australia;1992;12;Stagnation
-Austria;1992;12;Slight increase
-Azerbaijan;1992;10;Huge decrease
-Belarus;1992;11;Big decrease
-Belgium;1992;12;Slight increase
-Bosnia and Herzegovina;1992;Unknown;Unknown
-Bulgaria;1992;11;Big decrease
-Croatia;1992;Unknown;Unknown
-Cyprus;1992;10;Big increase
-Czech Republic;1992;11;Stagnation
-Denmark;1992;12;Slight increase
-Estonia;1992;Unknown;Unknown
-Finland;1992;12;Slight decrease
-France;1992;13;Slight increase
-Georgia;1992;10;Huge decrease
-Germany;1992;13;Slight increase
-Greece;1992;12;Stagnation
-Hungary;1992;11;Slight decrease
-Iceland;1992;10;Slight decrease
-Ireland;1992;11;Slight increase
-Israel;1992;11;Big increase
-Italy;1992;13;Stagnation
-Latvia;1992;Unknown;Unknown
-Lithuania;1992;Unknown;Unknown
-Luxembourg;1992;11;Slight increase
-Macedonia;1992;10;Big decrease
-Malta;1992;10;Slight increase
-Moldova;1992;Unknown;Unknown
-Monaco;1992;10;Slight increase
-Montenegro;1992;Unknown;Unknown
-Morocco;1992;11;Slight decrease
-The Netherlands;1992;12;Slight increase
-Norway;1992;12;Slight increase
-Poland;1992;11;Slight increase
-Portugal;1992;12;Slight increase
-Romania;1992;11;Big decrease
-Russia;1992;12;Huge decrease
-San Marino;1992;Unknown;Unknown
-Serbia;1992;Unknown;Unknown
-Serbia and Montenegro;1992;Unknown;Unknown
-Slovakia;1992;11;Unknown
-Slovenia;1992;11;Big decrease
-Spain;1992;12;Stagnation
-Sweden;1992;12;Slight decrease
-Switzerland;1992;12;Stagnation
-Turkey;1992;12;Big increase
-Ukraine;1992;11;Big decrease
-United Kingdom;1992;13;Stagnation
-Yugoslavia;1992;Unknown;Unknown
-Albania;1993;10;Big increase
-Andorra;1993;10;Slight decrease
-Armenia;1993;10;Big decrease
-Australia;1993;12;Slight increase
-Austria;1993;12;Stagnation
-Azerbaijan;1993;10;Huge decrease
-Belarus;1993;11;Big decrease
-Belgium;1993;12;Stagnation
-Bosnia and Herzegovina;1993;Unknown;Unknown
-Bulgaria;1993;11;Slight decrease
-Croatia;1993;Unknown;Unknown
-Cyprus;1993;10;Stagnation
-Czech Republic;1993;11;Stagnation
-Denmark;1993;12;Stagnation
-Estonia;1993;10;Unknown
-Finland;1993;11;Stagnation
-France;1993;13;Stagnation
-Georgia;1993;10;Huge decrease
-Germany;1993;13;Stagnation
-Greece;1993;12;Slight decrease
-Hungary;1993;11;Stagnation
-Iceland;1993;10;Slight increase
-Ireland;1993;11;Slight increase
-Israel;1993;11;Slight increase
-Italy;1993;13;Stagnation
-Latvia;1993;Unknown;Unknown
-Lithuania;1993;Unknown;Unknown
-Luxembourg;1993;11;Slight increase
-Macedonia;1993;10;Big decrease
-Malta;1993;10;Slight increase
-Moldova;1993;Unknown;Unknown
-Monaco;1993;10;Stagnation
-Montenegro;1993;Unknown;Unknown
-Morocco;1993;11;Stagnation
-The Netherlands;1993;12;Slight increase
-Norway;1993;12;Slight increase
-Poland;1993;11;Slight increase
-Portugal;1993;11;Slight decrease
-Romania;1993;11;Slight increase
-Russia;1993;12;Big decrease
-San Marino;1993;Unknown;Unknown
-Serbia;1993;Unknown;Unknown
-Serbia and Montenegro;1993;Unknown;Unknown
-Slovakia;1993;11;Slight increase
-Slovenia;1993;11;Slight increase
-Spain;1993;12;Slight decrease
-Sweden;1993;12;Slight decrease
-Switzerland;1993;12;Stagnation
-Turkey;1993;12;Big increase
-Ukraine;1993;11;Huge decrease
-United Kingdom;1993;13;Slight increase
-Yugoslavia;1993;Unknown;Unknown
-Albania;1994;10;Big increase
-Andorra;1994;10;Slight increase
-Armenia;1994;10;Big increase
-Australia;1994;12;Slight increase
-Austria;1994;12;Slight increase
-Azerbaijan;1994;10;Huge decrease
-Belarus;1994;11;Huge decrease
-Belgium;1994;12;Slight increase
-Bosnia and Herzegovina;1994;10;Unknown
-Bulgaria;1994;10;Slight increase
-Croatia;1994;Unknown;Unknown
-Cyprus;1994;10;Big increase
-Czech Republic;1994;11;Slight increase
-Denmark;1994;12;Big increase
-Estonia;1994;10;Slight decrease
-Finland;1994;12;Slight increase
-France;1994;13;Slight increase
-Georgia;1994;10;Huge decrease
-Germany;1994;13;Slight increase
-Greece;1994;12;Slight increase
-Hungary;1994;11;Slight increase
-Iceland;1994;10;Slight increase
-Ireland;1994;11;Big increase
-Israel;1994;11;Big increase
-Italy;1994;13;Slight increase
-Latvia;1994;Unknown;Unknown
-Lithuania;1994;Unknown;Unknown
-Luxembourg;1994;11;Slight increase
-Macedonia;1994;10;Slight decrease
-Malta;1994;10;Big increase
-Moldova;1994;Unknown;Unknown
-Monaco;1994;10;Slight increase
-Montenegro;1994;Unknown;Unknown
-Morocco;1994;11;Huge increase
-The Netherlands;1994;12;Slight increase
-Norway;1994;12;Big increase
-Poland;1994;12;Big increase
-Portugal;1994;11;Stagnation
-Romania;1994;11;Slight increase
-Russia;1994;12;Huge decrease
-San Marino;1994;Unknown;Unknown
-Serbia;1994;Unknown;Unknown
-Serbia and Montenegro;1994;Unknown;Unknown
-Slovakia;1994;11;Big increase
-Slovenia;1994;11;Big increase
-Spain;1994;12;Slight increase
-Sweden;1994;12;Slight increase
-Switzerland;1994;12;Slight increase
-Turkey;1994;12;Slight decrease
-Ukraine;1994;11;Huge decrease
-United Kingdom;1994;13;Slight increase
-Yugoslavia;1994;Unknown;Unknown
-Albania;1995;10;Huge increase
-Andorra;1995;10;Slight increase
-Armenia;1995;10;Big increase
-Australia;1995;12;Slight increase
-Austria;1995;12;Slight increase
-Azerbaijan;1995;10;Huge decrease
-Belarus;1995;11;Huge decrease
-Belgium;1995;12;Slight increase
-Bosnia and Herzegovina;1995;10;Huge increase
-Bulgaria;1995;11;Slight increase
-Croatia;1995;11;Unknown
-Cyprus;1995;10;Big increase
-Czech Republic;1995;11;Big increase
-Denmark;1995;12;Slight increase
-Estonia;1995;10;Slight increase
-Finland;1995;12;Slight increase
-France;1995;13;Slight increase
-Georgia;1995;10;Slight increase
-Germany;1995;13;Slight increase
-Greece;1995;12;Slight increase
-Hungary;1995;11;Slight increase
-Iceland;1995;10;Stagnation
-Ireland;1995;11;Big increase
-Israel;1995;12;Huge increase
-Italy;1995;13;Slight increase
-Latvia;1995;10;Unknown
-Lithuania;1995;10;Unknown
-Luxembourg;1995;11;Slight increase
-Macedonia;1995;10;Slight decrease
-Malta;1995;10;Big increase
-Moldova;1995;10;Unknown
-Monaco;1995;10;Slight increase
-Montenegro;1995;Unknown;Unknown
-Morocco;1995;11;Big decrease
-The Netherlands;1995;12;Slight increase
-Norway;1995;12;Slight increase
-Poland;1995;12;Big increase
-Portugal;1995;12;Slight increase
-Romania;1995;11;Big increase
-Russia;1995;12;Slight decrease
-San Marino;1995;Unknown;Unknown
-Serbia;1995;11;Unknown
-Serbia and Montenegro;1995;Unknown;Unknown
-Slovakia;1995;11;Big increase
-Slovenia;1995;11;Slight increase
-Spain;1995;12;Slight increase
-Sweden;1995;12;Slight increase
-Switzerland;1995;12;Stagnation
-Turkey;1995;12;Big increase
-Ukraine;1995;11;Huge decrease
-United Kingdom;1995;13;Slight increase
-Yugoslavia;1995;Unknown;Unknown
-Albania;1996;10;Big increase
-Andorra;1996;10;Slight increase
-Armenia;1996;10;Big increase
-Australia;1996;12;Slight increase
-Austria;1996;12;Slight increase
-Azerbaijan;1996;10;Slight increase
-Belarus;1996;11;Slight increase
-Belgium;1996;12;Slight increase
-Bosnia and Herzegovina;1996;10;Huge increase
-Bulgaria;1996;11;Big increase
-Croatia;1996;11;Big increase
-Cyprus;1996;11;Slight increase
-Czech Republic;1996;11;Slight increase
-Denmark;1996;12;Slight increase
-Estonia;1996;10;Slight increase
-Finland;1996;12;Slight increase
-France;1996;13;Slight increase
-Georgia;1996;10;Huge increase
-Germany;1996;13;Stagnation
-Greece;1996;12;Slight increase
-Hungary;1996;11;Stagnation
-Iceland;1996;10;Slight increase
-Ireland;1996;11;Big increase
-Israel;1996;12;Big increase
-Italy;1996;13;Slight increase
-Latvia;1996;10;Slight increase
-Lithuania;1996;10;Big increase
-Luxembourg;1996;11;Slight increase
-Macedonia;1996;10;Slight increase
-Malta;1996;10;Slight increase
-Moldova;1996;10;Big decrease
-Monaco;1996;10;Slight increase
-Montenegro;1996;Unknown;Unknown
-Morocco;1996;11;Huge increase
-The Netherlands;1996;12;Slight increase
-Norway;1996;12;Big increase
-Poland;1996;12;Big increase
-Portugal;1996;12;Slight increase
-Romania;1996;11;Slight increase
-Russia;1996;12;Slight decrease
-San Marino;1996;Unknown;Unknown
-Serbia;1996;11;Big increase
-Serbia and Montenegro;1996;Unknown;Unknown
-Slovakia;1996;11;Big increase
-Slovenia;1996;11;Slight increase
-Spain;1996;12;Slight increase
-Sweden;1996;12;Slight increase
-Switzerland;1996;12;Stagnation
-Turkey;1996;12;Big increase
-Ukraine;1996;11;Big decrease
-United Kingdom;1996;13;Slight increase
-Yugoslavia;1996;Unknown;Unknown
-Albania;1997;10;Huge decrease
-Andorra;1997;10;Big increase
-Armenia;1997;10;Slight increase
-Australia;1997;12;Slight increase
-Austria;1997;12;Slight increase
-Azerbaijan;1997;10;Big increase
-Belarus;1997;11;Huge increase
-Belgium;1997;12;Slight increase
-Bosnia and Herzegovina;1997;10;Huge increase
-Bulgaria;1997;11;Huge decrease
-Croatia;1997;11;Big increase
-Cyprus;1997;10;Slight increase
-Czech Republic;1997;11;Stagnation
-Denmark;1997;12;Slight increase
-Estonia;1997;10;Huge increase
-Finland;1997;12;Big increase
-France;1997;13;Slight increase
-Georgia;1997;10;Huge increase
-Germany;1997;13;Slight increase
-Greece;1997;12;Slight increase
-Hungary;1997;11;Slight increase
-Iceland;1997;10;Big increase
-Ireland;1997;11;Huge increase
-Israel;1997;12;Slight increase
-Italy;1997;13;Slight increase
-Latvia;1997;10;Big increase
-Lithuania;1997;11;Big increase
-Luxembourg;1997;11;Big increase
-Macedonia;1997;10;Slight increase
-Malta;1997;10;Big increase
-Moldova;1997;10;Slight increase
-Monaco;1997;10;Slight increase
-Montenegro;1997;Unknown;Unknown
-Morocco;1997;11;Slight decrease
-The Netherlands;1997;12;Slight increase
-Norway;1997;12;Big increase
-Poland;1997;12;Big increase
-Portugal;1997;12;Slight increase
-Romania;1997;11;Slight decrease
-Russia;1997;12;Slight increase
-San Marino;1997;Unknown;Unknown
-Serbia;1997;11;Big increase
-Serbia and Montenegro;1997;Unknown;Unknown
-Slovakia;1997;11;Big increase
-Slovenia;1997;11;Big increase
-Spain;1997;12;Slight increase
-Sweden;1997;12;Slight increase
-Switzerland;1997;12;Slight increase
-Turkey;1997;12;Big increase
-Ukraine;1997;11;Slight decrease
-United Kingdom;1997;13;Slight increase
-Yugoslavia;1997;Unknown;Unknown
-Albania;1998;10;Big increase
-Andorra;1998;10;Slight increase
-Armenia;1998;10;Big increase
-Australia;1998;12;Slight increase
-Austria;1998;12;Slight increase
-Azerbaijan;1998;10;Huge increase
-Belarus;1998;11;Big increase
-Belgium;1998;12;Slight increase
-Bosnia and Herzegovina;1998;10;Huge increase
-Bulgaria;1998;11;Slight increase
-Croatia;1998;11;Slight increase
-Cyprus;1998;11;Big increase
-Czech Republic;1998;11;Stagnation
-Denmark;1998;12;Slight increase
-Estonia;1998;10;Slight increase
-Finland;1998;12;Big increase
-France;1998;13;Slight increase
-Georgia;1998;10;Slight increase
-Germany;1998;13;Slight increase
-Greece;1998;12;Slight increase
-Hungary;1998;11;Slight increase
-Iceland;1998;10;Big increase
-Ireland;1998;11;Big increase
-Israel;1998;12;Slight increase
-Italy;1998;13;Slight increase
-Latvia;1998;10;Big increase
-Lithuania;1998;11;Big increase
-Luxembourg;1998;11;Big increase
-Macedonia;1998;10;Slight increase
-Malta;1998;10;Big increase
-Moldova;1998;10;Big decrease
-Monaco;1998;10;Slight increase
-Montenegro;1998;Unknown;Slight increase
-Morocco;1998;11;Big increase
-The Netherlands;1998;12;Slight increase
-Norway;1998;12;Slight increase
-Poland;1998;12;Slight increase
-Portugal;1998;12;Slight increase
-Romania;1998;11;Slight decrease
-Russia;1998;12;Big decrease
-San Marino;1998;Unknown;Big increase
-Serbia;1998;11;Slight increase
-Serbia and Montenegro;1998;Unknown;Slight increase
-Slovakia;1998;11;Slight increase
-Slovenia;1998;11;Slight increase
-Spain;1998;12;Slight increase
-Sweden;1998;12;Slight increase
-Switzerland;1998;12;Slight increase
-Turkey;1998;12;Slight increase
-Ukraine;1998;11;Slight decrease
-United Kingdom;1998;13;Slight increase
-Yugoslavia;1998;Unknown;Big increase
-Albania;1999;10;Huge increase
-Andorra;1999;10;Slight increase
-Armenia;1999;10;Slight increase
-Australia;1999;12;Big increase
-Austria;1999;12;Slight increase
-Azerbaijan;1999;10;Big increase
-Belarus;1999;11;Slight increase
-Belgium;1999;12;Slight increase
-Bosnia and Herzegovina;1999;10;Big increase
-Bulgaria;1999;11;Big decrease
-Croatia;1999;11;Stagnation
-Cyprus;1999;11;Slight increase
-Czech Republic;1999;11;Slight increase
-Denmark;1999;12;Slight increase
-Estonia;1999;10;Stagnation
-Finland;1999;12;Slight increase
-France;1999;13;Slight increase
-Georgia;1999;10;Slight increase
-Germany;1999;13;Slight increase
-Greece;1999;12;Slight increase
-Hungary;1999;11;Slight increase
-Iceland;1999;10;Slight increase
-Ireland;1999;11;Huge increase
-Israel;1999;12;Slight increase
-Italy;1999;13;Slight increase
-Latvia;1999;10;Slight increase
-Lithuania;1999;11;Slight decrease
-Luxembourg;1999;11;Big increase
-Macedonia;1999;10;Slight increase
-Malta;1999;10;Slight increase
-Moldova;1999;10;Slight decrease
-Monaco;1999;10;Slight increase
-Montenegro;1999;Unknown;Big decrease
-Morocco;1999;11;Slight increase
-The Netherlands;1999;12;Big increase
-Norway;1999;12;Slight increase
-Poland;1999;12;Slight increase
-Portugal;1999;12;Slight increase
-Romania;1999;11;Stagnation
-Russia;1999;12;Big increase
-San Marino;1999;10;Big increase
-Serbia;1999;11;Big decrease
-Serbia and Montenegro;1999;Unknown;Big decrease
-Slovakia;1999;11;Stagnation
-Slovenia;1999;11;Big increase
-Spain;1999;12;Slight increase
-Sweden;1999;12;Slight increase
-Switzerland;1999;12;Slight increase
-Turkey;1999;12;Slight decrease
-Ukraine;1999;11;Stagnation
-United Kingdom;1999;13;Slight increase
-Yugoslavia;1999;Unknown;Stagnation
-Albania;2000;10;Big increase
-Andorra;2000;10;Slight increase
-Armenia;2000;10;Big increase
-Australia;2000;12;Slight increase
-Austria;2000;12;Slight increase
-Azerbaijan;2000;10;Huge increase
-Belarus;2000;11;Big increase
-Belgium;2000;12;Slight increase
-Bosnia and Herzegovina;2000;10;Big increase
-Bulgaria;2000;11;Slight increase
-Croatia;2000;11;Slight increase
-Cyprus;2000;10;Big increase
-Czech Republic;2000;11;Slight increase
-Denmark;2000;12;Slight increase
-Estonia;2000;10;Huge increase
-Finland;2000;12;Big increase
-France;2000;13;Slight increase
-Georgia;2000;10;Slight increase
-Germany;2000;13;Slight increase
-Greece;2000;12;Slight increase
-Hungary;2000;11;Slight increase
-Iceland;2000;10;Slight increase
-Ireland;2000;11;Big increase
-Israel;2000;12;Big increase
-Italy;2000;13;Slight increase
-Latvia;2000;10;Big increase
-Lithuania;2000;11;Slight increase
-Luxembourg;2000;11;Big increase
-Macedonia;2000;10;Slight increase
-Malta;2000;10;Big increase
-Moldova;2000;10;Slight increase
-Monaco;2000;10;Slight increase
-Montenegro;2000;9;Slight increase
-Morocco;2000;11;Slight increase
-The Netherlands;2000;12;Slight increase
-Norway;2000;12;Slight increase
-Poland;2000;12;Slight increase
-Portugal;2000;12;Slight increase
-Romania;2000;11;Slight increase
-Russia;2000;12;Huge increase
-San Marino;2000;10;Slight increase
-Serbia;2000;10;Big increase
-Serbia and Montenegro;2000;Unknown;Slight increase
-Slovakia;2000;11;Slight increase
-Slovenia;2000;11;Slight increase
-Spain;2000;12;Big increase
-Sweden;2000;12;Slight increase
-Switzerland;2000;12;Slight increase
-Turkey;2000;12;Big increase
-Ukraine;2000;11;Big increase
-United Kingdom;2000;13;Slight increase
-Yugoslavia;2000;Unknown;Slight increase
-Albania;2001;10;Big increase
-Andorra;2001;10;Big increase
-Armenia;2001;10;Big increase
-Australia;2001;12;Slight increase
-Austria;2001;12;Slight increase
-Azerbaijan;2001;10;Big increase
-Belarus;2001;11;Slight increase
-Belgium;2001;12;Slight increase
-Bosnia and Herzegovina;2001;10;Slight increase
-Bulgaria;2001;11;Slight increase
-Croatia;2001;11;Slight increase
-Cyprus;2001;11;Slight increase
-Czech Republic;2001;11;Slight increase
-Denmark;2001;12;Stagnation
-Estonia;2001;10;Big increase
-Finland;2001;12;Slight increase
-France;2001;13;Slight increase
-Georgia;2001;10;Slight increase
-Germany;2001;13;Slight increase
-Greece;2001;12;Slight increase
-Hungary;2001;11;Slight increase
-Iceland;2001;10;Slight increase
-Ireland;2001;12;Big increase
-Israel;2001;12;Stagnation
-Italy;2001;13;Slight increase
-Latvia;2001;10;Big increase
-Lithuania;2001;11;Big increase
-Luxembourg;2001;11;Slight increase
-Macedonia;2001;10;Slight decrease
-Malta;2001;10;Slight decrease
-Moldova;2001;10;Big increase
-Monaco;2001;10;Slight increase
-Montenegro;2001;10;Slight increase
-Morocco;2001;11;Big increase
-The Netherlands;2001;12;Slight increase
-Norway;2001;12;Slight increase
-Poland;2001;12;Slight increase
-Portugal;2001;12;Slight increase
-Romania;2001;11;Big increase
-Russia;2001;12;Big increase
-San Marino;2001;10;Big increase
-Serbia;2001;11;Big increase
-Serbia and Montenegro;2001;Unknown;Slight increase
-Slovakia;2001;11;Slight increase
-Slovenia;2001;11;Slight increase
-Spain;2001;12;Slight increase
-Sweden;2001;12;Slight increase
-Switzerland;2001;12;Slight increase
-Turkey;2001;12;Big decrease
-Ukraine;2001;11;Big increase
-United Kingdom;2001;13;Slight increase
-Yugoslavia;2001;Unknown;Slight increase
-Albania;2002;10;Slight increase
-Andorra;2002;10;Slight increase
-Armenia;2002;10;Huge increase
-Australia;2002;12;Slight increase
-Austria;2002;12;Slight increase
-Azerbaijan;2002;10;Big increase
-Belarus;2002;11;Big increase
-Belgium;2002;12;Slight increase
-Bosnia and Herzegovina;2002;10;Big increase
-Bulgaria;2002;11;Big increase
-Croatia;2002;11;Big increase
-Cyprus;2002;11;Slight increase
-Czech Republic;2002;11;Slight increase
-Denmark;2002;12;Stagnation
-Estonia;2002;10;Big increase
-Finland;2002;12;Slight increase
-France;2002;13;Slight increase
-Georgia;2002;10;Big increase
-Germany;2002;13;Stagnation
-Greece;2002;12;Slight increase
-Hungary;2002;11;Slight increase
-Iceland;2002;10;Stagnation
-Ireland;2002;12;Big increase
-Israel;2002;12;Stagnation
-Italy;2002;13;Stagnation
-Latvia;2002;10;Big increase
-Lithuania;2002;11;Big increase
-Luxembourg;2002;11;Slight increase
-Macedonia;2002;10;Slight increase
-Malta;2002;10;Slight increase
-Moldova;2002;10;Big increase
-Monaco;2002;10;Slight increase
-Montenegro;2002;10;Slight increase
-Morocco;2002;11;Slight increase
-The Netherlands;2002;12;Stagnation
-Norway;2002;12;Slight increase
-Poland;2002;12;Slight increase
-Portugal;2002;12;Stagnation
-Romania;2002;11;Big increase
-Russia;2002;12;Slight increase
-San Marino;2002;10;Stagnation
-Serbia;2002;11;Big increase
-Serbia and Montenegro;2002;Unknown;Slight increase
-Slovakia;2002;11;Slight increase
-Slovenia;2002;11;Slight increase
-Spain;2002;12;Slight increase
-Sweden;2002;12;Slight increase
-Switzerland;2002;12;Stagnation
-Turkey;2002;12;Big increase
-Ukraine;2002;11;Big increase
-United Kingdom;2002;13;Slight increase
-Yugoslavia;2002;Unknown;Slight increase
-Albania;2003;10;Big increase
-Andorra;2003;10;Big increase
-Armenia;2003;10;Huge increase
-Australia;2003;12;Slight increase
-Austria;2003;12;Stagnation
-Azerbaijan;2003;10;Huge increase
-Belarus;2003;11;Big increase
-Belgium;2003;12;Slight increase
-Bosnia and Herzegovina;2003;10;Slight increase
-Bulgaria;2003;11;Big increase
-Croatia;2003;11;Big increase
-Cyprus;2003;11;Slight increase
-Czech Republic;2003;12;Slight increase
-Denmark;2003;12;Stagnation
-Estonia;2003;10;Big increase
-Finland;2003;12;Slight increase
-France;2003;13;Stagnation
-Georgia;2003;10;Huge increase
-Germany;2003;13;Stagnation
-Greece;2003;12;Big increase
-Hungary;2003;11;Slight increase
-Iceland;2003;11;Slight increase
-Ireland;2003;12;Slight increase
-Israel;2003;12;Stagnation
-Italy;2003;13;Stagnation
-Latvia;2003;11;Big increase
-Lithuania;2003;11;Huge increase
-Luxembourg;2003;11;Slight increase
-Macedonia;2003;10;Slight increase
-Malta;2003;10;Slight increase
-Moldova;2003;10;Big increase
-Monaco;2003;10;Slight increase
-Montenegro;2003;10;Slight increase
-Morocco;2003;11;Big increase
-The Netherlands;2003;12;Stagnation
-Norway;2003;12;Stagnation
-Poland;2003;12;Slight increase
-Portugal;2003;12;Stagnation
-Romania;2003;11;Slight increase
-Russia;2003;12;Big increase
-San Marino;2003;10;Slight increase
-Serbia;2003;11;Slight increase
-Serbia and Montenegro;2003;Unknown;Slight increase
-Slovakia;2003;11;Big increase
-Slovenia;2003;11;Slight increase
-Spain;2003;12;Slight increase
-Sweden;2003;12;Slight increase
-Switzerland;2003;12;Stagnation
-Turkey;2003;12;Big increase
-Ukraine;2003;11;Big increase
-United Kingdom;2003;13;Slight increase
-Yugoslavia;2003;Unknown;Slight increase
+﻿Country;Year;Current.US.digits;Growth.annual
 Albania;2004;10;Big increase
-Andorra;2004;10;Big increase
-Armenia;2004;10;Huge increase
-Australia;2004;12;Slight increase
-Austria;2004;12;Slight increase
-Azerbaijan;2004;10;Big increase
-Belarus;2004;11;Huge increase
-Belgium;2004;12;Slight increase
-Bosnia and Herzegovina;2004;11;Big increase
-Bulgaria;2004;11;Big increase
-Croatia;2004;11;Slight increase
-Cyprus;2004;11;Big increase
-Czech Republic;2004;12;Slight increase
-Denmark;2004;12;Slight increase
-Estonia;2004;11;Big increase
-Finland;2004;12;Slight increase
-France;2004;13;Slight increase
-Georgia;2004;10;Big increase
-Germany;2004;13;Slight increase
-Greece;2004;12;Big increase
-Hungary;2004;12;Slight increase
-Iceland;2004;11;Big increase
-Ireland;2004;12;Big increase
-Israel;2004;12;Slight increase
-Italy;2004;13;Slight increase
-Latvia;2004;11;Big increase
-Lithuania;2004;11;Big increase
-Luxembourg;2004;11;Slight increase
-Macedonia;2004;10;Slight increase
-Malta;2004;10;Stagnation
-Moldova;2004;10;Big increase
-Monaco;2004;10;Slight increase
-Montenegro;2004;10;Slight increase
-Morocco;2004;11;Slight increase
-The Netherlands;2004;12;Slight increase
-Norway;2004;12;Slight increase
-Poland;2004;12;Slight increase
-Portugal;2004;12;Slight increase
-Romania;2004;11;Huge increase
-Russia;2004;12;Big increase
-San Marino;2004;10;Slight increase
-Serbia;2004;11;Big increase
-Serbia and Montenegro;2004;Unknown;Big increase
-Slovakia;2004;11;Big increase
-Slovenia;2004;11;Slight increase
-Spain;2004;13;Slight increase
-Sweden;2004;12;Slight increase
-Switzerland;2004;12;Slight increase
-Turkey;2004;12;Big increase
-Ukraine;2004;11;Huge increase
-United Kingdom;2004;13;Slight increase
-Yugoslavia;2004;Unknown;Big increase
 Albania;2005;10;Big increase
-Andorra;2005;10;Big increase
-Armenia;2005;10;Huge increase
-Australia;2005;12;Slight increase
-Austria;2005;12;Slight increase
-Azerbaijan;2005;11;Huge increase
-Belarus;2005;11;Big increase
-Belgium;2005;12;Slight increase
-Bosnia and Herzegovina;2005;11;Big increase
-Bulgaria;2005;11;Big increase
-Croatia;2005;11;Slight increase
-Cyprus;2005;11;Slight increase
-Czech Republic;2005;12;Big increase
-Denmark;2005;12;Slight increase
-Estonia;2005;11;Big increase
-Finland;2005;12;Slight increase
-France;2005;13;Slight increase
-Georgia;2005;10;Big increase
-Germany;2005;13;Stagnation
-Greece;2005;12;Stagnation
-Hungary;2005;12;Slight increase
-Iceland;2005;11;Big increase
-Ireland;2005;12;Big increase
-Israel;2005;12;Slight increase
-Italy;2005;13;Stagnation
-Latvia;2005;11;Huge increase
-Lithuania;2005;11;Big increase
-Luxembourg;2005;11;Slight increase
-Macedonia;2005;10;Slight increase
-Malta;2005;10;Slight increase
-Moldova;2005;10;Big increase
-Monaco;2005;10;Slight increase
-Montenegro;2005;10;Slight increase
-Morocco;2005;11;Slight increase
-The Netherlands;2005;12;Slight increase
-Norway;2005;12;Slight increase
-Poland;2005;12;Slight increase
-Portugal;2005;12;Stagnation
-Romania;2005;11;Slight increase
-Russia;2005;12;Big increase
-San Marino;2005;10;Slight increase
-Serbia;2005;11;Big increase
-Serbia and Montenegro;2005;Unknown;Slight increase
-Slovakia;2005;11;Big increase
-Slovenia;2005;11;Slight increase
-Spain;2005;13;Slight increase
-Sweden;2005;12;Slight increase
-Switzerland;2005;12;Slight increase
-Turkey;2005;12;Big increase
-Ukraine;2005;11;Slight increase
-United Kingdom;2005;13;Slight increase
-Yugoslavia;2005;Unknown;Big increase
-Albania;2006;10;Big increase
-Andorra;2006;10;Slight increase
-Armenia;2006;10;Huge increase
-Australia;2006;12;Slight increase
-Austria;2006;12;Slight increase
-Azerbaijan;2006;11;Huge increase
-Belarus;2006;11;Big increase
-Belgium;2006;12;Slight increase
-Bosnia and Herzegovina;2006;11;Big increase
-Bulgaria;2006;11;Big increase
-Croatia;2006;11;Slight increase
-Cyprus;2006;11;Slight increase
-Czech Republic;2006;12;Big increase
-Denmark;2006;12;Slight increase
-Estonia;2006;11;Big increase
-Finland;2006;12;Slight increase
-France;2006;13;Slight increase
-Georgia;2006;10;Big increase
-Germany;2006;13;Slight increase
-Greece;2006;12;Big increase
-Hungary;2006;12;Slight increase
-Iceland;2006;11;Big increase
-Ireland;2006;12;Big increase
-Israel;2006;12;Big increase
-Italy;2006;13;Slight increase
-Latvia;2006;11;Huge increase
-Lithuania;2006;11;Big increase
-Luxembourg;2006;11;Big increase
-Macedonia;2006;10;Big increase
-Malta;2006;10;Slight increase
-Moldova;2006;10;Slight increase
-Monaco;2006;10;Big increase
-Montenegro;2006;10;Big increase
-Morocco;2006;11;Big increase
-The Netherlands;2006;12;Slight increase
-Norway;2006;12;Slight increase
-Poland;2006;12;Big increase
-Portugal;2006;12;Slight increase
-Romania;2006;12;Big increase
-Russia;2006;12;Big increase
-San Marino;2006;10;Slight increase
-Serbia;2006;11;Big increase
-Serbia and Montenegro;2006;Unknown;Big increase
-Slovakia;2006;11;Big increase
-Slovenia;2006;11;Big increase
-Spain;2006;13;Slight increase
-Sweden;2006;12;Slight increase
-Switzerland;2006;12;Slight increase
-Turkey;2006;12;Big increase
-Ukraine;2006;12;Big increase
-United Kingdom;2006;13;Slight increase
-Yugoslavia;2006;Unknown;Big increase
-Albania;2007;11;Big increase
-Andorra;2007;10;Slight increase
-Armenia;2007;10;Huge increase
-Australia;2007;12;Slight increase
-Austria;2007;12;Slight increase
-Azerbaijan;2007;11;Huge increase
-Belarus;2007;11;Big increase
-Belgium;2007;12;Slight increase
-Bosnia and Herzegovina;2007;11;Big increase
-Bulgaria;2007;11;Big increase
-Croatia;2007;11;Big increase
-Cyprus;2007;11;Big increase
-Czech Republic;2007;12;Big increase
-Denmark;2007;12;Stagnation
-Estonia;2007;11;Big increase
-Finland;2007;12;Big increase
-France;2007;13;Slight increase
-Georgia;2007;11;Huge increase
-Germany;2007;13;Slight increase
-Greece;2007;12;Slight increase
-Hungary;2007;12;Stagnation
-Iceland;2007;11;Big increase
-Ireland;2007;12;Big increase
-Israel;2007;12;Big increase
-Italy;2007;13;Slight increase
-Latvia;2007;11;Huge increase
-Lithuania;2007;11;Huge increase
-Luxembourg;2007;11;Big increase
-Macedonia;2007;10;Big increase
-Malta;2007;10;Slight increase
-Moldova;2007;10;Slight increase
-Monaco;2007;10;Huge increase
-Montenegro;2007;10;Big increase
-Morocco;2007;11;Slight increase
-The Netherlands;2007;12;Slight increase
-Norway;2007;12;Slight increase
-Poland;2007;12;Big increase
-Portugal;2007;12;Slight increase
-Romania;2007;12;Big increase
-Russia;2007;13;Big increase
-San Marino;2007;10;Big increase
-Serbia;2007;11;Big increase
-Serbia and Montenegro;2007;Unknown;Big increase
-Slovakia;2007;11;Huge increase
-Slovenia;2007;11;Big increase
-Spain;2007;13;Slight increase
-Sweden;2007;12;Slight increase
-Switzerland;2007;12;Slight increase
-Turkey;2007;12;Big increase
-Ukraine;2007;12;Big increase
-United Kingdom;2007;13;Slight increase
-Yugoslavia;2007;Unknown;Big increase
 Albania;2008;11;Big increase
-Andorra;2008;10;Big decrease
-Armenia;2008;11;Big increase
-Australia;2008;13;Slight increase
-Austria;2008;12;Slight increase
-Azerbaijan;2008;11;Huge increase
-Belarus;2008;11;Huge increase
-Belgium;2008;12;Stagnation
-Bosnia and Herzegovina;2008;11;Big increase
-Bulgaria;2008;11;Big increase
-Croatia;2008;11;Slight increase
-Cyprus;2008;11;Slight increase
-Czech Republic;2008;12;Slight increase
-Denmark;2008;12;Stagnation
-Estonia;2008;11;Big decrease
-Finland;2008;12;Stagnation
-France;2008;13;Stagnation
-Georgia;2008;11;Slight increase
-Germany;2008;13;Stagnation
-Greece;2008;12;Stagnation
-Hungary;2008;12;Slight increase
-Iceland;2008;11;Slight increase
-Ireland;2008;12;Slight decrease
-Israel;2008;12;Slight increase
-Italy;2008;13;Stagnation
-Latvia;2008;11;Slight decrease
-Lithuania;2008;11;Slight increase
-Luxembourg;2008;11;Slight decrease
-Macedonia;2008;10;Big increase
-Malta;2008;10;Slight increase
-Moldova;2008;10;Big increase
-Monaco;2008;10;Stagnation
-Montenegro;2008;10;Big increase
-Morocco;2008;11;Big increase
-The Netherlands;2008;12;Slight increase
-Norway;2008;12;Stagnation
-Poland;2008;12;Slight increase
-Portugal;2008;12;Stagnation
-Romania;2008;12;Big increase
-Russia;2008;13;Big increase
-San Marino;2008;10;Stagnation
-Serbia;2008;11;Big increase
-Serbia and Montenegro;2008;Unknown;Big increase
-Slovakia;2008;12;Big increase
-Slovenia;2008;11;Slight increase
-Spain;2008;13;Stagnation
-Sweden;2008;12;Stagnation
-Switzerland;2008;12;Slight increase
-Turkey;2008;12;Stagnation
-Ukraine;2008;12;Slight increase
-United Kingdom;2008;13;Stagnation
-Yugoslavia;2008;Unknown;Slight increase
 Albania;2009;11;Slight increase
-Andorra;2009;10;Big decrease
-Armenia;2009;10;Huge decrease
-Australia;2009;12;Slight increase
-Austria;2009;12;Slight decrease
-Azerbaijan;2009;11;Big increase
-Belarus;2009;11;Stagnation
-Belgium;2009;12;Slight decrease
-Bosnia and Herzegovina;2009;11;Slight decrease
-Bulgaria;2009;11;Slight decrease
-Croatia;2009;11;Big decrease
-Cyprus;2009;11;Slight decrease
-Czech Republic;2009;12;Slight decrease
-Denmark;2009;12;Slight decrease
-Estonia;2009;11;Huge decrease
-Finland;2009;12;Big decrease
-France;2009;13;Slight decrease
-Georgia;2009;11;Slight decrease
-Germany;2009;13;Big decrease
-Greece;2009;12;Slight decrease
-Hungary;2009;12;Big decrease
-Iceland;2009;11;Big decrease
-Ireland;2009;12;Big decrease
-Israel;2009;12;Stagnation
-Italy;2009;13;Big decrease
-Latvia;2009;11;Huge decrease
-Lithuania;2009;11;Huge decrease
-Luxembourg;2009;11;Slight decrease
-Macedonia;2009;10;Stagnation
-Malta;2009;10;Slight decrease
-Moldova;2009;10;Big decrease
-Monaco;2009;10;Huge decrease
-Montenegro;2009;10;Big decrease
-Morocco;2009;11;Slight increase
-The Netherlands;2009;12;Slight decrease
-Norway;2009;12;Slight decrease
-Poland;2009;12;Slight increase
-Portugal;2009;12;Slight decrease
-Romania;2009;12;Big decrease
-Russia;2009;13;Big decrease
-San Marino;2009;10;Huge decrease
-Serbia;2009;11;Slight decrease
-Serbia and Montenegro;2009;Unknown;Slight decrease
-Slovakia;2009;11;Big decrease
-Slovenia;2009;11;Big decrease
-Spain;2009;13;Slight decrease
-Sweden;2009;12;Slight decrease
-Switzerland;2009;12;Slight decrease
-Turkey;2009;12;Slight decrease
-Ukraine;2009;12;Huge decrease
-United Kingdom;2009;13;Slight decrease
-Yugoslavia;2009;Unknown;Big decrease
 Albania;2010;11;Slight increase
-Andorra;2010;10;Slight decrease
-Armenia;2010;10;Slight increase
-Australia;2010;13;Slight increase
-Austria;2010;12;Slight increase
-Azerbaijan;2010;11;Slight increase
-Belarus;2010;11;Big increase
-Belgium;2010;12;Slight increase
-Bosnia and Herzegovina;2010;11;Stagnation
-Bulgaria;2010;11;Stagnation
-Croatia;2010;11;Slight decrease
-Cyprus;2010;11;Slight increase
-Czech Republic;2010;12;Slight increase
-Denmark;2010;12;Slight increase
-Estonia;2010;11;Slight increase
-Finland;2010;12;Slight increase
-France;2010;13;Slight increase
-Georgia;2010;11;Big increase
-Germany;2010;13;Slight increase
-Greece;2010;12;Big decrease
-Hungary;2010;12;Slight increase
-Iceland;2010;11;Slight decrease
-Ireland;2010;12;Slight increase
-Israel;2010;12;Big increase
-Italy;2010;13;Slight increase
-Latvia;2010;11;Slight decrease
-Lithuania;2010;11;Slight increase
-Luxembourg;2010;11;Slight increase
-Macedonia;2010;10;Slight increase
-Malta;2010;10;Big increase
-Moldova;2010;10;Big increase
-Monaco;2010;10;Slight increase
-Montenegro;2010;10;Slight increase
-Morocco;2010;11;Slight increase
-The Netherlands;2010;12;Slight increase
-Norway;2010;12;Stagnation
-Poland;2010;12;Slight increase
-Portugal;2010;12;Slight increase
-Romania;2010;12;Slight decrease
-Russia;2010;13;Slight increase
-San Marino;2010;10;Big decrease
-Serbia;2010;11;Stagnation
-Serbia and Montenegro;2010;Unknown;Slight increase
-Slovakia;2010;11;Big increase
-Slovenia;2010;11;Slight increase
-Spain;2010;13;Stagnation
-Sweden;2010;12;Big increase
-Switzerland;2010;12;Slight increase
-Turkey;2010;12;Big increase
-Ukraine;2010;12;Slight increase
-United Kingdom;2010;13;Slight increase
-Yugoslavia;2010;Unknown;Stagnation
-Albania;2011;11;Slight increase
-Andorra;2011;10;Stagnation
-Armenia;2011;11;Slight increase
-Australia;2011;13;Slight increase
-Austria;2011;12;Slight increase
-Azerbaijan;2011;11;Slight decrease
-Belarus;2011;11;Big increase
-Belgium;2011;12;Slight increase
-Bosnia and Herzegovina;2011;11;Stagnation
-Bulgaria;2011;11;Slight increase
-Croatia;2011;11;Stagnation
-Cyprus;2011;11;Stagnation
-Czech Republic;2011;12;Slight increase
-Denmark;2011;12;Slight increase
-Estonia;2011;11;Big increase
-Finland;2011;12;Slight increase
-France;2011;13;Slight increase
-Georgia;2011;11;Big increase
-Germany;2011;13;Slight increase
-Greece;2011;12;Big decrease
-Hungary;2011;12;Slight increase
-Iceland;2011;11;Slight increase
-Ireland;2011;12;Stagnation
-Israel;2011;12;Slight increase
-Italy;2011;13;Stagnation
-Latvia;2011;11;Big increase
-Lithuania;2011;11;Big increase
-Luxembourg;2011;11;Slight increase
-Macedonia;2011;11;Slight increase
-Malta;2011;10;Stagnation
-Moldova;2011;10;Big increase
-Monaco;2011;10;Big increase
-Montenegro;2011;10;Slight increase
-Morocco;2011;12;Big increase
-The Netherlands;2011;12;Slight increase
-Norway;2011;12;Stagnation
-Poland;2011;12;Slight increase
-Portugal;2011;12;Slight decrease
-Romania;2011;12;Slight increase
-Russia;2011;13;Slight increase
-San Marino;2011;10;Big decrease
-Serbia;2011;11;Slight increase
-Serbia and Montenegro;2011;Unknown;Slight increase
-Slovakia;2011;11;Slight increase
-Slovenia;2011;11;Stagnation
-Spain;2011;13;Stagnation
-Sweden;2011;12;Slight increase
-Switzerland;2011;12;Slight increase
-Turkey;2011;12;Huge increase
-Ukraine;2011;12;Big increase
-United Kingdom;2011;13;Slight increase
-Yugoslavia;2011;Unknown;Slight increase
 Albania;2012;11;Slight increase
-Andorra;2012;10;Slight decrease
-Armenia;2012;11;Big increase
-Australia;2012;13;Slight increase
-Austria;2012;12;Stagnation
-Azerbaijan;2012;11;Slight increase
-Belarus;2012;11;Slight increase
-Belgium;2012;12;Stagnation
-Bosnia and Herzegovina;2012;11;Stagnation
-Bulgaria;2012;11;Stagnation
-Croatia;2012;11;Slight decrease
-Cyprus;2012;11;Slight decrease
-Czech Republic;2012;12;Stagnation
-Denmark;2012;12;Stagnation
-Estonia;2012;11;Slight increase
-Finland;2012;12;Slight decrease
-France;2012;13;Stagnation
-Georgia;2012;11;Big increase
-Germany;2012;13;Stagnation
-Greece;2012;12;Big decrease
-Hungary;2012;12;Slight decrease
-Iceland;2012;11;Slight increase
-Ireland;2012;12;Stagnation
-Israel;2012;12;Slight increase
-Italy;2012;13;Slight decrease
-Latvia;2012;11;Slight increase
-Lithuania;2012;11;Slight increase
-Luxembourg;2012;11;Stagnation
-Macedonia;2012;10;Stagnation
-Malta;2012;10;Slight increase
-Moldova;2012;10;Stagnation
-Monaco;2012;10;Slight increase
-Montenegro;2012;10;Slight decrease
-Morocco;2012;11;Slight increase
-The Netherlands;2012;12;Slight decrease
-Norway;2012;12;Slight increase
-Poland;2012;12;Slight increase
-Portugal;2012;12;Slight decrease
-Romania;2012;12;Slight increase
-Russia;2012;13;Slight increase
-San Marino;2012;10;Big decrease
-Serbia;2012;11;Stagnation
-Serbia and Montenegro;2012;Unknown;Slight decrease
-Slovakia;2012;11;Slight increase
-Slovenia;2012;11;Slight decrease
-Spain;2012;13;Slight decrease
-Sweden;2012;12;Stagnation
-Switzerland;2012;12;Slight increase
-Turkey;2012;12;Slight increase
-Ukraine;2012;12;Stagnation
-United Kingdom;2012;13;Slight increase
-Yugoslavia;2012;Unknown;Slight decrease
-Albania;2013;11;Slight increase
-Andorra;2013;10;Slight decrease
-Armenia;2013;11;Slight increase
-Australia;2013;13;Slight increase
-Austria;2013;12;Stagnation
-Azerbaijan;2013;11;Big increase
-Belarus;2013;11;Slight increase
-Belgium;2013;12;Stagnation
-Bosnia and Herzegovina;2013;11;Slight increase
-Bulgaria;2013;11;Stagnation
-Croatia;2013;11;Stagnation
-Cyprus;2013;11;Big decrease
-Czech Republic;2013;12;Stagnation
-Denmark;2013;12;Stagnation
-Estonia;2013;11;Slight increase
-Finland;2013;12;Stagnation
-France;2013;13;Stagnation
-Georgia;2013;11;Slight increase
-Germany;2013;13;Stagnation
-Greece;2013;12;Slight decrease
-Hungary;2013;12;Slight increase
-Iceland;2013;11;Slight increase
-Ireland;2013;12;Slight increase
-Israel;2013;12;Slight increase
-Italy;2013;13;Slight decrease
-Latvia;2013;11;Slight increase
-Lithuania;2013;11;Slight increase
-Luxembourg;2013;11;Slight increase
-Macedonia;2013;11;Slight increase
-Malta;2013;11;Big increase
-Moldova;2013;10;Big increase
-Monaco;2013;10;Big increase
-Montenegro;2013;10;Slight increase
-Morocco;2013;12;Slight increase
-The Netherlands;2013;12;Stagnation
-Norway;2013;12;Slight increase
-Poland;2013;12;Slight increase
-Portugal;2013;12;Stagnation
-Romania;2013;12;Slight increase
-Russia;2013;13;Slight increase
-San Marino;2013;10;Stagnation
-Serbia;2013;11;Slight increase
-Serbia and Montenegro;2013;Unknown;Slight increase
-Slovakia;2013;11;Stagnation
-Slovenia;2013;11;Slight decrease
-Spain;2013;13;Slight decrease
-Sweden;2013;12;Slight increase
-Switzerland;2013;12;Slight increase
-Turkey;2013;12;Big increase
-Ukraine;2013;12;Stagnation
-United Kingdom;2013;13;Slight increase
-Yugoslavia;2013;Unknown;Slight increase
-Albania;2014;11;Slight increase
-Andorra;2014;10;Slight increase
-Armenia;2014;11;Slight increase
-Australia;2014;13;Slight increase
-Austria;2014;12;Stagnation
-Azerbaijan;2014;11;Slight increase
-Belarus;2014;11;Slight increase
-Belgium;2014;12;Slight increase
-Bosnia and Herzegovina;2014;11;Slight increase
-Bulgaria;2014;11;Slight increase
-Croatia;2014;11;Stagnation
-Cyprus;2014;11;Slight decrease
-Czech Republic;2014;12;Slight increase
-Denmark;2014;12;Slight increase
-Estonia;2014;11;Slight increase
-Finland;2014;12;Stagnation
-France;2014;13;Stagnation
-Georgia;2014;11;Slight increase
-Germany;2014;13;Slight increase
-Greece;2014;12;Stagnation
-Hungary;2014;12;Slight increase
-Iceland;2014;11;Slight increase
-Ireland;2014;12;Big increase
-Israel;2014;12;Slight increase
-Italy;2014;13;Stagnation
-Latvia;2014;11;Slight increase
-Lithuania;2014;11;Slight increase
-Luxembourg;2014;11;Slight increase
-Macedonia;2014;11;Slight increase
-Malta;2014;11;Big increase
-Moldova;2014;10;Slight increase
-Monaco;2014;10;Big increase
-Montenegro;2014;10;Slight increase
-Morocco;2014;12;Slight increase
-The Netherlands;2014;12;Slight increase
-Norway;2014;12;Slight increase
-Poland;2014;12;Slight increase
-Portugal;2014;12;Stagnation
-Romania;2014;12;Slight increase
-Russia;2014;13;Stagnation
-San Marino;2014;10;Stagnation
-Serbia;2014;11;Slight decrease
-Serbia and Montenegro;2014;Unknown;Stagnation
-Slovakia;2014;12;Slight increase
-Slovenia;2014;11;Slight increase
-Spain;2014;13;Slight increase
-Sweden;2014;12;Slight increase
-Switzerland;2014;12;Slight increase
-Turkey;2014;12;Slight increase
-Ukraine;2014;12;Big decrease
-United Kingdom;2014;13;Slight increase
-Yugoslavia;2014;Unknown;Stagnation
 Albania;2015;11;Slight increase
-Andorra;2015;10;Slight increase
-Armenia;2015;11;Slight increase
-Australia;2015;13;Slight increase
-Austria;2015;12;Slight increase
-Azerbaijan;2015;11;Slight increase
-Belarus;2015;11;Slight decrease
-Belgium;2015;12;Slight increase
-Bosnia and Herzegovina;2015;11;Slight increase
-Bulgaria;2015;11;Slight increase
-Croatia;2015;11;Slight increase
-Cyprus;2015;11;Slight increase
-Czech Republic;2015;12;Big increase
-Denmark;2015;12;Slight increase
-Estonia;2015;11;Slight increase
-Finland;2015;12;Stagnation
-France;2015;13;Slight increase
-Georgia;2015;11;Slight increase
-Germany;2015;13;Slight increase
-Greece;2015;12;Stagnation
-Hungary;2015;12;Slight increase
-Iceland;2015;11;Slight increase
-Ireland;2015;12;Huge increase
-Israel;2015;12;Slight increase
-Italy;2015;13;Stagnation
-Latvia;2015;11;Slight increase
-Lithuania;2015;11;Slight increase
-Luxembourg;2015;11;Slight increase
-Macedonia;2015;11;Slight increase
-Malta;2015;11;Big increase
-Moldova;2015;10;Stagnation
-Monaco;2015;10;Slight increase
-Montenegro;2015;10;Slight increase
-Morocco;2015;12;Slight increase
-The Netherlands;2015;12;Slight increase
-Norway;2015;12;Slight increase
-Poland;2015;12;Slight increase
-Portugal;2015;12;Slight increase
-Romania;2015;12;Slight increase
-Russia;2015;13;Slight decrease
-San Marino;2015;10;Slight increase
-Serbia;2015;11;Slight increase
-Serbia and Montenegro;2015;Unknown;Slight increase
-Slovakia;2015;11;Slight increase
-Slovenia;2015;11;Slight increase
-Spain;2015;13;Slight increase
-Sweden;2015;12;Slight increase
-Switzerland;2015;12;Slight increase
-Turkey;2015;12;Big increase
-Ukraine;2015;11;Big decrease
-United Kingdom;2015;13;Slight increase
-Yugoslavia;2015;Unknown;Slight increase
-Albania;2016;11;Slight increase
-Andorra;2016;10;Slight increase
-Armenia;2016;11;Stagnation
-Australia;2016;13;Slight increase
-Austria;2016;12;Slight increase
-Azerbaijan;2016;11;Slight decrease
-Belarus;2016;11;Slight decrease
-Belgium;2016;12;Slight increase
-Bosnia and Herzegovina;2016;11;Slight increase
-Bulgaria;2016;11;Slight increase
-Croatia;2016;11;Slight increase
-Cyprus;2016;11;Big increase
-Czech Republic;2016;12;Slight increase
-Denmark;2016;12;Slight increase
-Estonia;2016;11;Slight increase
-Finland;2016;12;Slight increase
-France;2016;13;Slight increase
-Georgia;2016;11;Slight increase
-Germany;2016;13;Slight increase
-Greece;2016;12;Stagnation
-Hungary;2016;12;Slight increase
-Iceland;2016;11;Big increase
-Ireland;2016;12;Slight increase
-Israel;2016;12;Slight increase
-Italy;2016;13;Slight increase
-Latvia;2016;11;Slight increase
-Lithuania;2016;11;Slight increase
-Luxembourg;2016;11;Slight increase
-Macedonia;2016;11;Slight increase
-Malta;2016;11;Slight increase
-Moldova;2016;10;Slight increase
-Monaco;2016;10;Slight increase
-Montenegro;2016;10;Slight increase
-Morocco;2016;12;Slight increase
-The Netherlands;2016;12;Slight increase
-Norway;2016;12;Slight increase
-Poland;2016;12;Slight increase
-Portugal;2016;12;Slight increase
-Romania;2016;12;Slight increase
-Russia;2016;13;Stagnation
-San Marino;2016;10;Slight increase
-Serbia;2016;11;Slight increase
-Serbia and Montenegro;2016;Unknown;Slight increase
-Slovakia;2016;11;Slight increase
-Slovenia;2016;11;Slight increase
-Spain;2016;13;Slight increase
-Sweden;2016;12;Slight increase
-Switzerland;2016;12;Slight increase
-Turkey;2016;12;Slight increase
-Ukraine;2016;11;Slight increase
-United Kingdom;2016;13;Slight increase
-Yugoslavia;2016;Unknown;Slight increase
-Albania;2017;11;Slight increase
-Andorra;2017;10;Stagnation
-Armenia;2017;11;Big increase
-Australia;2017;13;Slight increase
-Austria;2017;12;Slight increase
-Azerbaijan;2017;11;Stagnation
-Belarus;2017;11;Slight increase
-Belgium;2017;12;Slight increase
-Bosnia and Herzegovina;2017;11;Slight increase
-Bulgaria;2017;11;Slight increase
-Croatia;2017;11;Slight increase
-Cyprus;2017;11;Big increase
-Czech Republic;2017;12;Big increase
-Denmark;2017;12;Slight increase
-Estonia;2017;11;Big increase
-Finland;2017;12;Slight increase
-France;2017;13;Slight increase
-Georgia;2017;11;Slight increase
-Germany;2017;13;Slight increase
-Greece;2017;12;Slight increase
-Hungary;2017;12;Slight increase
-Iceland;2017;11;Slight increase
-Ireland;2017;12;Big increase
-Israel;2017;12;Slight increase
-Italy;2017;13;Slight increase
-Latvia;2017;11;Slight increase
-Lithuania;2017;11;Slight increase
-Luxembourg;2017;11;Slight increase
-Macedonia;2017;11;Slight increase
-Malta;2017;11;Big increase
-Moldova;2017;10;Slight increase
-Monaco;2017;10;Slight decrease
-Montenegro;2017;10;Slight increase
-Morocco;2017;12;Slight increase
-The Netherlands;2017;12;Slight increase
-Norway;2017;12;Slight increase
-Poland;2017;12;Slight increase
-Portugal;2017;12;Slight increase
-Romania;2017;12;Big increase
-Russia;2017;13;Slight increase
-San Marino;2017;10;Stagnation
-Serbia;2017;11;Slight increase
-Serbia and Montenegro;2017;Unknown;Slight increase
-Slovakia;2017;11;Slight increase
-Slovenia;2017;11;Slight increase
-Spain;2017;13;Slight increase
-Sweden;2017;12;Slight increase
-Switzerland;2017;12;Slight increase
-Turkey;2017;12;Big increase
-Ukraine;2017;12;Slight increase
-United Kingdom;2017;13;Slight increase
-Yugoslavia;2017;Unknown;Slight increase
 Albania;2018;11;Slight increase
-Andorra;2018;10;Slight increase
-Armenia;2018;11;Big increase
-Australia;2018;13;Slight increase
-Austria;2018;12;Slight increase
-Azerbaijan;2018;11;Slight increase
-Belarus;2018;11;Slight increase
-Belgium;2018;12;Slight increase
-Bosnia and Herzegovina;2018;11;Slight increase
-Bulgaria;2018;11;Slight increase
-Croatia;2018;11;Slight increase
-Cyprus;2018;11;Big increase
-Czech Republic;2018;12;Slight increase
-Denmark;2018;12;Slight increase
-Estonia;2018;11;Slight increase
-Finland;2018;12;Slight increase
-France;2018;13;Slight increase
-Georgia;2018;11;Slight increase
-Germany;2018;13;Slight increase
-Greece;2018;12;Slight increase
-Hungary;2018;12;Big increase
-Iceland;2018;11;Slight increase
-Ireland;2018;12;Big increase
-Israel;2018;12;Slight increase
-Italy;2018;13;Stagnation
-Latvia;2018;11;Slight increase
-Lithuania;2018;11;Slight increase
-Luxembourg;2018;11;Slight increase
-Macedonia;2018;11;Slight increase
-Malta;2018;11;Big increase
-Moldova;2018;11;Slight increase
-Monaco;2018;10;Big increase
-Montenegro;2018;10;Big increase
-Morocco;2018;12;Slight increase
-The Netherlands;2018;12;Slight increase
-Norway;2018;12;Slight increase
-Poland;2018;12;Big increase
-Portugal;2018;12;Slight increase
-Romania;2018;12;Slight increase
-Russia;2018;13;Slight increase
-San Marino;2018;10;Slight increase
-Serbia;2018;11;Slight increase
-Serbia and Montenegro;2018;Unknown;Slight increase
-Slovakia;2018;12;Slight increase
-Slovenia;2018;11;Slight increase
-Spain;2018;13;Slight increase
-Sweden;2018;12;Slight increase
-Switzerland;2018;12;Slight increase
-Turkey;2018;12;Slight increase
-Ukraine;2018;12;Slight increase
-United Kingdom;2018;13;Slight increase
-Yugoslavia;2018;Unknown;Slight increase
 Albania;2019;11;Slight increase
-Andorra;2019;10;Slight increase
-Armenia;2019;11;Big increase
-Australia;2019;13;Slight increase
-Austria;2019;12;Slight increase
-Azerbaijan;2019;11;Slight increase
-Belarus;2019;11;Slight increase
-Belgium;2019;12;Slight increase
-Bosnia and Herzegovina;2019;11;Slight increase
-Bulgaria;2019;11;Slight increase
-Croatia;2019;11;Slight increase
-Cyprus;2019;11;Slight increase
-Czech Republic;2019;12;Slight increase
-Denmark;2019;12;Slight increase
-Estonia;2019;11;Slight increase
-Finland;2019;12;Slight increase
-France;2019;13;Slight increase
-Georgia;2019;11;Slight increase
-Germany;2019;13;Stagnation
-Greece;2019;12;Slight increase
-Hungary;2019;12;Slight increase
-Iceland;2019;11;Slight increase
-Ireland;2019;12;Big increase
-Israel;2019;12;Slight increase
-Italy;2019;13;Stagnation
-Latvia;2019;11;Slight increase
-Lithuania;2019;11;Slight increase
-Luxembourg;2019;11;Slight increase
-Macedonia;2019;11;Slight increase
-Malta;2019;11;Slight increase
-Moldova;2019;11;Slight increase
-Monaco;2019;Unknown;Unknown
-Montenegro;2019;10;Slight increase
-Morocco;2019;12;Slight increase
-The Netherlands;2019;12;Slight increase
-Norway;2019;12;Slight increase
-Poland;2019;12;Slight increase
-Portugal;2019;12;Slight increase
-Romania;2019;12;Slight increase
-Russia;2019;13;Slight increase
-San Marino;2019;Unknown;Unknown
-Serbia;2019;11;Slight increase
-Serbia and Montenegro;2019;Unknown;Slight increase
-Slovakia;2019;12;Slight increase
-Slovenia;2019;11;Slight increase
-Spain;2019;13;Slight increase
-Sweden;2019;12;Slight increase
-Switzerland;2019;12;Stagnation
-Turkey;2019;12;Stagnation
-Ukraine;2019;12;Slight increase
-United Kingdom;2019;13;Slight increase
-Yugoslavia;2019;Unknown;Slight increase
-Israel;2021;Unknown;Unknown
 Albania;2021;Unknown;Unknown
-San Marino;2021;Unknown;Unknown
-Iceland;2021;Unknown;Unknown
-Lithuania;2021;Unknown;Unknown
-Malta;2021;Unknown;Unknown
-Switzerland;2021;Unknown;Unknown
-France;2021;Unknown;Unknown
-Spain;2021;Unknown;Unknown
-Cyprus;2021;Unknown;Unknown
-Norway;2021;Unknown;Unknown
-United Kingdom;2021;Unknown;Unknown
-Ukraine;2021;Unknown;Unknown
-The Netherlands;2021;Unknown;Unknown
-Sweden;2021;Unknown;Unknown
+Armenia;2006;10;Huge increase
+Armenia;2007;10;Huge increase
+Armenia;2008;11;Big increase
+Armenia;2009;10;Huge decrease
+Armenia;2010;10;Slight increase
+Armenia;2013;11;Slight increase
+Armenia;2014;11;Slight increase
+Armenia;2015;11;Slight increase
+Armenia;2016;11;Stagnation
+Armenia;2017;11;Big increase
+Australia;2015;13;Slight increase
+Australia;2016;13;Slight increase
+Australia;2017;13;Slight increase
+Australia;2018;13;Slight increase
+Australia;2019;13;Slight increase
+Austria;1976;11;Slight increase
+Austria;1977;11;Big increase
+Austria;1978;11;Stagnation
+Austria;1979;11;Big increase
+Austria;1980;11;Slight increase
+Austria;1981;11;Stagnation
+Austria;1982;11;Slight increase
+Austria;1983;11;Slight increase
+Austria;1984;11;Stagnation
+Austria;1985;11;Slight increase
+Austria;1986;11;Slight increase
+Austria;1987;12;Slight increase
+Austria;1988;12;Slight increase
+Austria;1989;12;Slight increase
+Austria;1990;12;Slight increase
+Austria;1991;12;Slight increase
+Austria;1992;12;Slight increase
+Austria;1993;12;Stagnation
+Austria;1994;12;Slight increase
+Austria;1995;12;Slight increase
+Austria;1996;12;Slight increase
+Austria;1997;12;Slight increase
+Austria;1999;12;Slight increase
+Austria;2000;12;Slight increase
+Austria;2002;12;Slight increase
+Austria;2003;12;Stagnation
+Austria;2004;12;Slight increase
+Austria;2011;12;Slight increase
+Austria;2014;12;Stagnation
+Austria;2015;12;Slight increase
+Austria;2016;12;Slight increase
+Austria;2017;12;Slight increase
+Austria;2018;12;Slight increase
+Azerbaijan;2008;11;Huge increase
+Azerbaijan;2009;11;Big increase
+Azerbaijan;2010;11;Slight increase
+Azerbaijan;2011;11;Slight decrease
+Azerbaijan;2012;11;Slight increase
+Azerbaijan;2013;11;Big increase
+Azerbaijan;2014;11;Slight increase
+Azerbaijan;2015;11;Slight increase
+Azerbaijan;2016;11;Slight decrease
+Azerbaijan;2017;11;Stagnation
+Azerbaijan;2019;11;Slight increase
 Azerbaijan;2021;Unknown;Unknown
-Italy;2021;Unknown;Unknown
-Bulgaria;2021;Unknown;Unknown
+Belarus;2007;11;Big increase
+Belarus;2010;11;Big increase
+Belarus;2013;11;Slight increase
+Belarus;2014;11;Slight increase
+Belarus;2017;11;Slight increase
+Belarus;2019;11;Slight increase
+Belgium;1975;11;Slight decrease
+Belgium;1976;11;Big increase
+Belgium;1977;11;Stagnation
+Belgium;1978;12;Slight increase
+Belgium;1979;12;Slight increase
+Belgium;1980;12;Slight increase
+Belgium;1981;12;Stagnation
+Belgium;1982;11;Stagnation
+Belgium;1983;11;Stagnation
+Belgium;1984;11;Slight increase
+Belgium;1985;11;Slight increase
+Belgium;1986;12;Slight increase
+Belgium;1987;12;Slight increase
+Belgium;1988;12;Slight increase
+Belgium;1989;12;Slight increase
+Belgium;1990;12;Slight increase
+Belgium;1991;12;Slight increase
+Belgium;1992;12;Slight increase
+Belgium;1993;12;Stagnation
+Belgium;1995;12;Slight increase
+Belgium;1996;12;Slight increase
+Belgium;1998;12;Slight increase
+Belgium;1999;12;Slight increase
+Belgium;2000;12;Slight increase
+Belgium;2002;12;Slight increase
+Belgium;2003;12;Slight increase
+Belgium;2004;12;Slight increase
+Belgium;2010;12;Slight increase
+Belgium;2013;12;Stagnation
+Belgium;2015;12;Slight increase
+Belgium;2016;12;Slight increase
+Belgium;2017;12;Slight increase
 Belgium;2021;Unknown;Unknown
-Greece;2021;Unknown;Unknown
-Germany;2021;Unknown;Unknown
-Portugal;2021;Unknown;Unknown
-Russia;2021;Unknown;Unknown
-Serbia;2021;Unknown;Unknown
-Moldova;2021;Unknown;Unknown
+Bosnia and Herzegovina;1993;Unknown;Unknown
+Bosnia and Herzegovina;1994;10;Unknown
+Bosnia and Herzegovina;1995;10;Huge increase
+Bosnia and Herzegovina;1996;10;Huge increase
+Bosnia and Herzegovina;1997;10;Huge increase
+Bosnia and Herzegovina;1999;10;Big increase
+Bosnia and Herzegovina;2001;10;Slight increase
+Bosnia and Herzegovina;2002;10;Big increase
+Bosnia and Herzegovina;2003;10;Slight increase
+Bosnia and Herzegovina;2004;11;Big increase
+Bosnia and Herzegovina;2005;11;Big increase
+Bosnia and Herzegovina;2006;11;Big increase
+Bosnia and Herzegovina;2007;11;Big increase
+Bosnia and Herzegovina;2008;11;Big increase
+Bosnia and Herzegovina;2009;11;Slight decrease
+Bosnia and Herzegovina;2010;11;Stagnation
+Bosnia and Herzegovina;2011;11;Stagnation
+Bosnia and Herzegovina;2012;11;Stagnation
+Bulgaria;2007;11;Big increase
+Bulgaria;2016;11;Slight increase
+Bulgaria;2017;11;Slight increase
+Bulgaria;2018;11;Slight increase
+Bulgaria;2021;Unknown;Unknown
+Croatia;1993;Unknown;Unknown
+Croatia;1994;Unknown;Unknown
+Croatia;1995;11;Unknown
+Croatia;1996;11;Big increase
+Croatia;1997;11;Big increase
+Croatia;1998;11;Slight increase
+Croatia;1999;11;Stagnation
+Croatia;2000;11;Slight increase
+Croatia;2001;11;Slight increase
+Croatia;2002;11;Big increase
+Croatia;2003;11;Big increase
+Croatia;2004;11;Slight increase
+Croatia;2005;11;Slight increase
+Croatia;2006;11;Slight increase
+Croatia;2008;11;Slight increase
+Croatia;2009;11;Big decrease
+Croatia;2016;11;Slight increase
+Croatia;2017;11;Slight increase
+Cyprus;1981;10;Slight increase
+Cyprus;1982;10;Big increase
+Cyprus;1983;10;Big increase
+Cyprus;1984;10;Big increase
+Cyprus;1985;10;Slight increase
+Cyprus;1986;10;Slight increase
+Cyprus;1987;10;Big increase
+Cyprus;1989;10;Big increase
+Cyprus;1990;10;Big increase
+Cyprus;1991;10;Stagnation
+Cyprus;1992;10;Big increase
+Cyprus;1993;10;Stagnation
+Cyprus;1994;10;Big increase
+Cyprus;1995;10;Big increase
+Cyprus;1996;11;Slight increase
+Cyprus;1997;10;Slight increase
+Cyprus;1998;11;Big increase
+Cyprus;1999;11;Slight increase
+Cyprus;2000;10;Big increase
+Cyprus;2002;11;Slight increase
+Cyprus;2003;11;Slight increase
+Cyprus;2004;11;Big increase
+Cyprus;2005;11;Slight increase
+Cyprus;2010;11;Slight increase
+Cyprus;2012;11;Slight decrease
+Cyprus;2015;11;Slight increase
+Cyprus;2016;11;Big increase
+Cyprus;2017;11;Big increase
+Cyprus;2018;11;Big increase
+Cyprus;2019;11;Slight increase
+Cyprus;2021;Unknown;Unknown
+Czech Republic;2016;12;Slight increase
+Czech Republic;2018;12;Slight increase
+Czech Republic;2019;12;Slight increase
+Denmark;1978;11;Slight increase
+Denmark;1979;11;Slight increase
+Denmark;1980;11;Stagnation
+Denmark;1981;11;Stagnation
+Denmark;1982;11;Slight increase
+Denmark;1983;11;Slight increase
+Denmark;1984;11;Slight increase
+Denmark;1985;11;Slight increase
+Denmark;1986;11;Slight increase
+Denmark;1987;12;Stagnation
+Denmark;1988;12;Stagnation
+Denmark;1989;12;Stagnation
+Denmark;1990;12;Slight increase
+Denmark;1991;12;Slight increase
+Denmark;1992;12;Slight increase
+Denmark;1993;12;Stagnation
+Denmark;1995;12;Slight increase
+Denmark;1997;12;Slight increase
+Denmark;1999;12;Slight increase
+Denmark;2000;12;Slight increase
+Denmark;2001;12;Stagnation
+Denmark;2002;12;Stagnation
+Denmark;2005;12;Slight increase
+Denmark;2006;12;Slight increase
+Denmark;2008;12;Stagnation
+Denmark;2009;12;Slight decrease
+Denmark;2010;12;Slight increase
+Denmark;2011;12;Slight increase
+Denmark;2012;12;Stagnation
+Denmark;2013;12;Stagnation
+Denmark;2014;12;Slight increase
+Denmark;2017;12;Slight increase
+Denmark;2018;12;Slight increase
+Denmark;2019;12;Slight increase
+Estonia;1994;10;Slight decrease
+Estonia;1996;10;Slight increase
+Estonia;1997;10;Huge increase
+Estonia;1998;10;Slight increase
+Estonia;1999;10;Stagnation
+Estonia;2000;10;Huge increase
+Estonia;2001;10;Big increase
+Estonia;2002;10;Big increase
+Estonia;2003;10;Big increase
+Estonia;2009;11;Huge decrease
+Estonia;2011;11;Big increase
+Estonia;2012;11;Slight increase
+Estonia;2013;11;Slight increase
+Estonia;2015;11;Slight increase
+Estonia;2018;11;Slight increase
+Estonia;2019;11;Slight increase
+Finland;1975;11;Slight increase
+Finland;1976;11;Stagnation
+Finland;1977;11;Stagnation
+Finland;1978;11;Slight increase
+Finland;1979;11;Big increase
+Finland;1980;11;Big increase
+Finland;1981;11;Slight increase
+Finland;1982;11;Slight increase
+Finland;1983;11;Slight increase
+Finland;1984;11;Slight increase
+Finland;1985;11;Slight increase
+Finland;1986;11;Slight increase
+Finland;1987;11;Slight increase
+Finland;1988;12;Big increase
+Finland;1989;12;Big increase
+Finland;1990;12;Stagnation
+Finland;1991;12;Big decrease
+Finland;1992;12;Slight decrease
+Finland;1993;11;Stagnation
+Finland;1994;12;Slight increase
+Finland;1996;12;Slight increase
+Finland;1998;12;Big increase
+Finland;2000;12;Big increase
+Finland;2002;12;Slight increase
+Finland;2006;12;Slight increase
+Finland;2007;12;Big increase
+Finland;2008;12;Stagnation
+Finland;2009;12;Big decrease
+Finland;2011;12;Slight increase
+Finland;2013;12;Stagnation
+Finland;2014;12;Stagnation
+Finland;2018;12;Slight increase
 Finland;2021;Unknown;Unknown
+France;1975;12;Stagnation
+France;1976;12;Slight increase
+France;1977;12;Slight increase
+France;1978;12;Slight increase
+France;1979;12;Slight increase
+France;1980;12;Slight increase
+France;1981;12;Slight increase
+France;1983;12;Slight increase
+France;1984;12;Slight increase
+France;1985;12;Slight increase
+France;1986;12;Slight increase
+France;1987;12;Slight increase
+France;1988;13;Slight increase
+France;1989;13;Slight increase
+France;1990;13;Slight increase
+France;1991;13;Slight increase
+France;1992;13;Slight increase
+France;1993;13;Stagnation
+France;1994;13;Slight increase
+France;1995;13;Slight increase
+France;1996;13;Slight increase
+France;1997;13;Slight increase
+France;1998;13;Slight increase
+France;1999;13;Slight increase
+France;2000;13;Slight increase
+France;2001;13;Slight increase
+France;2002;13;Slight increase
+France;2003;13;Stagnation
+France;2004;13;Slight increase
+France;2005;13;Slight increase
+France;2006;13;Slight increase
+France;2007;13;Slight increase
+France;2008;13;Stagnation
+France;2009;13;Slight decrease
+France;2010;13;Slight increase
+France;2011;13;Slight increase
+France;2012;13;Stagnation
+France;2013;13;Stagnation
+France;2014;13;Stagnation
+France;2015;13;Slight increase
+France;2016;13;Slight increase
+France;2017;13;Slight increase
+France;2018;13;Slight increase
+France;2019;13;Slight increase
+France;2021;Unknown;Unknown
+Georgia;2007;11;Huge increase
+Georgia;2008;11;Slight increase
+Georgia;2010;11;Big increase
+Georgia;2011;11;Big increase
+Georgia;2013;11;Slight increase
+Georgia;2015;11;Slight increase
+Georgia;2016;11;Slight increase
+Germany;1975;12;Stagnation
+Germany;1976;12;Slight increase
+Germany;1977;12;Slight increase
+Germany;1978;12;Slight increase
+Germany;1979;12;Slight increase
+Germany;1980;12;Slight increase
+Germany;1981;12;Stagnation
+Germany;1982;12;Stagnation
+Germany;1983;12;Slight increase
+Germany;1984;12;Slight increase
+Germany;1985;12;Slight increase
+Germany;1986;13;Slight increase
+Germany;1987;13;Slight increase
+Germany;1988;13;Slight increase
+Germany;1989;13;Slight increase
+Germany;1990;13;Big increase
+Germany;1991;13;Big increase
+Germany;1992;13;Slight increase
+Germany;1993;13;Stagnation
+Germany;1994;13;Slight increase
+Germany;1995;13;Slight increase
+Germany;1997;13;Slight increase
+Germany;1998;13;Slight increase
+Germany;1999;13;Slight increase
+Germany;2000;13;Slight increase
+Germany;2001;13;Slight increase
+Germany;2002;13;Stagnation
+Germany;2003;13;Stagnation
+Germany;2004;13;Slight increase
+Germany;2005;13;Stagnation
+Germany;2006;13;Slight increase
+Germany;2007;13;Slight increase
+Germany;2008;13;Stagnation
+Germany;2009;13;Big decrease
+Germany;2010;13;Slight increase
+Germany;2011;13;Slight increase
+Germany;2012;13;Stagnation
+Germany;2013;13;Stagnation
+Germany;2014;13;Slight increase
+Germany;2015;13;Slight increase
+Germany;2016;13;Slight increase
+Germany;2017;13;Slight increase
+Germany;2018;13;Slight increase
+Germany;2019;13;Stagnation
+Germany;2021;Unknown;Unknown
+Greece;1976;11;Big increase
+Greece;1977;11;Slight increase
+Greece;1978;11;Big increase
+Greece;1979;11;Slight increase
+Greece;1980;11;Stagnation
+Greece;1981;11;Slight decrease
+Greece;1983;11;Slight decrease
+Greece;1985;11;Slight increase
+Greece;1987;11;Slight decrease
+Greece;1988;11;Slight increase
+Greece;1989;11;Slight increase
+Greece;1990;11;Unknown
+Greece;1991;12;Slight increase
+Greece;1992;12;Stagnation
+Greece;1993;12;Slight decrease
+Greece;1994;12;Slight increase
+Greece;1995;12;Slight increase
+Greece;1996;12;Slight increase
+Greece;1997;12;Slight increase
+Greece;1998;12;Slight increase
+Greece;2001;12;Slight increase
+Greece;2002;12;Slight increase
+Greece;2003;12;Big increase
+Greece;2004;12;Big increase
+Greece;2005;12;Stagnation
+Greece;2006;12;Big increase
+Greece;2007;12;Slight increase
+Greece;2008;12;Stagnation
+Greece;2009;12;Slight decrease
+Greece;2010;12;Big decrease
+Greece;2011;12;Big decrease
+Greece;2012;12;Big decrease
+Greece;2013;12;Slight decrease
+Greece;2014;12;Stagnation
+Greece;2015;12;Stagnation
+Greece;2017;12;Slight increase
+Greece;2019;12;Slight increase
+Greece;2021;Unknown;Unknown
+Hungary;1994;11;Slight increase
+Hungary;1995;11;Slight increase
+Hungary;1997;11;Slight increase
+Hungary;1998;11;Slight increase
+Hungary;2005;12;Slight increase
+Hungary;2007;12;Stagnation
+Hungary;2011;12;Slight increase
+Hungary;2012;12;Slight decrease
+Hungary;2013;12;Slight increase
+Hungary;2014;12;Slight increase
+Hungary;2015;12;Slight increase
+Hungary;2016;12;Slight increase
+Hungary;2017;12;Slight increase
+Hungary;2018;12;Big increase
+Iceland;1986;10;Big increase
+Iceland;1987;10;Big increase
+Iceland;1988;10;Stagnation
+Iceland;1989;10;Stagnation
+Iceland;1990;10;Slight increase
+Iceland;1991;10;Stagnation
+Iceland;1992;10;Slight decrease
+Iceland;1993;10;Slight increase
+Iceland;1994;10;Slight increase
+Iceland;1995;10;Stagnation
+Iceland;1996;10;Slight increase
+Iceland;1997;10;Big increase
+Iceland;1999;10;Slight increase
+Iceland;2000;10;Slight increase
+Iceland;2001;10;Slight increase
+Iceland;2003;11;Slight increase
+Iceland;2004;11;Big increase
+Iceland;2008;11;Slight increase
+Iceland;2009;11;Big decrease
+Iceland;2010;11;Slight decrease
+Iceland;2011;11;Slight increase
+Iceland;2012;11;Slight increase
+Iceland;2013;11;Slight increase
+Iceland;2014;11;Slight increase
+Iceland;2019;11;Slight increase
+Iceland;2021;Unknown;Unknown
+Ireland;1975;10;Big increase
+Ireland;1976;10;Slight increase
+Ireland;1977;11;Big increase
+Ireland;1978;11;Big increase
+Ireland;1979;11;Slight increase
+Ireland;1980;11;Slight increase
+Ireland;1981;11;Slight increase
+Ireland;1982;11;Slight increase
+Ireland;1984;11;Slight increase
+Ireland;1985;11;Slight increase
+Ireland;1986;11;Stagnation
+Ireland;1987;11;Slight increase
+Ireland;1988;11;Big increase
+Ireland;1989;11;Big increase
+Ireland;1990;11;Big increase
+Ireland;1991;11;Slight increase
+Ireland;1992;11;Slight increase
+Ireland;1993;11;Slight increase
+Ireland;1994;11;Big increase
+Ireland;1995;11;Big increase
+Ireland;1996;11;Big increase
+Ireland;1997;11;Huge increase
+Ireland;1998;11;Big increase
+Ireland;1999;11;Huge increase
+Ireland;2000;11;Big increase
+Ireland;2001;12;Big increase
+Ireland;2003;12;Slight increase
+Ireland;2004;12;Big increase
+Ireland;2006;12;Big increase
+Ireland;2007;12;Big increase
+Ireland;2010;12;Slight increase
+Ireland;2011;12;Stagnation
+Ireland;2012;12;Stagnation
+Ireland;2013;12;Slight increase
+Ireland;2018;12;Big increase
+Israel;1975;11;Slight increase
+Israel;1976;11;Stagnation
+Israel;1977;11;Slight increase
+Israel;1978;11;Big increase
+Israel;1979;11;Big increase
+Israel;1981;11;Big increase
+Israel;1982;11;Slight increase
+Israel;1983;11;Slight increase
+Israel;1985;11;Slight increase
+Israel;1986;11;Slight increase
+Israel;1987;11;Big increase
+Israel;1988;11;Slight increase
+Israel;1989;11;Stagnation
+Israel;1990;11;Big increase
+Israel;1991;11;Big increase
+Israel;1992;11;Big increase
+Israel;1993;11;Slight increase
+Israel;1995;12;Huge increase
+Israel;1998;12;Slight increase
+Israel;1999;12;Slight increase
+Israel;2000;12;Big increase
+Israel;2001;12;Stagnation
+Israel;2002;12;Stagnation
+Israel;2003;12;Stagnation
+Israel;2005;12;Slight increase
+Israel;2006;12;Big increase
+Israel;2008;12;Slight increase
+Israel;2009;12;Stagnation
+Israel;2010;12;Big increase
+Israel;2015;12;Slight increase
+Israel;2016;12;Slight increase
+Israel;2017;12;Slight increase
+Israel;2018;12;Slight increase
+Israel;2019;12;Slight increase
+Israel;2021;Unknown;Unknown
+Italy;1975;12;Slight decrease
+Italy;1976;12;Big increase
+Italy;1977;12;Slight increase
+Italy;1978;12;Slight increase
+Italy;1979;12;Big increase
+Italy;1980;12;Slight increase
+Italy;1983;12;Slight increase
+Italy;1984;12;Slight increase
+Italy;1985;12;Slight increase
+Italy;1987;12;Slight increase
+Italy;1988;12;Slight increase
+Italy;1989;12;Slight increase
+Italy;1990;13;Slight increase
+Italy;1991;13;Slight increase
+Italy;1992;13;Stagnation
+Italy;1993;13;Stagnation
+Italy;1997;13;Slight increase
+Italy;2011;13;Stagnation
+Italy;2012;13;Slight decrease
+Italy;2013;13;Slight decrease
+Italy;2014;13;Stagnation
+Italy;2015;13;Stagnation
+Italy;2016;13;Slight increase
+Italy;2017;13;Slight increase
+Italy;2018;13;Stagnation
+Italy;2019;13;Stagnation
+Italy;2021;Unknown;Unknown
+Latvia;2000;10;Big increase
+Latvia;2001;10;Big increase
+Latvia;2002;10;Big increase
+Latvia;2003;11;Big increase
+Latvia;2005;11;Huge increase
+Latvia;2006;11;Huge increase
+Latvia;2007;11;Huge increase
+Latvia;2008;11;Slight decrease
+Latvia;2015;11;Slight increase
+Latvia;2016;11;Slight increase
+Lithuania;1994;Unknown;Unknown
+Lithuania;1999;11;Slight decrease
+Lithuania;2001;11;Big increase
+Lithuania;2002;11;Big increase
+Lithuania;2006;11;Big increase
+Lithuania;2007;11;Huge increase
+Lithuania;2009;11;Huge decrease
+Lithuania;2011;11;Big increase
+Lithuania;2012;11;Slight increase
+Lithuania;2013;11;Slight increase
+Lithuania;2015;11;Slight increase
+Lithuania;2016;11;Slight increase
+Lithuania;2018;11;Slight increase
+Lithuania;2021;Unknown;Unknown
+Luxembourg;1975;10;Big decrease
+Luxembourg;1976;10;Slight increase
+Luxembourg;1977;10;Slight increase
+Luxembourg;1978;10;Slight increase
+Luxembourg;1979;10;Slight increase
+Luxembourg;1980;10;Stagnation
+Luxembourg;1981;10;Stagnation
+Luxembourg;1982;10;Slight increase
+Luxembourg;1983;10;Slight increase
+Luxembourg;1984;10;Big increase
+Luxembourg;1985;10;Slight increase
+Luxembourg;1986;10;Big increase
+Luxembourg;1987;10;Slight increase
+Luxembourg;1988;10;Big increase
+Luxembourg;1989;11;Big increase
+Luxembourg;1990;11;Big increase
+Luxembourg;1991;11;Big increase
+Luxembourg;1992;11;Slight increase
+Luxembourg;1993;11;Slight increase
+Macedonia;1998;10;Slight increase
+Macedonia;2000;10;Slight increase
+Macedonia;2002;10;Slight increase
+Macedonia;2004;10;Slight increase
+Macedonia;2005;10;Slight increase
+Macedonia;2006;10;Big increase
+Macedonia;2007;10;Big increase
+Macedonia;2012;10;Stagnation
+Macedonia;2019;11;Slight increase
+Malta;1975;9;Huge increase
+Malta;1991;10;Big increase
+Malta;1992;10;Slight increase
+Malta;1993;10;Slight increase
+Malta;1994;10;Big increase
+Malta;1995;10;Big increase
+Malta;1996;10;Slight increase
+Malta;1997;10;Big increase
+Malta;1998;10;Big increase
+Malta;1999;10;Slight increase
+Malta;2000;10;Big increase
+Malta;2001;10;Slight decrease
+Malta;2002;10;Slight increase
+Malta;2003;10;Slight increase
+Malta;2004;10;Stagnation
+Malta;2005;10;Slight increase
+Malta;2006;10;Slight increase
+Malta;2009;10;Slight decrease
+Malta;2012;10;Slight increase
+Malta;2013;11;Big increase
+Malta;2014;11;Big increase
+Malta;2016;11;Slight increase
+Malta;2019;11;Slight increase
+Malta;2021;Unknown;Unknown
+Moldova;2005;10;Big increase
+Moldova;2006;10;Slight increase
+Moldova;2007;10;Slight increase
+Moldova;2009;10;Big decrease
+Moldova;2010;10;Big increase
+Moldova;2011;10;Big increase
+Moldova;2012;10;Stagnation
+Moldova;2013;10;Big increase
+Moldova;2017;10;Slight increase
+Moldova;2018;11;Slight increase
+Moldova;2021;Unknown;Unknown
+Monaco;1975;9;Stagnation
+Monaco;1976;9;Slight increase
+Monaco;1977;9;Slight increase
+Monaco;1978;10;Slight increase
+Monaco;1979;10;Slight increase
+Montenegro;2014;10;Slight increase
+Montenegro;2015;10;Slight increase
+Morocco;1980;11;Slight increase
+Norway;1975;11;Slight increase
+Norway;1976;11;Big increase
+Norway;1977;11;Slight increase
+Norway;1978;11;Slight increase
+Norway;1979;11;Slight increase
+Norway;1980;11;Slight increase
+Norway;1981;11;Slight increase
+Norway;1982;11;Stagnation
+Norway;1983;11;Slight increase
+Norway;1984;11;Big increase
+Norway;1985;11;Big increase
+Norway;1986;11;Slight increase
+Norway;1987;11;Slight increase
+Norway;1988;12;Stagnation
+Norway;1989;12;Slight increase
+Norway;1990;12;Slight increase
+Norway;1991;12;Slight increase
+Norway;1992;12;Slight increase
+Norway;1993;12;Slight increase
+Norway;1994;12;Big increase
+Norway;1995;12;Slight increase
+Norway;1996;12;Big increase
+Norway;1997;12;Big increase
+Norway;1998;12;Slight increase
+Norway;1999;12;Slight increase
+Norway;2000;12;Slight increase
+Norway;2001;12;Slight increase
+Norway;2003;12;Stagnation
+Norway;2004;12;Slight increase
+Norway;2005;12;Slight increase
+Norway;2006;12;Slight increase
+Norway;2008;12;Stagnation
+Norway;2009;12;Slight decrease
+Norway;2010;12;Stagnation
+Norway;2012;12;Slight increase
+Norway;2013;12;Slight increase
+Norway;2014;12;Slight increase
+Norway;2015;12;Slight increase
+Norway;2017;12;Slight increase
+Norway;2018;12;Slight increase
+Norway;2019;12;Slight increase
+Norway;2021;Unknown;Unknown
+Poland;1994;12;Big increase
+Poland;1995;12;Big increase
+Poland;1996;12;Big increase
+Poland;1997;12;Big increase
+Poland;1998;12;Slight increase
+Poland;1999;12;Slight increase
+Poland;2001;12;Slight increase
+Poland;2003;12;Slight increase
+Poland;2004;12;Slight increase
+Poland;2008;12;Slight increase
+Poland;2014;12;Slight increase
+Poland;2015;12;Slight increase
+Poland;2016;12;Slight increase
+Poland;2017;12;Slight increase
+Portugal;1975;11;Slight decrease
+Portugal;1976;11;Big increase
+Portugal;1977;11;Big increase
+Portugal;1978;11;Slight increase
+Portugal;1979;11;Big increase
+Portugal;1980;11;Slight increase
+Portugal;1981;11;Slight increase
+Portugal;1982;11;Slight increase
+Portugal;1983;11;Stagnation
+Portugal;1984;11;Slight decrease
+Portugal;1985;11;Slight increase
+Portugal;1986;11;Slight increase
+Portugal;1987;11;Big increase
+Portugal;1988;11;Big increase
+Portugal;1989;11;Big increase
+Portugal;1990;11;Slight increase
+Portugal;1991;11;Slight increase
+Portugal;1992;12;Slight increase
+Portugal;1993;11;Slight decrease
+Portugal;1994;11;Stagnation
+Portugal;1995;12;Slight increase
+Portugal;1996;12;Slight increase
+Portugal;1997;12;Slight increase
+Portugal;1998;12;Slight increase
+Portugal;1999;12;Slight increase
+Portugal;2001;12;Slight increase
+Portugal;2003;12;Stagnation
+Portugal;2008;12;Stagnation
+Portugal;2009;12;Slight decrease
+Portugal;2010;12;Slight increase
+Portugal;2017;12;Slight increase
+Portugal;2018;12;Slight increase
+Portugal;2021;Unknown;Unknown
+Romania;1994;11;Slight increase
+Romania;1998;11;Slight decrease
+Romania;2000;11;Slight increase
+Romania;2002;11;Big increase
+Romania;2003;11;Slight increase
+Romania;2004;11;Huge increase
+Romania;2005;11;Slight increase
+Romania;2006;12;Big increase
+Romania;2007;12;Big increase
+Romania;2008;12;Big increase
+Romania;2009;12;Big decrease
+Romania;2010;12;Slight decrease
+Romania;2011;12;Slight increase
+Romania;2012;12;Slight increase
+Romania;2013;12;Slight increase
+Romania;2014;12;Slight increase
+Romania;2015;12;Slight increase
+Romania;2017;12;Big increase
+Russia;1994;12;Huge decrease
+Russia;1995;12;Slight decrease
+Russia;1997;12;Slight increase
+Russia;2000;12;Huge increase
+Russia;2001;12;Big increase
+Russia;2002;12;Slight increase
+Russia;2003;12;Big increase
+Russia;2004;12;Big increase
+Russia;2005;12;Big increase
+Russia;2006;12;Big increase
+Russia;2007;13;Big increase
+Russia;2008;13;Big increase
+Russia;2009;13;Big decrease
+Russia;2010;13;Slight increase
+Russia;2011;13;Slight increase
+Russia;2012;13;Slight increase
+Russia;2013;13;Slight increase
+Russia;2014;13;Stagnation
+Russia;2015;13;Slight decrease
+Russia;2016;13;Stagnation
+Russia;2019;13;Slight increase
+Russia;2021;Unknown;Unknown
+San Marino;2014;10;Stagnation
+San Marino;2019;Unknown;Unknown
+San Marino;2021;Unknown;Unknown
+Serbia;2007;11;Big increase
+Serbia;2008;11;Big increase
+Serbia;2010;11;Stagnation
+Serbia;2011;11;Slight increase
+Serbia;2012;11;Stagnation
+Serbia;2015;11;Slight increase
+Serbia;2016;11;Slight increase
+Serbia;2018;11;Slight increase
+Serbia;2019;11;Slight increase
+Serbia;2021;Unknown;Unknown
+Serbia and Montenegro;2004;Unknown;Big increase
+Serbia and Montenegro;2005;Unknown;Slight increase
+Slovakia;1994;11;Big increase
+Slovakia;1996;11;Big increase
+Slovakia;1998;11;Slight increase
+Slovenia;1993;11;Slight increase
+Slovenia;1995;11;Slight increase
+Slovenia;1996;11;Slight increase
+Slovenia;1997;11;Big increase
+Slovenia;1998;11;Slight increase
+Slovenia;1999;11;Big increase
+Slovenia;2001;11;Slight increase
+Slovenia;2002;11;Slight increase
+Slovenia;2003;11;Slight increase
+Slovenia;2007;11;Big increase
+Slovenia;2011;11;Stagnation
+Slovenia;2014;11;Slight increase
+Slovenia;2015;11;Slight increase
+Slovenia;2018;11;Slight increase
+Slovenia;2019;11;Slight increase
+Spain;1975;12;Stagnation
+Spain;1976;12;Slight increase
+Spain;1977;12;Slight increase
+Spain;1978;12;Slight increase
+Spain;1979;12;Stagnation
+Spain;1980;12;Slight increase
+Spain;1981;12;Stagnation
+Spain;1982;12;Slight increase
+Spain;1983;12;Slight increase
+Spain;1984;12;Slight increase
+Spain;1985;12;Slight increase
+Spain;1986;12;Slight increase
+Spain;1987;12;Big increase
+Spain;1988;12;Big increase
+Spain;1989;12;Slight increase
+Spain;1990;12;Slight increase
+Spain;1991;12;Slight increase
+Spain;1992;12;Stagnation
+Spain;1993;12;Slight decrease
+Spain;1994;12;Slight increase
+Spain;1995;12;Slight increase
+Spain;1996;12;Slight increase
+Spain;1997;12;Slight increase
+Spain;1998;12;Slight increase
+Spain;1999;12;Slight increase
+Spain;2000;12;Big increase
+Spain;2001;12;Slight increase
+Spain;2002;12;Slight increase
+Spain;2003;12;Slight increase
+Spain;2004;13;Slight increase
+Spain;2005;13;Slight increase
+Spain;2006;13;Slight increase
+Spain;2007;13;Slight increase
+Spain;2008;13;Stagnation
+Spain;2009;13;Slight decrease
+Spain;2010;13;Stagnation
+Spain;2011;13;Stagnation
+Spain;2012;13;Slight decrease
+Spain;2013;13;Slight decrease
+Spain;2014;13;Slight increase
+Spain;2015;13;Slight increase
+Spain;2016;13;Slight increase
+Spain;2017;13;Slight increase
+Spain;2018;13;Slight increase
+Spain;2019;13;Slight increase
+Spain;2021;Unknown;Unknown
+Sweden;1975;11;Slight increase
+Sweden;1977;11;Slight decrease
+Sweden;1978;12;Slight increase
+Sweden;1979;12;Slight increase
+Sweden;1980;12;Slight increase
+Sweden;1981;12;Stagnation
+Sweden;1982;12;Slight increase
+Sweden;1983;12;Slight increase
+Sweden;1984;12;Slight increase
+Sweden;1985;12;Slight increase
+Sweden;1986;12;Slight increase
+Sweden;1987;12;Slight increase
+Sweden;1988;12;Slight increase
+Sweden;1989;12;Slight increase
+Sweden;1990;12;Stagnation
+Sweden;1991;12;Slight decrease
+Sweden;1992;12;Slight decrease
+Sweden;1993;12;Slight decrease
+Sweden;1994;12;Slight increase
+Sweden;1995;12;Slight increase
+Sweden;1996;12;Slight increase
+Sweden;1997;12;Slight increase
+Sweden;1998;12;Slight increase
+Sweden;1999;12;Slight increase
+Sweden;2000;12;Slight increase
+Sweden;2001;12;Slight increase
+Sweden;2002;12;Slight increase
+Sweden;2003;12;Slight increase
+Sweden;2004;12;Slight increase
+Sweden;2005;12;Slight increase
+Sweden;2006;12;Slight increase
+Sweden;2007;12;Slight increase
+Sweden;2008;12;Stagnation
+Sweden;2009;12;Slight decrease
+Sweden;2011;12;Slight increase
+Sweden;2012;12;Stagnation
+Sweden;2013;12;Slight increase
+Sweden;2014;12;Slight increase
+Sweden;2015;12;Slight increase
+Sweden;2016;12;Slight increase
+Sweden;2017;12;Slight increase
+Sweden;2018;12;Slight increase
+Sweden;2019;12;Slight increase
+Sweden;2021;Unknown;Unknown
+Switzerland;1975;11;Big decrease
+Switzerland;1976;11;Slight decrease
+Switzerland;1977;11;Slight increase
+Switzerland;1978;11;Stagnation
+Switzerland;1979;12;Slight increase
+Switzerland;1980;12;Slight increase
+Switzerland;1981;12;Slight increase
+Switzerland;1982;12;Slight decrease
+Switzerland;1983;12;Stagnation
+Switzerland;1984;12;Slight increase
+Switzerland;1985;12;Slight increase
+Switzerland;1986;12;Slight increase
+Switzerland;1987;12;Slight increase
+Switzerland;1988;12;Slight increase
+Switzerland;1989;12;Slight increase
+Switzerland;1990;12;Slight increase
+Switzerland;1991;12;Stagnation
+Switzerland;1992;12;Stagnation
+Switzerland;1993;12;Stagnation
+Switzerland;1994;12;Slight increase
+Switzerland;1996;12;Stagnation
+Switzerland;1997;12;Slight increase
+Switzerland;1998;12;Slight increase
+Switzerland;2000;12;Slight increase
+Switzerland;2002;12;Stagnation
+Switzerland;2005;12;Slight increase
+Switzerland;2006;12;Slight increase
+Switzerland;2011;12;Slight increase
+Switzerland;2014;12;Slight increase
+Switzerland;2019;12;Stagnation
+Switzerland;2021;Unknown;Unknown
+The Netherlands;1975;12;Stagnation
+The Netherlands;1976;12;Slight increase
+The Netherlands;1977;12;Slight increase
+The Netherlands;1978;12;Slight increase
+The Netherlands;1979;12;Slight increase
+The Netherlands;1980;12;Slight increase
+The Netherlands;1981;12;Stagnation
+The Netherlands;1982;12;Slight decrease
+The Netherlands;1983;12;Slight increase
+The Netherlands;1984;12;Slight increase
+The Netherlands;1986;12;Slight increase
+The Netherlands;1987;12;Slight increase
+The Netherlands;1988;12;Slight increase
+The Netherlands;1989;12;Slight increase
+The Netherlands;1990;12;Slight increase
+The Netherlands;1992;12;Slight increase
+The Netherlands;1993;12;Slight increase
+The Netherlands;1994;12;Slight increase
+The Netherlands;1996;12;Slight increase
+The Netherlands;1997;12;Slight increase
+The Netherlands;1998;12;Slight increase
+The Netherlands;1999;12;Big increase
+The Netherlands;2000;12;Slight increase
+The Netherlands;2001;12;Slight increase
+The Netherlands;2003;12;Stagnation
+The Netherlands;2004;12;Slight increase
+The Netherlands;2013;12;Stagnation
+The Netherlands;2014;12;Slight increase
+The Netherlands;2016;12;Slight increase
+The Netherlands;2017;12;Slight increase
+The Netherlands;2018;12;Slight increase
+The Netherlands;2019;12;Slight increase
+The Netherlands;2021;Unknown;Unknown
+Turkey;1975;11;Big increase
+Turkey;1978;11;Slight increase
+Turkey;1980;11;Slight decrease
+Turkey;1981;11;Slight increase
+Turkey;1982;11;Slight increase
+Turkey;1983;11;Slight increase
+Turkey;1984;11;Big increase
+Turkey;1985;11;Slight increase
+Turkey;1986;11;Big increase
+Turkey;1987;11;Big increase
+Turkey;1988;11;Slight increase
+Turkey;1989;12;Stagnation
+Turkey;1990;12;Big increase
+Turkey;1991;12;Stagnation
+Turkey;1992;12;Big increase
+Turkey;1993;12;Big increase
+Turkey;1995;12;Big increase
+Turkey;1996;12;Big increase
+Turkey;1997;12;Big increase
+Turkey;1998;12;Slight increase
+Turkey;1999;12;Slight decrease
+Turkey;2000;12;Big increase
+Turkey;2001;12;Big decrease
+Turkey;2002;12;Big increase
+Turkey;2003;12;Big increase
+Turkey;2004;12;Big increase
+Turkey;2005;12;Big increase
+Turkey;2006;12;Big increase
+Turkey;2007;12;Big increase
+Turkey;2008;12;Stagnation
+Turkey;2009;12;Slight decrease
+Turkey;2010;12;Big increase
+Turkey;2012;12;Slight increase
+Ukraine;2003;11;Big increase
+Ukraine;2004;11;Huge increase
+Ukraine;2005;11;Slight increase
+Ukraine;2006;12;Big increase
+Ukraine;2007;12;Big increase
+Ukraine;2008;12;Slight increase
+Ukraine;2009;12;Huge decrease
+Ukraine;2010;12;Slight increase
+Ukraine;2011;12;Big increase
+Ukraine;2012;12;Stagnation
+Ukraine;2013;12;Stagnation
+Ukraine;2014;12;Big decrease
+Ukraine;2016;11;Slight increase
+Ukraine;2017;12;Slight increase
+Ukraine;2018;12;Slight increase
+Ukraine;2021;Unknown;Unknown
+United Kingdom;1975;12;Slight decrease
+United Kingdom;1976;12;Slight increase
+United Kingdom;1977;12;Slight increase
+United Kingdom;1978;12;Slight increase
+United Kingdom;1979;12;Slight increase
+United Kingdom;1980;12;Slight decrease
+United Kingdom;1981;12;Stagnation
+United Kingdom;1982;12;Slight increase
+United Kingdom;1983;12;Slight increase
+United Kingdom;1984;12;Slight increase
+United Kingdom;1985;12;Slight increase
+United Kingdom;1986;12;Slight increase
+United Kingdom;1987;12;Big increase
+United Kingdom;1988;12;Big increase
+United Kingdom;1989;12;Slight increase
+United Kingdom;1990;13;Stagnation
+United Kingdom;1991;13;Slight decrease
+United Kingdom;1992;13;Stagnation
+United Kingdom;1993;13;Slight increase
+United Kingdom;1994;13;Slight increase
+United Kingdom;1995;13;Slight increase
+United Kingdom;1996;13;Slight increase
+United Kingdom;1997;13;Slight increase
+United Kingdom;1998;13;Slight increase
+United Kingdom;1999;13;Slight increase
+United Kingdom;2000;13;Slight increase
+United Kingdom;2001;13;Slight increase
+United Kingdom;2002;13;Slight increase
+United Kingdom;2003;13;Slight increase
+United Kingdom;2004;13;Slight increase
+United Kingdom;2005;13;Slight increase
+United Kingdom;2006;13;Slight increase
+United Kingdom;2007;13;Slight increase
+United Kingdom;2008;13;Stagnation
+United Kingdom;2009;13;Slight decrease
+United Kingdom;2010;13;Slight increase
+United Kingdom;2011;13;Slight increase
+United Kingdom;2012;13;Slight increase
+United Kingdom;2013;13;Slight increase
+United Kingdom;2014;13;Slight increase
+United Kingdom;2015;13;Slight increase
+United Kingdom;2016;13;Slight increase
+United Kingdom;2017;13;Slight increase
+United Kingdom;2018;13;Slight increase
+United Kingdom;2019;13;Slight increase
+United Kingdom;2021;Unknown;Unknown
+Yugoslavia;1975;Unknown;Unknown
+Yugoslavia;1976;Unknown;Unknown
+Yugoslavia;1981;Unknown;Unknown
+Yugoslavia;1982;Unknown;Unknown
+Yugoslavia;1983;Unknown;Unknown
+Yugoslavia;1984;Unknown;Unknown
+Yugoslavia;1986;Unknown;Unknown
+Yugoslavia;1987;Unknown;Unknown
+Yugoslavia;1988;Unknown;Unknown
+Yugoslavia;1989;Unknown;Unknown
+Yugoslavia;1990;Unknown;Unknown
+Yugoslavia;1991;Unknown;Unknown
+Yugoslavia;1992;Unknown;Unknown
